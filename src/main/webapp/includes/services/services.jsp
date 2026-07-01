@@ -48,6 +48,7 @@
         .section-header {
             text-align: center;
             margin-bottom: 3.5rem;
+            margin-top: 3.5rem;
         }
 
         .eyebrow-badge,
@@ -305,6 +306,7 @@
             grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
             gap: 2rem;
             margin-top: 1rem;
+            margin-bottom: 1rem;
         }
 
         /* ========== SERVICE CARD - MODERN DESIGN ========== */
@@ -974,6 +976,54 @@
                     </div>
                 </div>
             </div>
+            
+            <div class="service-card" onclick="window.location.href='${pageContext.request.contextPath}/services/dmart-seller-onboarding/'">
+			    <div class="card-inner">
+			        <div class="card-header">
+			            <div class="card-title">
+			                <img src="${pageContext.request.contextPath}/assets/images/dmart.jpg"
+			                     alt="DMart Seller Onboarding"
+			                     class="service-logo">
+			            </div>
+			
+			            <a href="${pageContext.request.contextPath}/services/dmart-seller-onboarding/"
+			               class="card-arrow"
+			               onclick="event.stopPropagation()">
+			                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+			                    <path d="M7 17L17 7M17 7H7M17 7V17"
+			                          stroke-width="2"
+			                          stroke-linecap="round"/>
+			                </svg>
+			            </a>
+			        </div>
+			
+			        <p class="card-description">
+			            Launch your products on DMart with complete seller onboarding, product catalog setup, documentation support, and inventory management assistance.
+			        </p>
+			
+			        <div class="card-content">
+			            <div class="services-list">
+			                <h4>Services</h4>
+			                <ul>
+			                    <li>Seller Registration & Documentation</li>
+			                    <li>Product Listing & Catalog Management</li>
+			                </ul>
+			            </div>
+			
+			            <div class="tools-list">
+			                <h4>Tools</h4>
+			                <div class="tool-icons">
+			                    <div class="tool-icon">🏪</div>
+			                    <div class="tool-icon">📦</div>
+			                    <div class="tool-icon">📝</div>
+			                    <div class="tool-icon">📊</div>
+			                    <div class="tool-icon">🚚</div>
+			                    <div class="tool-icon">💼</div>
+			                </div>
+			            </div>
+			        </div>
+			    </div>
+			</div>
 
         </div>
     </div>

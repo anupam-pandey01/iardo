@@ -94,7 +94,7 @@ a, button, .btn, .navbar, nav {
     position: relative;
     min-height: 100vh !important;
     display: flex;
-    padding-top: 100px !important;
+    padding-top: 220px !important;
     align-items: center;
     justify-content: center;
     overflow: hidden;

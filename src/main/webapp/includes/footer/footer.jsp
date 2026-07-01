@@ -341,12 +341,12 @@
 							<li><a
 								href="${pageContext.request.contextPath}/services/e-commerce/d-mart/">DMart</a></li>
 							<li><a
-								href="${pageContext.request.contextPath}/creem-quik-seller-onboarding">Creem
+								href="${pageContext.request.contextPath}/services/quick-commerce/quick/">Creem
 									Quik</a></li>
 							<li><a
 								href="${pageContext.request.contextPath}/noon-onboarding/">Noon</a></li>
 							<li><a
-								href="${pageContext.request.contextPath}/instashop-seller-onboarding">Instashop</a></li>
+								href="${pageContext.request.contextPath}/services/quick-commerce/instashop/">Instashop</a></li>
 						</ul>
 					</div>
 
@@ -375,7 +375,7 @@
 							<li><a
 								href="${pageContext.request.contextPath}/services/e-commerce/spocket/">Spocket</a></li>
 							<li><a
-								href="${pageContext.request.contextPath}/marketplace-seller-onboarding">Marketplace
+								href="${pageContext.request.contextPath}/services/quick-commerce/marketplace/">Marketplace
 									Solutions</a></li>
 						</ul>
 					</div>
