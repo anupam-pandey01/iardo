@@ -24,16 +24,6 @@ return;
 
 <style>
 
-/* =====================================================
-   COLOR PALETTE (Redesigned)
-   #F0F4FF  — page background (cool lavender-white)
-   #1A1F3C  — deep navy (headings, navbar)
-   #6C63FF  — electric violet (primary accent)
-   #FF6B6B  — coral-red (secondary accent / highlight)
-   #E8ECFF  — soft violet tint (card surfaces)
-   #FFFFFF  — white (card bg)
-===================================================== */
-
 :root {
     --bg:          #F0F4FF;
     --border:      #D1D9F0;
