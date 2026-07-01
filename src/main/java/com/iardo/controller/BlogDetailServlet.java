@@ -38,6 +38,7 @@ public class BlogDetailServlet extends HttpServlet {
 			}
 
 			req.setAttribute("blog", blog);
+
 			req.getRequestDispatcher("/article/blog-details.jsp").forward(req, res);
 		} catch (Exception e) {
 			res.sendError(500);

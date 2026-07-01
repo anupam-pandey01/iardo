@@ -91,7 +91,7 @@
 	
 	<div class="blog-cover-wrap">
 	  <figure class="blog-cover">
-	    <img src="${blog.featuredImage}" alt="..." />
+	    <img src="${blog.featuredImage}" alt="blog-img" />
 	  </figure>
 	</div>
 
