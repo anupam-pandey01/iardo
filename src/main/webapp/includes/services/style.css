@@ -10,8 +10,9 @@
             --color-gold-end:     #e9c349;
             --color-muted:        #4A84A8;
             --color-body:         #1A4D6E;
+            --white-bg: 			#ffffff;
             --font-display: 'Montserrat', sans-serif;
-            --font-body:    'Source Serif 4', Georgia, serif;
+            --font-body:    'Inter', sans-serif;
         }
 
         body {
@@ -183,16 +184,84 @@
         /* ============================================
            GRID LAYOUT
         ============================================ */
+        /* Particular Cards Color */
+        .blinkit{
+        	background: #f7cb45;
+        }
+        
+        .swiggy{
+        	background: #ff5005;
+        }
+        .big-basket{
+        	background: #a7cf3a;
+        }
+        .swiggy-cloud-kitchen{
+        	background: #f5851d;
+        }
+        .zepto{
+        	background: #ed585a;
+        }
+        .nykaa{
+        	background: #fc2b7b;
+        }
+        .amazon{
+        	background: #f59b0a;
+        }
+        .flipkart{
+        	background: #fad30f;
+        }
+        .meesho{
+        	background: #955286;
+        }
+        .jio-mart{
+        	background: #c7022d;
+        }
+        .shopify{
+        	background: #97bf47
+        }
+        .marketplace{
+        	background: #3b589e;
+        }
+        .quick{
+        	background: #02e87b;
+        }
+        .instashop{
+        	background:#ed047c; 
+        }
+        .ajio{
+        	background: #5A6A7A;
+        }
+        .website{
+        	background: #f3b705;
+        }
+        .digital-marketing{
+        	background: #39709B;
+        }
+        .myntra{
+        	background: #eb238a;
+        }
+        .web-dev{
+        	background: #f0bb1d;
+        }
+        .app-dev{
+        	background: #15708f;
+        }
+        .email-marketing{
+        	background: #5654a0;
+        }
+        .d-mart{
+        	background: #1f6b30;
+        }
         .services-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
             gap: 2rem;
             margin-top: 1rem;
+            margin-bottom: 2rem;
         }
 
         /* ========== SERVICE CARD ========== */
         .service-card {
-            background: #FFFFFF !important;
             border-radius: 20px !important;
             border: none !important;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05) !important;
@@ -245,9 +314,11 @@
         }
 
         .service-logo {
-            max-width: 170px !important;
-            max-height: 85px !important;
+        	background: var(--white-bg);
+            width: 80px;
+            height: 80px;
             filter: drop-shadow(0 2px 4px rgba(0,0,0,0.05));
+            border-radius: 10px;
             transition: all 0.3s ease;
         }
 
@@ -257,7 +328,7 @@
         }
 
         .card-arrow {
-            background: rgba(255, 155, 81, 0.1);
+            background: #ffffff;
             border-radius: 50%;
             width: 42px;
             height: 42px;
@@ -288,10 +359,10 @@
 
         .card-description {
             font-family: var(--font-body) !important;
+            color: #000000;
             font-weight: 500 !important;
             font-size: 1.05rem !important;
             line-height: 1.6 !important;
-            color: var(--color-body) !important;
             margin-bottom: 1.5rem !important;
             padding-right: 0.5rem;
             transition: all 0.3s ease;
@@ -315,7 +386,7 @@
             font-size: 12px !important;
             text-transform: uppercase;
             letter-spacing: 0.1em;
-            color: #78909C;
+            color: #000000;
             margin-bottom: 10px !important;
             transition: all 0.3s ease;
         }
@@ -402,6 +473,7 @@
         .section-title {
             font-size: 3.5rem !important;
             margin-bottom: 1rem;
+            margin-top: 2rem;
         }
 
         .section-description {

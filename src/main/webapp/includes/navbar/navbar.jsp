@@ -793,7 +793,7 @@ MEGA MENU FIX - Viewport ke andar rakho
 						<li><a
 							href="${pageContext.request.contextPath}/about-our-chairman">About
 								Our Chairman</a></li>
-						<li><a href="${pageContext.request.contextPath}/our-company">About
+						<li><a href="${pageContext.request.contextPath}/about">About
 								Us</a></li>
 						<li><a
 							href="${pageContext.request.contextPath}/why-choose-us">Why
@@ -1014,7 +1014,7 @@ MEGA MENU FIX - Viewport ke andar rakho
 						<li><a
 							href="${pageContext.request.contextPath}/about-our-chairman">About
 								Our Chairman</a></li>
-						<li><a href="${pageContext.request.contextPath}/our-company">About
+						<li><a href="${pageContext.request.contextPath}/about">About
 								Us</a></li>
 						<li><a
 							href="${pageContext.request.contextPath}/why-choose-us">Why

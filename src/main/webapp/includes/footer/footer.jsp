@@ -22,8 +22,8 @@
 	--color-gold-end: #e9c349;
 	--color-muted: #707974;
 	--color-body: #404944;
-	--font-display: 'Montserrat', sans-serif;
-	--font-body: 'Source Serif 4', Georgia, serif;
+	/* --font-display: 'Montserrat', sans-serif;
+	--font-body: 'Source Serif 4', Georgia, serif; */
 }
 
 /* ── Footer shell ── */
