@@ -15,13 +15,10 @@ return;
 <meta name="description" content="Iardo - Your trusted partner in digital transformation and innovation">
 <title>Iardo - Digital Innovation & Solutions</title>
 
-<link rel="stylesheet" href="./index-page-css/style.css">
-<link rel="stylesheet" href="./includes/services/style.css"> <!-- this is the styling of the service card that shown of home page  -->
+<link rel="stylesheet" href="${pageContext.request.contextPath}/index-page-css/style.css"> <!-- this is the styling of the service card that shown of home page  -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 <link rel="icon" type="image/webp" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
 <link rel="apple-touch-icon" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-
 <style>
 
 :root {

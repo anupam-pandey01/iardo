@@ -1,0 +1,11 @@
+:root{
+    --primary:#6C63FF;
+    --secondary:#FF6B6B;
+    --background:#F0F4FF;
+    --surface:#fff;
+    --text:#1A1F3C;
+    --border:#D1D9F0;
+
+    --font-heading:'Montserrat',sans-serif;
+    --font-body: 'Inter', sans-serif;
+}
