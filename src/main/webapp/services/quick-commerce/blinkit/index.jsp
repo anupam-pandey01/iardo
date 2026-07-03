@@ -4,10 +4,10 @@
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Blinkit Onboarding Services in India | Agency from Delhi | IARDO</title>
-<meta name="description" content="IARDO provides expert Blinkit onboarding services across India. Complete Blinkit seller registration, documentation, GST/APOB, catalog & go-live. Delhi-based, PAN India. ₹20,000 + GST, lifetime validity, fully refundable. 2500+ brands onboarded.">
+<meta name="description" content="IARDO provides expert Blinkit onboarding services across India. Complete Blinkit seller registration, documentation, GST, catalog & go-live. Delhi-based, PAN India. lifetime validity, fully refundable. 2500+ brands onboarded.">
 <link rel="canonical" href="https://iardo.in/blinkit-onboarding-services">
 <meta property="og:title" content="Blinkit Onboarding Services in India | IARDO">
-<meta property="og:description" content="End-to-end Blinkit seller onboarding across India — registration, GST/APOB, catalog & go-live. Delhi-based agency, PAN India.">
+<meta property="og:description" content="End-to-end Blinkit seller onboarding across India — registration, GST, catalog & go-live. Delhi-based agency, PAN India.">
 <meta property="og:image" content="blinkit-onboarding-services.png">
 <meta property="og:type" content="website"><meta property="og:url" content="https://iardo.in/blinkit-onboarding-services">
 <meta name="twitter:card" content="summary_large_image">
@@ -48,10 +48,9 @@
       },
       "areaServed": "IN",
       "url": "https://iardo.in/blinkit-onboarding-services",
-      "description": "End-to-end Blinkit seller onboarding across India \u2014 registration, documentation, GST/APOB, catalog, and go-live.",
+      "description": "End-to-end Blinkit seller onboarding across India \u2014 registration, documentation, GST, catalog, and go-live.",
       "offers": {
         "@type": "Offer",
-        "price": "20000",
         "priceCurrency": "INR",
         "description": "One-time Blinkit onboarding fee plus 18% GST. Lifetime validity, fully refundable if not live."
       }
@@ -94,7 +93,7 @@
         {
           "@type": "HowToStep",
           "position": 6,
-          "name": "APOB & multi-state GST",
+          "name": "Multi-state GST",
           "text": "List each warehouse state as an Additional Place of Business on GST."
         },
         {
@@ -136,15 +135,7 @@
           "name": "What are Blinkit onboarding services?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Blinkit onboarding services help brands and sellers get their products live on Blinkit's quick-commerce platform. IARDO's service covers seller account setup, KYC and document verification, GST and FSSAI handling, multi-state APOB amendments, product catalog creation, listing optimization, Category Manager coordination, inventory and warehouse setup, and go-live support \u2014 managed end-to-end."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How much do Blinkit onboarding services cost in India?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "IARDO's Blinkit onboarding is priced at \u20b920,000 plus 18% GST (\u20b923,600 total). It is a one-time fee, includes lifetime registration validity, and is fully refundable if your Blinkit seller account does not go live."
+            "text": "Blinkit onboarding services help brands and sellers get their products live on Blinkit's quick-commerce platform. IARDO's service covers seller account setup, KYC and document verification, GST and FSSAI handling, multi-state GST amendments, product catalog creation, listing optimization, Category Manager coordination, inventory and warehouse setup, and go-live support \u2014 managed end-to-end."
           }
         },
         {
@@ -152,7 +143,7 @@
           "name": "How long does Blinkit onboarding take?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Typically around 60 working days from registration to going live, depending on document readiness, Category Manager approvals, and multi-state GST/APOB amendments. Having your paperwork ready upfront is the biggest factor in going live faster."
+            "text": "Typically around 60 working days from registration to going live, depending on document readiness, Category Manager approvals, and multi-state GST amendments. Having your paperwork ready upfront is the biggest factor in going live faster."
           }
         },
         {
@@ -177,14 +168,6 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Blinkit commission is variable and slab-based \u2014 roughly 2% on low-priced items, rising to about 8\u201315% for most categories and up to ~18% for premium ones. On top, expect per-unit fulfilment fees (~\u20b930\u201350), storage, optional marketing and GST, so the effective cost of selling often reaches roughly 25\u201330% of selling price. See our Blinkit commission & charges guide."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is APOB and why does it matter?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "APOB (Additional Place of Business) is a GST entry for each location where your inventory is stored. Since Blinkit stocks products in dark stores across states, your GST must list those warehouse states. Without APOB you cannot stock there. IARDO handles these amendments as part of onboarding."
           }
         },
         {
@@ -248,7 +231,7 @@
           "name": "What makes IARDO different from other Blinkit onboarding agencies?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "IARDO is an authorized Amazon Seller Acquisition Partner with a physical office in Rohini, Delhi, deep quick-commerce expertise, 2500+ brands onboarded across platforms, direct Category Manager coordination, end-to-end documentation including APOB, lifetime registration validity, and a 100% refund guarantee if your account does not go live."
+            "text": "IARDO is an authorized Amazon Seller Acquisition Partner with a physical office in Rohini, Delhi, deep quick-commerce expertise, 2500+ brands onboarded across platforms, direct Category Manager coordination, end-to-end documentation, lifetime registration validity, and a 100% refund guarantee if your account does not go live."
           }
         },
         {
@@ -256,7 +239,7 @@
           "name": "Can you help if my Blinkit application was rejected earlier?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. We frequently help sellers whose applications stalled or were rejected due to documentation issues, name mismatches, or missing APOB. We identify the gap and re-submit correctly."
+            "text": "Yes. We frequently help sellers whose applications stalled or were rejected due to documentation issues, name mismatches, or missing GST amendments. We identify the gap and re-submit correctly."
           }
         },
         {
@@ -289,23 +272,22 @@
  
 <header class="hero"><div class="wrap">
   <h1>Blinkit Onboarding Services in India &mdash; <em>Seller Registration, Catalog &amp; Go-Live</em></h1>
-  <p class="dek">IARDO is a Delhi-based quick-commerce onboarding agency that gets your brand live on Blinkit — handling registration, documentation, GST &amp; APOB, catalog and Category Manager coordination, end-to-end. 2500+ brands onboarded across platforms. PAN India.</p>
+  <p class="dek">IARDO is a Delhi-based quick-commerce onboarding agency that gets your brand live on Blinkit — handling registration, documentation, GST, catalog and Category Manager coordination, end-to-end. 2500+ brands onboarded across platforms. PAN India.</p>
   <div class="byline"><span>By <strong>IARDO</strong></span><span class="dot"></span><span>Updated 2026</span><span class="dot"></span><span>Office in Rohini, Delhi</span></div>
   <div style="margin-top:22px"><a class="wa-btn" href="https://wa.me/919310194865?text=Hi%20IARDO%2C%20I%20want%20to%20onboard%20my%20brand%20on%20Blinkit.%20Please%20share%20the%20process%20and%20pricing.%20%28Blinkit%20service%20page%29"><svg viewBox="0 0 24 24" fill="#fff" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>Start Blinkit Onboarding</a></div>
 </div></header>
 
 <section class="stats"><div class="stats-grid">
   <div class="stat"><div class="num">2500+</div><div class="lab">Brands onboarded (all platforms)</div></div>
-  <div class="stat"><div class="num">₹20,000<small>+GST</small></div><div class="lab">One-time · lifetime validity</div></div>
   <div class="stat"><div class="num">100%</div><div class="lab">Refund if not live</div></div>
 </div></section>
 
 <div class="wrap"><article>
-  <p class="lead">Blinkit is India's largest quick-commerce platform, delivering groceries and everyday essentials to customers in minutes from a fast-growing network of dark stores across 25+ cities. For brands, it's one of the highest-velocity sales channels in the country — but getting onboarded involves documentation, GST and APOB amendments, Category Manager approvals and catalog work that routinely stall first-time sellers for weeks.</p>
+  <p class="lead">Blinkit is India's largest quick-commerce platform, delivering groceries and everyday essentials to customers in minutes from a fast-growing network of dark stores across 25+ cities. For brands, it's one of the highest-velocity sales channels in the country — but getting onboarded involves documentation, GST, Category Manager approvals and catalog work that routinely stall first-time sellers for weeks.</p>
   <p>That's where IARDO comes in. As an authorized Amazon Seller Acquisition Partner with deep quick-commerce expertise, we manage your <strong>entire Blinkit onboarding</strong> — from registration to your first live order — so you go live cleanly the first time, without the back-and-forth.</p>
 
   <h2><span class="hash">#</span>What Are Blinkit Onboarding Services?</h2>
-  <p>Blinkit onboarding services cover everything required to take a brand from "not on Blinkit" to "live and selling." With IARDO, that includes seller account setup, KYC and document verification, GST and FSSAI handling, multi-state APOB amendments, product catalog creation and listing optimization, Category Manager coordination, inventory and warehouse setup, and post-launch support. We handle the technical and compliance heavy-lifting so you can focus on your product.</p>
+  <p>Blinkit onboarding services cover everything required to take a brand from "not on Blinkit" to "live and selling." With IARDO, that includes seller account setup, KYC and document verification, GST and FSSAI handling, multi-state GST amendments, product catalog creation and listing optimization, Category Manager coordination, inventory and warehouse setup, and post-launch support. We handle the technical and compliance heavy-lifting so you can focus on your product.</p>
 
   <h2><span class="hash">#</span>Why Sell on Blinkit?</h2>
   <div class="perks">
@@ -326,25 +308,25 @@
     <div class="item"><span class="n">3</span><h4>Seller registration</h4><p>Submit business and KYC details to Blinkit for review and category assignment.</p></div>
     <div class="item"><span class="n">4</span><h4>Category Manager & agreement</h4><p>Commercial terms agreed and seller agreement signed with the assigned Category Manager.</p></div>
     <div class="item"><span class="n">5</span><h4>Catalog creation</h4><p>Build optimized, compliant product listings.</p></div>
-    <div class="item"><span class="n">6</span><h4>APOB & multi-state GST</h4><p>List each warehouse state as an Additional Place of Business on GST.</p></div>
+    <div class="item"><span class="n">6</span><h4>Multi-state GST</h4><p>List each warehouse state as an Additional Place of Business on GST.</p></div>
     <div class="item"><span class="n">7</span><h4>Inventory to warehouse</h4><p>Ship stock against a purchase order; Blinkit distributes to dark stores.</p></div>
     <div class="item"><span class="n">8</span><h4>Go live & manage</h4><p>Products go live for instant delivery; maintain stock and performance.</p></div>
   </div>
-  <p>For a deeper walk-through, see our dedicated <a class="inline" href="how-to-sell-on-blinkit">how to sell on Blinkit</a> guide.</p>
+  <p>For a deeper walk-through, see our dedicated <a class="inline" href="${pageContext.request.contextPath}/services/quick-commerce/blinkit/">how to sell on Blinkit</a> guide.</p>
 
   <h2><span class="hash">#</span>Documents Required for Blinkit</h2>
-  <p>The core documents are GST certificate, PAN, cancelled cheque and business address proof. Food and grocery sellers also need an FSSAI licence, and a trademark (or brand authorisation) plus digital signature are commonly required. Multi-state sellers need APOB on their GST. We tell you exactly what applies to your business and handle the paperwork — see the complete <a class="inline" href="blinkit-seller-documents">documents required to sell on Blinkit</a> checklist.</p>
+  <p>The core documents are GST certificate, PAN, cancelled cheque and business address proof. Food and grocery sellers also need an FSSAI licence, and a trademark (or brand authorisation) plus digital signature are commonly required. Multi-state sellers need on their GST. We tell you exactly what applies to your business and handle the paperwork — see the complete <a class="inline" href="${pageContext.request.contextPath}/blog/blinkit-seller-documents">documents required to sell on Blinkit</a> checklist.</p>
 
   <h2><span class="hash">#</span>Blinkit Commission &amp; Cost of Selling</h2>
-  <p>Blinkit charges a slab-based commission (commonly 8&ndash;15%, up to ~18% for premium categories), plus per-unit fulfilment fees (~&#8377;30&ndash;50), storage, optional marketing and 18% GST on fees. In total, the effective cost of selling often lands around 25&ndash;30% of selling price — so pricing every SKU with this in mind is essential. Full breakdown in our <a class="inline" href="blinkit-commission-charges">Blinkit commission &amp; charges guide</a>.</p>
+  <p>Blinkit charges a slab-based commission (commonly 8&ndash;15%, up to ~18% for premium categories), plus per-unit fulfilment fees (~&#8377;30&ndash;50), storage, optional marketing and 18% GST on fees. In total, the effective cost of selling often lands around 25&ndash;30% of selling price — so pricing every SKU with this in mind is essential. Full breakdown in our <a class="inline" href="${pageContext.request.contextPath}/blog/blinkit-commission-charges">Blinkit commission &amp; charges guide</a>.</p>
 
-  <h2><span class="hash">#</span>APOB &amp; Multi-State GST</h2>
-  <p>Blinkit stores inventory in dark stores across states. Under GST, each storage location must be registered as an Additional Place of Business (APOB). To sell in a given state, your GST must list that warehouse — miss this, and you can't stock there. Multi-state APOB is fiddly and a common cause of delay; IARDO handles it as a standard part of onboarding.</p>
+  <h2><span class="hash">#</span>Multi-State GST</h2>
+  <p>Blinkit stores inventory in dark stores across states. Under GST, each storage location must be registered as an Additional Place of Business. To sell in a given state, your GST must list that warehouse — miss this, and you can't stock there. Multi-state is fiddly and a common cause of delay; IARDO handles it as a standard part of onboarding.</p>
 
   <h2><span class="hash">#</span>What's Included in IARDO's Blinkit Onboarding</h2>
   <div class="perks">
     <div class="card"><h4><span class="v">&#10003;</span>Seller registration</h4><p>Account creation, KYC, and category approval.</p></div>
-    <div class="card"><h4><span class="v">&#10003;</span>Documentation &amp; compliance</h4><p>GST, FSSAI, trademark, DSC and APOB handled for you.</p></div>
+    <div class="card"><h4><span class="v">&#10003;</span>Documentation &amp; compliance</h4><p>GST, FSSAI, trademark, DSC</p></div>
     <div class="card"><h4><span class="v">&#10003;</span>Catalog &amp; listings</h4><p>Optimized, compliant product listings that get approved.</p></div>
     <div class="card"><h4><span class="v">&#10003;</span>Category Manager coordination</h4><p>We liaise directly to push your account live.</p></div>
     <div class="card"><h4><span class="v">&#10003;</span>Inventory &amp; warehouse setup</h4><p>Guidance on POs, inwarding and stock cover.</p></div>
@@ -353,7 +335,7 @@
 
   <div class="pay-note">
     <span class="ic">&#128176;</span>
-    <span class="txt"><strong>Pricing:</strong> &#8377;20,000 + 18% GST (&#8377;23,600) &bull; one-time &bull; <strong>lifetime registration validity</strong> &bull; <strong>100% refundable if your account doesn't go live</strong> &bull; ~60 working days TAT.</span>
+    <span class="txt"><strong>Pricing:</strong> one-time &bull; <strong>lifetime registration validity</strong> &bull; <strong>100% refundable if your account doesn't go live</strong> &bull; ~60 working days TAT.</span>
   </div>
 
   <div class="wa-cta">
@@ -363,10 +345,10 @@
   </div>
 
   <h2><span class="hash">#</span>Blinkit Onboarding Across India &mdash; From Our Delhi Base</h2>
-  <p>IARDO operates from <strong>Rohini, Delhi</strong>, and serves brands <strong>PAN India</strong>. Local Delhi NCR sellers (Rohini, Pitampura, CP, Dwarka, Gurgaon, Noida, Faridabad, Ghaziabad) get the advantage of a team they can meet in person; brands in Mumbai, Bangalore, Hyderabad, Pune, Chennai, Kolkata, Ahmedabad, Jaipur and beyond get the same end-to-end service, fully remote. See our dedicated <a class="inline" href="blinkit-onboarding-delhi">Blinkit onboarding in Delhi</a> page.</p>
+  <p>IARDO operates from <strong>Rohini, Delhi</strong>, and serves brands <strong>PAN India</strong>. Local Delhi NCR sellers (Rohini, Pitampura, CP, Dwarka, Gurgaon, Noida, Faridabad, Ghaziabad) get the advantage of a team they can meet in person; brands in Mumbai, Bangalore, Hyderabad, Pune, Chennai, Kolkata, Ahmedabad, Jaipur and beyond get the same end-to-end service, fully remote. See our dedicated Blinkit onboarding in Delhi page.</p>
 
   <h2><span class="hash">#</span>Why Choose IARDO</h2>
-  <p>IARDO is an <strong>authorized Amazon Seller Acquisition Partner</strong> with years of e-commerce and quick-commerce experience, operating since 2016 and led by founder <strong>Manish Madan</strong>. We've onboarded <strong>2500+ brands across platforms</strong>, and we bring direct Category Manager relationships, complete documentation handling including multi-state APOB, lifetime registration validity, and a genuine <strong>100% refund guarantee</strong> if your account doesn't go live. We're not an online-only middleman — we're a registered agency with a real Delhi office and accountable people.</p>
+  <p>IARDO is an <strong>authorized Amazon Seller Acquisition Partner</strong> with years of e-commerce and quick-commerce experience, operating since 2016 and led by founder <strong>Manish Madan</strong>. We've onboarded <strong>2500+ brands across platforms</strong>, and we bring direct Category Manager relationships, lifetime registration validity, and a genuine <strong>100% refund guarantee</strong> if your account doesn't go live. We're not an online-only middleman — we're a registered agency with a real Delhi office and accountable people.</p>
 
   <h2><span class="hash">#</span>Case Study: Shrilalmahal Empire Basmati Rice</h2>
   <p>We onboarded <strong>Shrilalmahal Empire Basmati Rice</strong> on Blinkit and took them live in <strong>20 days</strong>. Their first purchase order was <strong>&#8377;1,20,150</strong>, growing to <strong>&#8377;2,22,945</strong> by month two — an increase of roughly <strong>85%</strong> in a single month, driven by correct onboarding, catalog readiness and stock cover.</p>
@@ -383,7 +365,7 @@
     <thead><tr><th>Doing it yourself</th><th>With IARDO</th></tr></thead>
     <tbody>
       <tr><td>Weeks lost to rejections &amp; re-submissions</td><td>Done-right-first-time, ~60 working days</td></tr>
-      <tr><td>Figuring out APOB &amp; multi-state GST alone</td><td>APOB handled for you</td></tr>
+      <tr><td>Figuring multi-state GST alone</td><td>GST amendments handled for you</td></tr>
       <tr><td>No Category Manager contact</td><td>Direct CM coordination</td></tr>
       <tr><td>Catalog rejections</td><td>Optimized, compliant listings</td></tr>
       <tr><td>No safety net</td><td>100% refund if not live</td></tr>
@@ -391,21 +373,21 @@
   </table></div>
 
   <h2><span class="hash">#</span>One Partner for All Quick Commerce</h2>
-  <p>Beyond Blinkit, IARDO onboards brands on <a class="inline" href="zepto-seller-onboarding">Zepto</a>, <a class="inline" href="swiggy-instamart-seller-onboarding">Swiggy Instamart</a>, BigBasket, Flipkart Minutes, Amazon and Flipkart — making us a single partner for your entire quick-commerce and marketplace strategy.</p>
+  <p>Beyond Blinkit, IARDO onboards brands on <a class="inline" href="${pageContext.request.contextPath}/services/quick-commerce/zepto/">Zepto</a>, <a class="inline" href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart/">Swiggy Instamart</a>, BigBasket, Flipkart Minutes, Amazon and Flipkart — making us a single partner for your entire quick-commerce and marketplace strategy.</p>
 
   <h2><span class="hash">#</span>Frequently Asked Questions about Blinkit Onboarding</h2>
   <div class="faq">
     <details open>
       <summary>What are Blinkit onboarding services?</summary>
-      <div class="ans">Blinkit onboarding services help brands and sellers get their products live on Blinkit's quick-commerce platform. IARDO's service covers seller account setup, KYC and document verification, GST and FSSAI handling, multi-state APOB amendments, product catalog creation, listing optimization, Category Manager coordination, inventory and warehouse setup, and go-live support — managed end-to-end.</div>
+      <div class="ans">Blinkit onboarding services help brands and sellers get their products live on Blinkit's quick-commerce platform. IARDO's service covers seller account setup, KYC and document verification, GST and FSSAI handling, product catalog creation, listing optimization, Category Manager coordination, inventory and warehouse setup, and go-live support — managed end-to-end.</div>
     </details>
     <details>
       <summary>How much do Blinkit onboarding services cost in India?</summary>
-      <div class="ans">IARDO's Blinkit onboarding is priced at ₹20,000 plus 18% GST (₹23,600 total). It is a one-time fee, includes lifetime registration validity, and is fully refundable if your Blinkit seller account does not go live.</div>
+      <div class="ans">IARDO's Blinkit onboarding is priced plus 18% GST. It is a one-time fee, includes lifetime registration validity, and is fully refundable if your Blinkit seller account does not go live.</div>
     </details>
     <details>
       <summary>How long does Blinkit onboarding take?</summary>
-      <div class="ans">Typically around 60 working days from registration to going live, depending on document readiness, Category Manager approvals, and multi-state GST/APOB amendments. Having your paperwork ready upfront is the biggest factor in going live faster.</div>
+      <div class="ans">Typically around 60 working days from registration to going live, depending on document readiness, Category Manager approvals, and multi-state GST amendments. Having your paperwork ready upfront is the biggest factor in going live faster.</div>
     </details>
     <details>
       <summary>Is the Blinkit onboarding fee refundable?</summary>
@@ -418,10 +400,6 @@
     <details>
       <summary>What is Blinkit's commission for sellers?</summary>
       <div class="ans">Blinkit commission is variable and slab-based — roughly 2% on low-priced items, rising to about 8–15% for most categories and up to ~18% for premium ones. On top, expect per-unit fulfilment fees (~₹30–50), storage, optional marketing and GST, so the effective cost of selling often reaches roughly 25–30% of selling price. See our Blinkit commission & charges guide.</div>
-    </details>
-    <details>
-      <summary>What is APOB and why does it matter?</summary>
-      <div class="ans">APOB (Additional Place of Business) is a GST entry for each location where your inventory is stored. Since Blinkit stocks products in dark stores across states, your GST must list those warehouse states. Without APOB you cannot stock there. IARDO handles these amendments as part of onboarding.</div>
     </details>
     <details>
       <summary>Do you provide Blinkit onboarding across all of India?</summary>
@@ -453,11 +431,11 @@
     </details>
     <details>
       <summary>What makes IARDO different from other Blinkit onboarding agencies?</summary>
-      <div class="ans">IARDO is an authorized Amazon Seller Acquisition Partner with a physical office in Rohini, Delhi, deep quick-commerce expertise, 2500+ brands onboarded across platforms, direct Category Manager coordination, end-to-end documentation including APOB, lifetime registration validity, and a 100% refund guarantee if your account does not go live.</div>
+      <div class="ans">IARDO is an authorized Amazon Seller Acquisition Partner with a physical office in Rohini, Delhi, deep quick-commerce expertise, 2500+ brands onboarded across platforms, direct Category Manager coordination, end-to-end documentation, lifetime registration validity, and a 100% refund guarantee if your account does not go live.</div>
     </details>
     <details>
       <summary>Can you help if my Blinkit application was rejected earlier?</summary>
-      <div class="ans">Yes. We frequently help sellers whose applications stalled or were rejected due to documentation issues, name mismatches, or missing APOB. We identify the gap and re-submit correctly.</div>
+      <div class="ans">Yes. We frequently help sellers whose applications stalled or were rejected due to documentation issues, name mismatches, or missing GST amendments. We identify the gap and re-submit correctly.</div>
     </details>
     <details>
       <summary>Do you also help with catalog and listing optimization?</summary>
@@ -471,7 +449,7 @@
 
   <div class="closer">
     <h2 style="margin-top:0">Get Your Brand Live on Blinkit</h2>
-    <p>From registration to your first order, IARDO handles the entire Blinkit onboarding process — documentation, GST/APOB, catalog and go-live — with lifetime validity and a full refund if your account doesn't go live.</p>
+    <p>From registration to your first order, IARDO handles the entire Blinkit onboarding process — documentation, GST, catalog and go-live — with lifetime validity and a full refund if your account doesn't go live.</p>
     <p style="margin-bottom:0">Delhi-based, serving brands PAN India.</p>
   </div>
   <div class="wa-cta big">
@@ -481,7 +459,7 @@
   </div>
 
   <h2><span class="hash">#</span>Related Guides</h2>
-  <p>See <a class="inline" href="how-to-sell-on-blinkit">how to sell on Blinkit</a>, <a class="inline" href="blinkit-commission-charges">Blinkit commission &amp; charges</a>, <a class="inline" href="blinkit-seller-documents">documents required for Blinkit</a>, and <a class="inline" href="blinkit-onboarding-delhi">Blinkit onboarding in Delhi</a>.</p>
+  <p>See <a class="inline" href="${pageContext.request.contextPath}/services/quick-commerce/blinkit/">how to sell on Blinkit</a>, <a class="inline" href="${pageContext.request.contextPath}/blog/blinkit-commission-charges">Blinkit commission &amp; charges</a>, <a class="inline" href="${pageContext.request.contextPath}/blog/blinkit-seller-documents">documents required for Blinkit</a></p>
 
   <p style="font-size:14px;color:var(--muted);margin-top:30px">IARDO · 714-715, 7th Floor, Amba Tower, DC Chowk, Sector-9, Rohini, Delhi 110085 · +91 93101 94865 · info@iardo.in</p>
 </article></div>
