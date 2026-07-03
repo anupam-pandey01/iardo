@@ -453,9 +453,9 @@ section { padding: 80px 0; position: relative; }
 
 <div class="rating-avatars">
   <span class="ra-1">R</span>
-  <span class="ra-2"><img src="/assets/images/girl.jpeg" alt="P" style="width:100%;height:100%;object-fit:cover;border-radius:50%;"></span>
+  <span class="ra-2"><img src="https://iardo-assets.pages.dev/images/girl.webp" alt="P" style="width:100%;height:100%;object-fit:cover;border-radius:50%;"></span>
   <span class="ra-3">M</span>
-  <span class="ra-4"><img src="/assets/images/boy.jpeg" alt="A" style="width:100%;height:100%;object-fit:cover;border-radius:50%;"></span>
+  <span class="ra-4"><img src="https://iardo-assets.pages.dev/images/boy.webp" alt="A" style="width:100%;height:100%;object-fit:cover;border-radius:50%;"></span>
 </div>
 
           <div class="rating-meta">
@@ -483,19 +483,19 @@ section { padding: 80px 0; position: relative; }
             <div class="bm-grid">
               <div class="bm-card">
                 <div class="bm-img">
-                  <img src="/assets/images/websitefast.jpeg" alt="Fast" style="width:100%;height:100%;object-fit:cover;border-radius:6px;">
+                  <img src="https://iardo-assets.pages.dev/images/websitefast.webp" alt="Fast" style="width:100%;height:100%;object-fit:cover;border-radius:6px;">
                 </div>
                 <span>Fast</span>
               </div>
               <div class="bm-card">
                 <div class="bm-img">
-                  <img src="/assets/images/mobileresponsive.jpeg" alt="Mobile" style="width:100%;height:100%;object-fit:cover;border-radius:6px;">
+                  <img src="https://iardo-assets.pages.dev/images/mobileresponsive.webp" alt="Mobile" style="width:100%;height:100%;object-fit:cover;border-radius:6px;">
                 </div>
                 <span>Mobile</span>
               </div>
               <div class="bm-card">
                 <div class="bm-img">
-                  <img src="/assets/images/seoboost.jpeg" alt="SEO" style="width:100%;height:100%;object-fit:cover;border-radius:6px;">
+                  <img src="https://iardo-assets.pages.dev/images/blog.webp" alt="SEO" style="width:100%;height:100%;object-fit:cover;border-radius:6px;">
                 </div>
                 <span>SEO</span>
               </div>
@@ -533,22 +533,19 @@ section { padding: 80px 0; position: relative; }
     <p class="trust-label">Built with trusted technology &amp; payments</p>
     <div class="trust-logos">
       <span class="trust-logo">
-        <img class="t-img" src="assets/images/react2.png" alt="React" style="width:80px;height:80px;object-fit:contain;" onerror="this.style.display='none'">
+        <img class="t-img" src="https://iardo-assets.pages.dev/images/react2.webp" alt="React" style="width:80px;height:80px;object-fit:contain;" onerror="this.style.display='none'">
       </span>
       <span class="trust-logo">
-        <img class="t-img" src="assets/images/wordpress.png" alt="WordPress" style="width:80px;height:80px;object-fit:contain;" onerror="this.style.display='none'">
+        <img class="t-img" src="https://iardo-assets.pages.dev/images/wordpress.webp" alt="WordPress" style="width:80px;height:80px;object-fit:contain;" onerror="this.style.display='none'">
       </span>
       <span class="trust-logo">
-        <img class="t-img" src="assets/images/razorpay.png" alt="Razorpay" style="width:80px;height:80px;object-fit:contain;" onerror="this.style.display='none'">
+        <img class="t-img" src="https://iardo-assets.pages.dev/images/razorpay.webp" alt="Razorpay" style="width:80px;height:80px;object-fit:contain;" onerror="this.style.display='none'">
       </span>
       <span class="trust-logo">
-        <img class="t-img" src="assets/images/paytm.png" alt="Paytm" style="width:80px;height:80px;object-fit:contain;" onerror="this.style.display='none'">
+        <img class="t-img" src="https://iardo-assets.pages.dev/images/paytm.webp" alt="Paytm" style="width:80px;height:80px;object-fit:contain;" onerror="this.style.display='none'">
       </span>
       <span class="trust-logo">
-        <img class="t-img" src="assets/images/google.png" alt="Google" style="width:80px;height:80px;object-fit:contain;" onerror="this.style.display='none'">
-      </span>
-      <span class="trust-logo">
-        <img class="t-img" src="assets/images/shopify.png" alt="Shopify" style="width:80px;height:80px;object-fit:contain;" onerror="this.style.display='none'">
+        <img class="t-img" src="https://iardo-assets.pages.dev/images/google.webp" alt="Google" style="width:80px;height:80px;object-fit:contain;" onerror="this.style.display='none'">
       </span>
     </div>
   </div>
@@ -566,28 +563,28 @@ section { padding: 80px 0; position: relative; }
     <div class="svc-grid">
       <div class="svc-card reveal">
         <div class="svc-img-wrap">
-          <img src="/assets/images/bussinesssite.jpeg" alt="Business Sites">
+          <img src="https://iardo-assets.pages.dev/images/bussinesssite.webp" alt="Business Sites">
         </div>
         <h3>Business Sites</h3>
         <p>Professional websites that build trust and turn visitors into enquiries.</p>
       </div>
       <div class="svc-card coral-card reveal d1">
         <div class="svc-img-wrap">
-          <img src="/assets/images/onlinestores.jpeg" alt="Online Stores">
+          <img src="https://iardo-assets.pages.dev/images/onlinestores.webp" alt="Online Stores">
         </div>
         <h3>Online Stores</h3>
         <p>Complete e-commerce with secure payments, ready to sell from day one.</p>
       </div>
       <div class="svc-card reveal d2">
         <div class="svc-img-wrap">
-          <img src="/assets/images/custom.jpeg" alt="Custom Web Apps">
+          <img src="https://iardo-assets.pages.dev/images/custom.webp" alt="Custom Web Apps">
         </div>
         <h3>Custom Web Apps</h3>
         <p>Booking systems, dashboards &amp; portals built exactly for your business.</p>
       </div>
       <div class="svc-card coral-card reveal d3">
         <div class="svc-img-wrap">
-          <img src="/assets/images/landingpage.jpeg" alt="Landing Pages">
+          <img src="https://iardo-assets.pages.dev/images/landingpage.webp" alt="Landing Pages">
         </div>
         <h3>Landing Pages</h3>
         <p>High-converting pages for your Google &amp; Meta ad campaigns.</p>
@@ -656,7 +653,7 @@ section { padding: 80px 0; position: relative; }
     <div class="steps">
       <div class="step reveal">
         <div class="step-img-wrap">
-          <img src="/assets/images/quickchat.jpeg" alt="Quick Chat" style="width:100%;height:100%;object-fit:cover;">
+          <img src="https://iardo-assets.pages.dev/images/quickchat.webp" alt="Quick Chat" style="width:100%;height:100%;object-fit:cover;">
           <div class="step-num-badge">1</div>
         </div>
         <h3>Quick chat</h3>
@@ -664,7 +661,7 @@ section { padding: 80px 0; position: relative; }
       </div>
       <div class="step reveal d1">
         <div class="step-img-wrap">
-          <img src="/assets/images/design2.png" alt="We Design" style="width:100%;height:100%;object-fit:cover;">
+          <img src="https://iardo-assets.pages.dev/images/design2.webp" alt="We Design" style="width:100%;height:100%;object-fit:cover;">
           <div class="step-num-badge">2</div>
         </div>
         <h3>We design</h3>
@@ -672,7 +669,7 @@ section { padding: 80px 0; position: relative; }
       </div>
       <div class="step reveal d2">
         <div class="step-img-wrap">
-          <img src="/assets/images/build.jpeg" alt="We Build" style="width:100%;height:100%;object-fit:cover;">
+          <img src="https://iardo-assets.pages.dev/images/build.webp" alt="We Build" style="width:100%;height:100%;object-fit:cover;">
           <div class="step-num-badge">3</div>
         </div>
         <h3>We build</h3>
@@ -680,7 +677,7 @@ section { padding: 80px 0; position: relative; }
       </div>
       <div class="step reveal d3">
         <div class="step-img-wrap">
-          <img src="/assets/images/golive.jpeg" alt="Go Live" style="width:100%;height:100%;object-fit:cover;">
+          <img src="https://iardo-assets.pages.dev/images/golive.webp" alt="Go Live" style="width:100%;height:100%;object-fit:cover;">
           <div class="step-num-badge">4</div>
         </div>
         <h3>Go live</h3>
@@ -701,7 +698,7 @@ section { padding: 80px 0; position: relative; }
     <div class="work-grid">
       <div class="work-card reveal">
         <div class="work-thumb">
-          <img src="/assets/images/dreamnaukriss.png" alt="Dream Naukri - Job Portal">
+          <img src="https://iardo-assets.pages.dev/images/dreamnaukri.webp" alt="Dream Naukri - Job Portal">
           <div class="work-overlay"></div>
         </div>
         <div class="work-body">
@@ -715,7 +712,7 @@ section { padding: 80px 0; position: relative; }
       </div>
       <div class="work-card reveal d1">
         <div class="work-thumb">
-          <img src="/assets/images/netclixss.png" alt="Netclix - Bulk Marketing">
+          <img src="https://iardo-assets.pages.dev/images/netclix.webp" alt="Netclix - Bulk Marketing">
           <div class="work-overlay"></div>
         </div>
         <div class="work-body">
@@ -729,7 +726,7 @@ section { padding: 80px 0; position: relative; }
       </div>
       <div class="work-card reveal">
         <div class="work-thumb">
-          <img src="/assets/images/toywallahss.png" alt="Toywallah - Baby Products">
+          <img src="https://iardo-assets.pages.dev/images/toywallah.webp" alt="Toywallah - Baby Products">
           <div class="work-overlay"></div>
         </div>
         <div class="work-body">
@@ -743,7 +740,7 @@ section { padding: 80px 0; position: relative; }
       </div>
 <div class="work-card reveal">
   <div class="work-thumb">
-    <img src="/assets/images/HOB.png" alt="House of Brownies - Premium Brownies & Blondies">
+    <img src="https://iardo-assets.pages.dev/images/HOB.webp" alt="House of Brownies - Premium Brownies & Blondies">
     <div class="work-overlay"></div>
   </div>
   <div class="work-body">
@@ -759,7 +756,7 @@ section { padding: 80px 0; position: relative; }
 
       <div class="work-card reveal d1">
         <div class="work-thumb">
-          <img src="/assets/images/bullclothingsss.png" alt="Bullclothings - Online Shopping">
+          <img src="https://iardo-assets.pages.dev/images/bullclothing.webp" alt="Bullclothings - Online Shopping">
           <div class="work-overlay"></div>
         </div>
         <div class="work-body">
@@ -791,7 +788,7 @@ section { padding: 80px 0; position: relative; }
         <p class="t-quote">&ldquo;Best money we&rsquo;ve spent this year. Enquiries doubled within the first month.&rdquo;</p>
         <div class="t-author">
           <div class="t-avatar-wrap">
-            <img src="/assets/images/boy.jpeg" alt="Rahul Sharma" style="width:100%;height:100%;object-fit:cover;border-radius:50%;">
+            <img src="https://iardo-assets.pages.dev/images/boy.webp" alt="Rahul Sharma" style="width:100%;height:100%;object-fit:cover;border-radius:50%;">
           </div>
           <div><div class="t-name">Rahul Sharma</div><div class="t-role">Owner, Sharma Hardware</div></div>
         </div>
@@ -801,7 +798,7 @@ section { padding: 80px 0; position: relative; }
         <p class="t-quote">&ldquo;Finally a website I&rsquo;m proud to share. Fast, clean and it looks premium.&rdquo;</p>
         <div class="t-author">
           <div class="t-avatar-wrap">
-            <img src="/assets/images/girl.jpeg" alt="Dr. Priya Anand" style="width:100%;height:100%;object-fit:cover;border-radius:50%;">
+            <img src="https://iardo-assets.pages.dev/images/girl.webp" alt="Dr. Priya Anand" style="width:100%;height:100%;object-fit:cover;border-radius:50%;">
           </div>
           <div><div class="t-name">Dr. Priya Anand</div><div class="t-role">Founder, Smile Dental</div></div>
         </div>
@@ -811,7 +808,7 @@ section { padding: 80px 0; position: relative; }
         <p class="t-quote">&ldquo;Quick, professional and delivered on time. Explained everything simply.&rdquo;</p>
         <div class="t-author">
           <div class="t-avatar-wrap">
-            <img src="/assets/images/boy2.jpeg" alt="Manish Kumar" style="width:100%;height:100%;object-fit:cover;border-radius:50%;">
+            <img src="https://iardo-assets.pages.dev/images/boy2.webp" alt="Manish Kumar" style="width:100%;height:100%;object-fit:cover;border-radius:50%;">
           </div>
           <div><div class="t-name">Manish Kumar</div><div class="t-role">Director, FitZone Gym</div></div>
         </div>

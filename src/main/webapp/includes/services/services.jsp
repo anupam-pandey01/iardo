@@ -311,7 +311,7 @@
                 </div>
             </div>
             
-            <div class="service-card d-mart" onclick="window.location.href='${pageContext.request.contextPath}/services/dmart-seller-onboarding/'">
+            <div class="service-card d-mart" onclick="window.location.href='${pageContext.request.contextPath}/services/e-commerce/d-mart/'">
 			    <div class="card-inner">
 			        <div class="card-header">
 			            <div class="card-title">

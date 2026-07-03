@@ -121,10 +121,6 @@ a, button, .btn, .navbar, nav {
     z-index: 0;
 }
 
-@media (max-width: 768px) {
-    .hero-premium { padding-top: 90px !important; }
-}
-
 /* =====================================================
    WHY CHOOSE SECTION
 ===================================================== */
@@ -483,6 +479,7 @@ a, button, .btn, .navbar, nav {
     align-items: center;
     justify-content: center;
     gap: 16px;
+    margin-bottom: 20px;
 }
 
 .trust-rule {
