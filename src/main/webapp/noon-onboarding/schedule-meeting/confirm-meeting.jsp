@@ -923,7 +923,7 @@ const displayDate = params.get("displayDate");
 
 if (!date || !time || !timezone) {
     alert("Invalid meeting details. Please reselect slot.");
-    window.location.href = "schedule-meeting.jsp";
+    window.location.href = "${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/";
 }
 
 document.getElementById("bookingDate").value = date;

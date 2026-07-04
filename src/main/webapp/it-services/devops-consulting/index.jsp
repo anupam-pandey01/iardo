@@ -612,7 +612,7 @@
                 DevOps consulting helps businesses streamline their software development and IT operations by combining development (Dev) and operations (Ops). It enables faster delivery, better collaboration, and more reliable deployments.
             </p>
             <div class="hero-cta-buttons">
-                <a href="schedule-meeting.jsp" class="hero-cta-primary">
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="hero-cta-primary">
                     <i class="fas fa-rocket"></i> Start DevOps Consulting
                 </a>
                 <a href="#services" class="hero-cta-secondary">
@@ -845,7 +845,7 @@
             <h2>Start DevOps Consulting Today</h2>
             <p>Want to speed up your development and deployment? Connect with our experts to transform your IT operations.</p>
             <div class="cta-buttons">
-                <a href="schedule-meeting.jsp" class="cta-btn-primary">
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="cta-btn-primary">
                     <i class="fas fa-calendar-check"></i> Contact Us Today
                 </a>
             </div>

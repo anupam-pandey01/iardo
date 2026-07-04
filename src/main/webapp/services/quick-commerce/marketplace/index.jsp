@@ -125,47 +125,47 @@
         </div>
 
         <div class="features-grid">
-            <div class="feature-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="feature-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <div class="feature-icon"><i class="fas fa-store"></i></div>
                 <h3>Multi-Platform Account Setup</h3>
                 <p>We handle seller registration, documentation, GST verification, bank account linking, and KYC compliance across all major marketplaces including Amazon, Flipkart, Meesho, Myntra, and more.</p>
             </div>
-            <div class="feature-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="feature-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <div class="feature-icon"><i class="fas fa-file-alt"></i></div>
                 <h3>Complete Documentation Support</h3>
                 <p>Expert assistance with GSTIN registration, trademark certificates, brand authorization letters, FSSAI licenses, and all platform-specific documentation requirements for seamless approval.</p>
             </div>
-            <div class="feature-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="feature-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <div class="feature-icon"><i class="fas fa-shopping-bag"></i></div>
                 <h3>Product Catalog Creation</h3>
                 <p>Professional product listing with SEO-optimized titles, detailed descriptions, high-quality images, accurate categorization, and competitive pricing across all platforms simultaneously.</p>
             </div>
-            <div class="feature-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="feature-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <div class="feature-icon"><i class="fas fa-sync-alt"></i></div>
                 <h3>Inventory Synchronization</h3>
                 <p>Real-time inventory management across multiple marketplaces to prevent overselling, maintain stock accuracy, and ensure seamless order fulfillment on all platforms.</p>
             </div>
-            <div class="feature-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="feature-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <div class="feature-icon"><i class="fas fa-chart-pie"></i></div>
                 <h3>Pricing & Competition Analysis</h3>
                 <p>Strategic pricing recommendations based on competitor analysis, marketplace dynamics, and profit margin optimization to maximize your sales across all platforms.</p>
             </div>
-            <div class="feature-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="feature-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <div class="feature-icon"><i class="fas fa-shipping-fast"></i></div>
                 <h3>Logistics & Fulfillment Setup</h3>
                 <p>Integration with FBA, F-Assured, and other fulfillment services. Setup of shipping methods, warehouse locations, and delivery options for efficient order processing.</p>
             </div>
-            <div class="feature-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="feature-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <div class="feature-icon"><i class="fas fa-graduation-cap"></i></div>
                 <h3>Platform Training & Support</h3>
                 <p>Comprehensive training on seller dashboards, order management, customer communication, returns processing, and platform-specific tools for each marketplace.</p>
             </div>
-            <div class="feature-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="feature-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <div class="feature-icon"><i class="fas fa-bullhorn"></i></div>
                 <h3>Marketing & Promotion Setup</h3>
                 <p>Assistance with sponsored ads, deals, coupons, lightning deals, and promotional campaigns to boost visibility and drive sales on each platform.</p>
             </div>
-            <div class="feature-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="feature-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <div class="feature-icon"><i class="fas fa-chart-bar"></i></div>
                 <h3>Unified Analytics Dashboard</h3>
                 <p>Consolidated reporting and analytics across all marketplaces to track performance, monitor sales trends, and make data-driven decisions for business growth.</p>
@@ -179,32 +179,32 @@
             <p class="subtitle">Perfect for businesses of all sizes and categories</p>
         </div>
         <div class="benefits-grid">
-            <div class="benefit-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="benefit-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <span class="benefit-icon"><i class="fas fa-tshirt"></i></span>
                 <h4>Fashion & Apparel Brands</h4>
                 <p>Expand your clothing, footwear, and accessories business across Myntra, Ajio, Flipkart Fashion, Amazon Fashion, Meesho, and other fashion-focused marketplaces.</p>
             </div>
-            <div class="benefit-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="benefit-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <span class="benefit-icon"><i class="fas fa-mobile-alt"></i></span>
                 <h4>Electronics & Gadgets Sellers</h4>
                 <p>Reach tech-savvy customers by listing mobile phones, laptops, accessories, and electronics on Amazon, Flipkart, Croma, Reliance Digital, and Vijay Sales platforms.</p>
             </div>
-            <div class="benefit-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="benefit-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <span class="benefit-icon"><i class="fas fa-home"></i></span>
                 <h4>Home & Lifestyle Products</h4>
                 <p>Showcase furniture, home decor, kitchen appliances, and lifestyle products across Pepperfry, Urban Ladder, Amazon Home, Flipkart Furniture, and JioMart.</p>
             </div>
-            <div class="benefit-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="benefit-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <span class="benefit-icon"><i class="fas fa-heartbeat"></i></span>
                 <h4>Health & Beauty Brands</h4>
                 <p>Launch cosmetics, skincare, supplements, and wellness products on Nykaa, Purplle, 1mg, Amazon Beauty, Flipkart Health+, and other specialized platforms.</p>
             </div>
-            <div class="benefit-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="benefit-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <span class="benefit-icon"><i class="fas fa-shopping-cart"></i></span>
                 <h4>Grocery & FMCG Suppliers</h4>
                 <p>Distribute packaged foods, beverages, and daily essentials through Blinkit, Zepto, Swiggy Instamart, BigBasket, JioMart, Amazon Pantry, and Flipkart Supermart.</p>
             </div>
-            <div class="benefit-card" onclick="window.location='schedule-meeting.jsp'" style="cursor:pointer;">
+            <div class="benefit-card" onclick="window.location='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'" style="cursor:pointer;">
                 <span class="benefit-icon"><i class="fas fa-book"></i></span>
                 <h4>Books & Stationery Sellers</h4>
                 <p>Sell books, educational materials, office supplies, and stationery across Amazon Books, Flipkart Books, Snapdeal, Paytm Mall, and other platforms.</p>

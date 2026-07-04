@@ -608,7 +608,7 @@ body {
                 </div>
 
                 <div class="hero-buttons">
-                    <a href="schedule-meeting.jsp" class="btn btn-primary">
+                    <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn btn-primary">
                         <span><i class="fas fa-chart-line"></i> Start Growing Today</span>
                     </a>
                     <a href="#services" class="btn btn-secondary">
@@ -794,7 +794,7 @@ body {
             <h2>Start Generating Leads with Google Ads Today</h2>
             <p>Want to run profitable Google Ads campaigns for your ecommerce or seller onboarding business? Contact IARDO today for a free consultation and let us grow your business faster!</p>
             <div class="cta-buttons">
-                <a href="schedule-meeting.jsp" class="btn-cta"><i class="fas fa-rocket"></i> Get Your Free Google Ads Consultation Now</a>
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta"><i class="fas fa-rocket"></i> Get Your Free Google Ads Consultation Now</a>
             </div>
         </div>
     </section>

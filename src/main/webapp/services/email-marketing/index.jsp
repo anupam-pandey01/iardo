@@ -564,7 +564,7 @@ body {
         
         <div class="plans-grid">
             <!-- Starter Plan -->
-            <div class="plan-card animate-on-scroll clickable-card" data-delay="0" onclick="window.location.href='<%= request.getContextPath() %>/schedule-meeting.jsp?plan=starter'">
+            <div class="plan-card animate-on-scroll clickable-card" data-delay="0" onclick="window.location.href='<%= request.getContextPath() %>/${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/?plan=starter'">
                 <div class="plan-header">
                     <h3>Starter</h3>
                     <p>Perfect for small businesses</p>
@@ -583,13 +583,13 @@ body {
                     <li><i class="fas fa-check"></i> List Management</li>
                     <li><i class="fas fa-check"></i> Email Support</li>
                 </ul>
-                <a href="<%= request.getContextPath() %>/schedule-meeting.jsp?plan=starter" class="plan-btn" onclick="event.stopPropagation()">
+                <a href="<%= request.getContextPath() %>/${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/?plan=starter" class="plan-btn" onclick="event.stopPropagation()">
                     Get Custom Quote <i class="fas fa-arrow-right"></i>
                 </a>
             </div>
             
             <!-- Growth Plan -->
-            <div class="plan-card popular animate-on-scroll clickable-card" data-delay="0.1" onclick="window.location.href='<%= request.getContextPath() %>/schedule-meeting.jsp?plan=growth'">
+            <div class="plan-card popular animate-on-scroll clickable-card" data-delay="0.1" onclick="window.location.href='<%= request.getContextPath() %>/${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/?plan=growth'">
                 <div class="popular-badge">Most Popular</div>
                 <div class="plan-header">
                     <h3>Growth</h3>
@@ -612,13 +612,13 @@ body {
                     <li><i class="fas fa-check"></i> Custom Domain</li>
                 </ul>
                 
-                <a href="<%= request.getContextPath() %>/schedule-meeting.jsp?plan=growth" class="plan-btn" onclick="event.stopPropagation()">
+                <a href="<%= request.getContextPath() %>/${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/?plan=growth" class="plan-btn" onclick="event.stopPropagation()">
                     Get Custom Quote <i class="fas fa-arrow-right"></i>
                 </a>
             </div>
             
             <!-- Professional Plan -->
-            <div class="plan-card animate-on-scroll clickable-card" data-delay="0.2" onclick="window.location.href='<%= request.getContextPath() %>/schedule-meeting.jsp?plan=professional'">
+            <div class="plan-card animate-on-scroll clickable-card" data-delay="0.2" onclick="window.location.href='<%= request.getContextPath() %>/${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/?plan=professional'">
                 <div class="plan-header">
                     <h3>Professional</h3>
                     <p>For established businesses</p>
@@ -643,7 +643,7 @@ body {
                     <li><i class="fas fa-check"></i> API Access</li>
                 </ul>
                 
-                <a href="<%= request.getContextPath() %>/schedule-meeting.jsp?plan=professional" class="plan-btn" onclick="event.stopPropagation()">
+                <a href="<%= request.getContextPath() %>/${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/?plan=professional" class="plan-btn" onclick="event.stopPropagation()">
                     Get Custom Quote <i class="fas fa-arrow-right"></i>
                 </a>
             </div>

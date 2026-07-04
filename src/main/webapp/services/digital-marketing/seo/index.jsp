@@ -616,7 +616,7 @@
                 </div>
 
                 <div class="hero-buttons">
-                    <a href="schedule-meeting.jsp" class="btn btn-primary">
+                    <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn btn-primary">
                         <span><i class="fas fa-chart-line"></i> Start SEO Today</span>
                     </a>
                     <a href="#services" class="btn btn-secondary">
@@ -787,7 +787,7 @@
             <h2>Start SEO for Your Business Today</h2>
             <p>Want to rank your website for onboarding and ecommerce keywords? Contact us today for a free SEO consultation and let IARDO grow your business organically!</p>
             <div class="cta-buttons">
-                <a href="schedule-meeting.jsp" class="btn-cta"><i class="fas fa-rocket"></i> Get Your Free SEO Consultation Today</a>
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta"><i class="fas fa-rocket"></i> Get Your Free SEO Consultation Today</a>
             </div>
         </div>
     </section>

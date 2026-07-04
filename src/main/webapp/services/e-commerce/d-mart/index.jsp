@@ -861,7 +861,7 @@
                     </div>
 
                     <div class="dmart-hero-buttons">
-                        <a href="schedule-meeting.jsp" class="btn btn-primary">
+                        <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn btn-primary">
                             <i class="fas fa-rocket"></i> Become a D-Mart Vendor
                         </a>
                         <a href="#services" class="btn btn-secondary">
@@ -1165,31 +1165,13 @@
             </div>
         </section>
 
-        <!-- RELATED SERVICES -->
-        <section class="related-section" id="related">
-            <div class="section-header">
-                <p class="subtitle">Explore more</p>
-                <h2>Related Services</h2>
-            </div>
-            <div class="related-links">
-                <p>Many brands launching on D-Mart also evaluate quick commerce and major marketplaces. See our complete
-                    <a href="blinkit-onboarding-services">Blinkit Onboarding Services</a>,
-                    <a href="zepto-seller-onboarding">Zepto Seller Onboarding</a>,
-                    <a href="swiggy-instamart-seller-onboarding">Swiggy Instamart Onboarding</a>,
-                    <a href="bigbasket-onboarding">BigBasket Onboarding</a>,
-                    <a href="amazon-seller-onboarding">Amazon Seller Onboarding</a>, and
-                    <a href="flipkart-seller-onboarding">Flipkart Seller Onboarding</a>.
-                </p>
-            </div>
-        </section>
-
         <!-- CTA -->
         <section class="cta">
             <div class="cta-content">
                 <h2>Want to Become a D-Mart Vendor and Grow Your Business?</h2>
                 <p>D-Mart's vendor onboarding rewards brands that get it right. Let IARDO handle your complete D-Mart vendor onboarding &mdash; from EOI submission and commercial negotiations to ERP integration and first PO &mdash; so you can launch with confidence!</p>
                 <div class="cta-buttons">
-                    <a href="schedule-meeting.jsp" class="btn-cta">
+                    <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta">
                         <i class="fas fa-rocket"></i> Get a Free Consultation Today
                     </a>
                     <a href="tel:+919310194865" class="btn-cta-outline">

@@ -954,7 +954,7 @@
         <div class="cta-content">
             <h2>Move Your Business to Cloud Today</h2>
             <p>Want to scale your business with cloud solutions? Talk to our experts for a free consultation and discover how we can transform your infrastructure.</p>
-            <a href="schedule-meeting.jsp" class="cta-btn">Get a Free Consultation</a>
+            <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="cta-btn">Get a Free Consultation</a>
         </div>
     </section>
 

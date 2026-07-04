@@ -689,7 +689,7 @@
                 </div>
 
                 <div class="hero-buttons">
-                    <a href="#contact" class="btn btn-primary">
+                    <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn btn-primary">
                         <span><i class="fas fa-rocket"></i> Start Your Project</span>
                     </a>
                     <a href="#services" class="btn btn-secondary">
@@ -827,7 +827,7 @@
             <h2>Ready to Launch Your Dream Website?</h2>
             <p>Let IARDO create a stunning, high-performing website that drives your business forward!</p>
             <div class="cta-buttons">
-                <a href="#contact" class="btn-cta"><i class="fas fa-rocket"></i> Get Your Free Quote Today</a>
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta"><i class="fas fa-rocket"></i> Get Your Free Quote Today</a>
             </div>
         </div>
     </section>

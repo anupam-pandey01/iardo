@@ -584,7 +584,7 @@
                 Build, Launch & Scale Your Startup. We turn ideas into fully functional digital products and businesses. Validate ideas quickly, launch your MVP, and scale efficiently with expert tech solutions.
             </p>
             <div class="hero-cta-buttons">
-                <a href="schedule-meeting.jsp" class="hero-cta-primary">
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="hero-cta-primary">
                     <i class="fas fa-rocket"></i> Launch Your Startup
                 </a>
                 <a href="#services" class="hero-cta-secondary">
@@ -810,7 +810,7 @@
             <h2>Launch Your Startup Today</h2>
             <p>Have a startup idea? Let's turn it into reality with our expert development services.</p>
             <div class="cta-buttons">
-                <a href="schedule-meeting.jsp" class="cta-primary">
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="cta-primary">
                     <i class="fas fa-calendar-check"></i> Book a Free Strategy Call
                 </a>
             </div>

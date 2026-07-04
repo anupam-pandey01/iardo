@@ -798,7 +798,7 @@
             </p>
             <div class="hero-cta">
                 <a href="#services" class="cta-primary">Explore Solutions</a>
-                <a href="schedule-meeting.jsp" class="cta-secondary">Free Consultation</a>
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="cta-secondary">Free Consultation</a>
             </div>
         </div>
         <div class="hero-visual">
@@ -1008,7 +1008,7 @@
             <h2>Start Your Data Engineering Project Today</h2>
             <p>Want to turn your data into powerful, actionable insights? Contact us today for a free consultation and let's unlock your data's true value.</p>
             <div class="cta-buttons">
-                <a href="schedule-meeting.jsp" class="cta-btn-white">Schedule Free Consultation</a>
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="cta-btn-white">Schedule Free Consultation</a>
             </div>
         </div>
     </section>

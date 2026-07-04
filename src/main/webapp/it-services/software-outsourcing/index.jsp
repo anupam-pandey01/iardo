@@ -620,7 +620,7 @@
             <h1>Custom Software <br><span>Development Services</span></h1>
             <p class="subtitle">Build Scalable Business Solutions Tailored to Your Needs</p>
             <p class="subtitle">We develop powerful, custom-built software to automate your operations, improve efficiency, and scale your business — designed specifically for how you work.</p>
-            <a href="schedule-meeting.jsp" class="cta-button">Get a Free Consultation <i class="fas fa-arrow-right"></i></a>
+            <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="cta-button">Get a Free Consultation <i class="fas fa-arrow-right"></i></a>
         </div>
     </header>
 

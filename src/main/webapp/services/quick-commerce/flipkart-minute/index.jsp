@@ -48,7 +48,7 @@
                 </div>
 
                 <div class="hero-buttons">
-                    <a href="schedule-meeting.jsp" class="btn btn-primary">
+                    <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn btn-primary">
                         <i class="fas fa-shopping-bag"></i>
                         <span>Start Onboarding</span>
                     </a>

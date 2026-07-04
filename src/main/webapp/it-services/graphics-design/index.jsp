@@ -32,7 +32,7 @@
 			</h1>
 			<p>Get exceptional graphic design services tailored to elevate
 				your brand identity and visual presence.</p>
-			<a href="schedule-meeting.jsp" class="btn"
+			<a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn"
 				style="margin: 0; display: inline-flex;"> Start Your Project <span
 				class="btn-arrow">→</span>
 			</a>

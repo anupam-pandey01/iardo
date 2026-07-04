@@ -186,7 +186,7 @@
   <div class="cta-box">
     <h2>Ready to Start Selling? 🚀</h2>
     <p>Join 100+ sellers who trust IARDO to manage their marketplace presence and scale their revenue.</p>
-    <a href="${pageContext.request.contextPath}/schedule-meeting.jsp" class="btn-primary">
+    <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-primary">
       Book a Free Consultation →
     </a>
   </div>

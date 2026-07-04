@@ -143,7 +143,7 @@
                 <li><i class="fas fa-check"></i> Quality Link Building</li>
                 <li><i class="fas fa-check"></i> Local SEO Optimization</li>
             </ul>
-            <a href="schedule-meeting.jsp" class="service-link">
+            <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="service-link">
                 Learn More <i class="fas fa-arrow-right"></i>
             </a>
         </div>
@@ -161,7 +161,7 @@
                 <li><i class="fas fa-check"></i> Remarketing Campaigns</li>
                 <li><i class="fas fa-check"></i> A/B Testing & Optimization</li>
             </ul>
-            <a href="schedule-meeting.jsp" class="service-link">
+            <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="service-link">
                 Learn More <i class="fas fa-arrow-right"></i>
             </a>
         </div>
@@ -178,7 +178,7 @@
                 <li><i class="fas fa-check"></i> Influencer Marketing</li>
                 <li><i class="fas fa-check"></i> Social Media Analytics</li>
             </ul>
-            <a href="schedule-meeting.jsp" class="service-link">
+            <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="service-link">
                 Learn More <i class="fas fa-arrow-right"></i>
             </a>
         </div>
@@ -195,7 +195,7 @@
                 <li><i class="fas fa-check"></i> Infographic Design</li>
                 <li><i class="fas fa-check"></i> Content Distribution</li>
             </ul>
-            <a href="schedule-meeting.jsp" class="service-link">
+            <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="service-link">
                 Learn More <i class="fas fa-arrow-right"></i>
             </a>
         </div>
@@ -212,7 +212,7 @@
                 <li><i class="fas fa-check"></i> List Segmentation</li>
                 <li><i class="fas fa-check"></i> A/B Testing</li>
             </ul>
-            <a href="schedule-meeting.jsp" class="service-link">
+            <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="service-link">
                 Learn More <i class="fas fa-arrow-right"></i>
             </a>
         </div>
@@ -229,7 +229,7 @@
                 <li><i class="fas fa-check"></i> Monthly Reports</li>
                 <li><i class="fas fa-check"></i> Performance Insights</li>
             </ul>
-            <a href="schedule-meeting.jsp" class="service-link">
+            <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="service-link">
                 Learn More <i class="fas fa-arrow-right"></i>
             </a>
         </div>

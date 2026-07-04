@@ -50,7 +50,7 @@
             </div>
 
             <div class="hero-buttons">
-                <a href="schedule-meeting.jsp" class="btn btn-primary">
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn btn-primary">
                     <span>Start Your App Journey</span>
                     <i class="fas fa-rocket"></i>
                 </a>
@@ -383,11 +383,11 @@
         <h2>Ready to Build Your Dream App?</h2>
         <p>Let's transform your vision into a powerful mobile application that users will love. Get a free consultation and project estimate today.</p>
         <div class="cta-buttons">
-            <a href="schedule-meeting.jsp" class="btn-cta primary">
+            <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta primary">
                 <span>Schedule Free Consultation</span>
                 <i class="fas fa-calendar-check"></i>
             </a>
-            <a href="schedule-meeting.jsp" class="btn-cta secondary">
+            <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta secondary">
                 <span>Get Project Quote</span>
                 <i class="fas fa-file-invoice-dollar"></i>
             </a>

@@ -749,7 +749,7 @@
                 Automation testing is the process of using tools and scripts to test software applications automatically. It helps detect bugs faster, improve accuracy, and ensure high-quality performance without manual effort. With automation testing, businesses can save time, reduce errors, and deliver better software products.
             </p>
             <div class="hero-cta-buttons">
-                <a href="schedule-meeting.jsp" class="hero-cta-primary">
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="hero-cta-primary">
                     Get Started <i class="fas fa-arrow-right"></i>
                 </a>
                 <a href="#services" class="hero-cta-secondary">
@@ -1045,10 +1045,10 @@
                 Want to improve your software quality? Contact us today for a free consultation and let's make your applications bug-free.
             </p>
             <div class="cta-buttons">
-                <a href="schedule-meeting.jsp" class="btn-cta-primary">
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta-primary">
                     Contact Us Today <i class="fas fa-arrow-right"></i>
                 </a>
-                <a href="schedule-meeting.jsp" class="btn-cta-secondary">
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta-secondary">
                     Free Consultation <i class="fas fa-calendar-check"></i>
                 </a>
             </div>

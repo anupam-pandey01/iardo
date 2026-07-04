@@ -631,7 +631,7 @@
                 Smart & Reliable Embedded Solutions. Embedded software is specialized programming designed to run on hardware devices like IoT systems, machines, and electronic products. It controls device functionality and ensures smooth, real-time operations.
             </p>
             <div class="hero-buttons">
-                <button class="btn-primary" onclick="location.href='schedule-meeting.jsp'">
+                <button class="btn-primary" onclick="location.href='${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/'">
                     <i class="fas fa-rocket"></i> Start Your Project
                 </button>               
                 <button class="btn-secondary" onclick="location.href='#services'">
@@ -842,7 +842,7 @@
             <h2>Start Your Embedded Project Today</h2>
             <p>Looking to build smart and reliable embedded systems? Let's discuss your requirements.</p>
             <div class="cta-buttons">
-                <a href="schedule-meeting.jsp" class="btn-cta-primary">
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta-primary">
                     <i class="fas fa-calendar-check"></i> Schedule Free Consultation
                 </a>
             </div>

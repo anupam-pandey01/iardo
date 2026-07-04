@@ -573,7 +573,7 @@
                 A dedicated software development team is a group of skilled developers, designers, and project managers who work exclusively on your project. It acts as an extension of your in-house team, helping you build, manage, and scale software efficiently.
             </p>
             <div class="hero-cta-buttons">
-                <a href="schedule-meeting.jsp" class="hero-cta-primary">
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="hero-cta-primary">
                     <i class="fas fa-rocket"></i> Hire Dedicated Team
                 </a>
                 <a href="#services" class="hero-cta-secondary">
@@ -806,7 +806,7 @@
             <h2>Hire Dedicated Development Team Today</h2>
             <p>Looking to scale your development team quickly? Build your product faster with our expert engineers.</p>
             <div class="cta-buttons">
-                <a href="schedule-meeting.jsp" class="cta-btn-primary">
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="cta-btn-primary">
                     <i class="fas fa-calendar-check"></i> Contact Us Today
                 </a>
             </div>

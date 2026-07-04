@@ -369,7 +369,7 @@
                 <h1>Digital Transformation Services – <br><span class="gradient-text">Transform & Scale Your Business</span></h1>
                 <p>Digital transformation is the process of using technology to improve business operations, customer experience, and overall performance. Streamline processes, reduce costs, and achieve faster growth.</p>
                 <div class="dt-btn-group">
-                    <a href="schedule-meeting.jsp" class="btn btn-primary"><i class="fas fa-rocket"></i> Transform Today</a>
+                    <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn btn-primary"><i class="fas fa-rocket"></i> Transform Today</a>
                     <a href="#services" class="btn btn-secondary"><i class="fas fa-list"></i> Our Services</a>
                 </div>
             </div>
@@ -575,7 +575,7 @@
             <div class="cta-container">
                 <h2>Start Your Digital Transformation Today</h2>
                 <p>Ready to transform your business digitally and achieve unprecedented growth?</p>
-                <a href="schedule-meeting.jsp" class="btn-cta"><i class="fas fa-calendar-check"></i> Contact Us for a Free Consultation</a>
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta"><i class="fas fa-calendar-check"></i> Contact Us for a Free Consultation</a>
             </div>
         </section>
 

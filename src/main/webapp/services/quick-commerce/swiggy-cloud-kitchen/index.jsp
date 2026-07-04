@@ -405,7 +405,7 @@
             <h2>📞 Start Your Cloud Kitchen Today</h2>
             <p>Want to start your food business on Swiggy? Contact us today for a free consultation.</p>
             <div class="cta-buttons">
-                <a href="schedule-meeting.jsp" class="btn-cta">
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta">
                     <i class="fas fa-rocket"></i> Start My Onboarding
                 </a>
                 <a href="https://wa.me/919310194865" class="btn-cta-whatsapp" target="_blank">

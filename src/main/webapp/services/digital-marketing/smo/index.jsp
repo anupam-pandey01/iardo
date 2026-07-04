@@ -608,7 +608,7 @@ body {
                 </div>
 
                 <div class="hero-buttons">
-                    <a href="schedule-meeting.jsp" class="btn btn-primary">
+                    <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn btn-primary">
                         <span><i class="fas fa-rocket"></i> Grow Your Social Media</span>
                     </a>
                     <a href="#services" class="btn btn-secondary">
@@ -774,7 +774,7 @@ body {
             <h2>Ready to Grow Your Business on Social Media?</h2>
             <p>Let IARDO's SMO experts build your brand's social presence and generate organic leads consistently!</p>
             <div class="cta-buttons">
-                <a href="schedule-meeting.jsp" class="btn-cta"><i class="fas fa-rocket"></i> Get a Free Consultation Today</a>
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta"><i class="fas fa-rocket"></i> Get a Free Consultation Today</a>
             </div>
         </div>
     </section>

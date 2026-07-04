@@ -794,7 +794,7 @@
             </p>
             <div class="hero-cta">
                 <a href="#services" class="cta-primary">Explore Solutions</a>
-                <a href="schedule-meeting.jsp" class="cta-secondary">Get Started Today</a>
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="cta-secondary">Get Started Today</a>
             </div>
         </div>
         <div class="hero-visual">
@@ -1003,7 +1003,7 @@
             <h2>Build AI Solutions Today</h2>
             <p>Want to integrate Generative AI into your business? Let's build intelligent solutions that propel your operations into the future.</p>
             <div class="cta-buttons">
-                <a href="schedule-meeting.jsp" class="cta-btn-white">Contact Us Now</a>
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="cta-btn-white">Contact Us Now</a>
             </div>
         </div>
     </section>

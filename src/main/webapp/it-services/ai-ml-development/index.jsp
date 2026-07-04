@@ -361,7 +361,7 @@
                 <h1>AI & ML Services – <br><span class="gradient-text">Smart Automation & Intelligent Business Solutions</span></h1>
                 <p>AI (Artificial Intelligence) and ML (Machine Learning) services help businesses automate processes, analyze data, and make smarter decisions. Improve efficiency, reduce manual work, and enhance customer experience today.</p>
                 <div class="ai-btn-group">
-                    <a href="schedule-meeting.jsp" class="btn btn-primary"><i class="fas fa-rocket"></i> Get Started</a>
+                    <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn btn-primary"><i class="fas fa-rocket"></i> Get Started</a>
                     <a href="#services" class="btn btn-secondary"><i class="fas fa-list"></i> Explore Services</a>
                 </div>
             </div>
@@ -561,7 +561,7 @@
             <div class="section-container">
                 <h2>Start Using AI Today</h2>
                 <p>Want to automate workflows and grow your business with Custom AI & ML solutions?</p>
-                <a href="schedule-meeting.jsp" class="btn-cta"><i class="fas fa-calendar-check"></i> Contact Us for a Free Consultation</a>
+                <a href="${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/" class="btn-cta"><i class="fas fa-calendar-check"></i> Contact Us for a Free Consultation</a>
             </div>
         </section>
 
