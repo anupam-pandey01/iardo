@@ -5,11 +5,11 @@
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Blinkit Onboarding Services in India | Agency from Delhi | IARDO</title>
 <meta name="description" content="IARDO provides expert Blinkit onboarding services across India. Complete Blinkit seller registration, documentation, GST, catalog & go-live. Delhi-based, PAN India. lifetime validity, fully refundable. 2500+ brands onboarded.">
-<link rel="canonical" href="https://iardo.in/blinkit-onboarding-services">
+<link rel="canonical" href="https://iardo.in/services/quick-commerce/blinkit-onboarding-services/">
 <meta property="og:title" content="Blinkit Onboarding Services in India | IARDO">
 <meta property="og:description" content="End-to-end Blinkit seller onboarding across India — registration, GST, catalog & go-live. Delhi-based agency, PAN India.">
 <meta property="og:image" content="blinkit-onboarding-services.png">
-<meta property="og:type" content="website"><meta property="og:url" content="https://iardo.in/blinkit-onboarding-services">
+<meta property="og:type" content="website"><meta property="og:url" content="https://iardo.in/services/quick-commerce/blinkit-onboarding-services/">
 <meta name="twitter:card" content="summary_large_image">
 <script type="application/ld+json">
 {
@@ -47,7 +47,7 @@
         "@id": "https://iardo.in#org"
       },
       "areaServed": "IN",
-      "url": "https://iardo.in/blinkit-onboarding-services",
+      "url": "https://iardo.in/services/quick-commerce/blinkit-onboarding-services/",
       "description": "End-to-end Blinkit seller onboarding across India \u2014 registration, documentation, GST, catalog, and go-live.",
       "offers": {
         "@type": "Offer",
@@ -123,7 +123,7 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Blinkit Onboarding Services",
-          "item": "https://iardo.in/blinkit-onboarding-services"
+          "item": "https://iardo.in/services/quick-commerce/blinkit-onboarding-services/"
         }
       ]
     },
