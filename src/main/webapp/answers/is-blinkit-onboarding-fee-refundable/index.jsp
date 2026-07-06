@@ -1,30 +1,36 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-pageEncoding="UTF-8" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Blinkit Onboarding — Quick Answers | IARDO</title>
+    <title>Is the Blinkit Onboarding Fee Refundable? (2026) | IARDO</title>
     <meta
       name="description"
-      content="Direct answers to the most common Blinkit seller onboarding questions — cost, timeline, refund policy, documents and commission. By IARDO."
+      content="Yes, IARDO's Blinkit onboarding fee is 100% refundable if your account doesn't go live. Learn how the guarantee works."
     />
-    <link rel="canonical" href="https://iardo.in/answers/" />
+    <link
+      rel="canonical"
+      href="https://iardo.in/answers/is-blinkit-onboarding-fee-refundable"
+    />
     <meta
       property="og:title"
-      content="Blinkit Onboarding — Quick Answers | IARDO"
+      content="Is the Blinkit Onboarding Fee Refundable? (2026) | IARDO"
     />
     <meta
       property="og:description"
-      content="Direct answers to common Blinkit onboarding questions — cost, timeline, documents, commission."
+      content="Yes, IARDO's Blinkit onboarding fee is 100% refundable if your account doesn't go live. Learn how the guarantee works."
     />
     <meta
       property="og:image"
       content="https://iardo.in/blinkit-onboarding-services.png"
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://iardo.in/answers/" />
+    <meta
+      property="og:url"
+      content="https://iardo.in/answers/is-blinkit-onboarding-fee-refundable"
+    />
+    <meta name="twitter:card" content="summary" />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -51,35 +57,57 @@ pageEncoding="UTF-8" %>
             }
           },
           {
-            "@type": "CollectionPage",
-            "name": "Blinkit Onboarding \u2014 Quick Answers",
-            "url": "https://iardo.in/answers/",
-            "description": "Direct answers to common questions about Blinkit seller onboarding, cost, timeline, documents and commission.",
-            "hasPart": [
+            "@type": "WebPage",
+            "@id": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable",
+            "url": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable",
+            "name": "Is the Blinkit Onboarding Fee Refundable?",
+            "datePublished": "2026-06-20",
+            "dateModified": "2026-06-20",
+            "isPartOf": {
+              "@id": "https://iardo.in#website"
+            },
+            "speakable": {
+              "@type": "SpeakableSpecification",
+              "cssSelector": [".direct-answer"]
+            }
+          },
+          {
+            "@type": "QAPage",
+            "mainEntity": {
+              "@type": "Question",
+              "name": "Is the Blinkit Onboarding Fee Refundable?",
+              "text": "Is the Blinkit Onboarding Fee Refundable?",
+              "answerCount": 1,
+              "dateCreated": "2026-06-20",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. IARDO's Blinkit onboarding fee is fully refundable if your seller account does not go live on Blinkit. The fee is one-time, includes lifetime registration validity, and IARDO stands behind the outcome \u2014 if onboarding doesn't result in a live account, you get your money back.",
+                "dateCreated": "2026-06-20",
+                "upvoteCount": 0,
+                "author": {
+                  "@id": "https://iardo.in#org"
+                }
+              }
+            }
+          },
+          {
+            "@type": "FAQPage",
+            "mainEntity": [
               {
-                "@type": "WebPage",
-                "name": "How Long Does Blinkit Onboarding Take?",
-                "url": "https://iardo.in/answers/how-long-does-blinkit-onboarding-take"
+                "@type": "Question",
+                "name": "Does the refund cover Blinkit's own fees too?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "The refund guarantee applies to IARDO's onboarding service fee. It does not apply to any third-party charges unrelated to the onboarding outcome."
+                }
               },
               {
-                "@type": "WebPage",
-                "name": "How Much Does Blinkit Onboarding Cost?",
-                "url": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost"
-              },
-              {
-                "@type": "WebPage",
-                "name": "Is the Blinkit Onboarding Fee Refundable?",
-                "url": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable"
-              },
-              {
-                "@type": "WebPage",
-                "name": "What Documents Are Needed to Sell on Blinkit?",
-                "url": "https://iardo.in/answers/what-documents-needed-for-blinkit"
-              },
-              {
-                "@type": "WebPage",
-                "name": "What Is Blinkit's Commission for Sellers?",
-                "url": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers"
+                "@type": "Question",
+                "name": "How do I know if I qualify for a refund?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "If your account does not go live after IARDO completes the onboarding process, you qualify. Contact IARDO directly to process it."
+                }
               }
             ]
           },
@@ -95,8 +123,14 @@ pageEncoding="UTF-8" %>
               {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Quick Answers",
-                "item": "https://iardo.in/answers/"
+                "name": "Blinkit Onboarding",
+                "item": "https://iardo.in/blinkit-onboarding-services"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Refund Policy",
+                "item": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable"
               }
             ]
           }
@@ -1262,127 +1296,122 @@ pageEncoding="UTF-8" %>
         background: linear-gradient(135deg, #3a3115 0%, #1f1a0e 100%);
       }
 
-      .qa-grid {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 16px;
-        margin: 28px 0;
-      }
-      @media (max-width: 680px) {
-        .qa-grid {
-          grid-template-columns: 1fr;
-        }
-      }
-      .qa-grid .card {
+      .direct-answer {
         background: var(--card, #fff);
-        border: 1px solid rgba(39, 33, 20, 0.12);
-        border-left: 4px solid #f6cb46;
-        border-radius: 12px;
-        padding: 20px 22px;
-        transition: transform 0.15s;
+        border: 2px solid #f6cb46;
+        border-radius: 16px;
+        padding: 28px 30px;
+        margin: 28px 0;
+        font-size: 1.08rem;
+        line-height: 1.7;
       }
-      .qa-grid .card:hover {
-        transform: translateY(-2px);
-      }
-      .qa-grid .card h4 {
-        font-family: "Fraunces", serif;
+      .direct-answer strong.lbl {
+        display: block;
+        font-family: "Hanken Grotesk", sans-serif;
+        font-size: 0.78rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
         color: #272114;
+        margin-bottom: 10px;
+        opacity: 0.6;
+      }
+      .crumbs {
+        font-size: 0.85rem;
+        color: var(--muted, #888);
+        margin-bottom: 6px;
+      }
+      .crumbs a {
+        color: inherit;
+        text-decoration: underline;
       }
     </style>
   </head>
   <body>
-    <jsp:include page="../includes/navbar/navbar.jsp" />
+    <jsp:include page="../../includes/navbar/navbar.jsp" />
     <header class="hero">
       <div class="wrap">
-        <h1>Blinkit Onboarding — Quick Answers</h1>
-        <p class="dek">
-          Direct, no-fluff answers to the questions sellers ask most before
-          onboarding on Blinkit.
-        </p>
+        <h1>Is the Blinkit Onboarding Fee Refundable?</h1>
       </div>
     </header>
     <div class="wrap">
       <article>
-        <div class="qa-grid">
-          <a
-            class="card"
-            href="${pageContext.request.contextPath}/answers/how-long-does-blinkit-onboarding-take"
-            style="display: block; text-decoration: none"
-          >
-            <h4 style="margin: 0 0 6px">
-              How Long Does Blinkit Onboarding Take?
-            </h4>
-            <p style="margin: 0; color: var(--muted, #888); font-size: 0.95rem">
-              Typical timeline, what affects it, and how to go live faster.
-            </p>
-          </a>
-          <a
-            class="card"
-            href="${pageContext.request.contextPath}/answers/how-much-does-blinkit-onboarding-cost"
-            style="display: block; text-decoration: none"
-          >
-            <h4 style="margin: 0 0 6px">
-              How Much Does Blinkit Onboarding Cost?
-            </h4>
-            <p style="margin: 0; color: var(--muted, #888); font-size: 0.95rem">
-              Pricing, what's included, and how it differs from Blinkit's
-              selling fees.
-            </p>
-          </a>
-          <a
-            class="card"
-            href="${pageContext.request.contextPath}/answers/is-blinkit-onboarding-fee-refundable"
-            style="display: block; text-decoration: none"
-          >
-            <h4 style="margin: 0 0 6px">
-              Is the Blinkit Onboarding Fee Refundable?
-            </h4>
-            <p style="margin: 0; color: var(--muted, #888); font-size: 0.95rem">
-              IARDO's refund guarantee, explained.
-            </p>
-          </a>
-          <a
-            class="card"
-            href="${pageContext.request.contextPath}/answers/what-documents-needed-for-blinkit"
-            style="display: block; text-decoration: none"
-          >
-            <h4 style="margin: 0 0 6px">
-              What Documents Are Needed to Sell on Blinkit?
-            </h4>
-            <p style="margin: 0; color: var(--muted, #888); font-size: 0.95rem">
-              The complete document checklist, including APOB.
-            </p>
-          </a>
-          <a
-            class="card"
-            href="${pageContext.request.contextPath}/answers/what-is-blinkit-commission-for-sellers"
-            style="display: block; text-decoration: none"
-          >
-            <h4 style="margin: 0 0 6px">
-              What Is Blinkit's Commission for Sellers?
-            </h4>
-            <p style="margin: 0; color: var(--muted, #888); font-size: 0.95rem">
-              Full fee breakdown — commission, fulfilment, storage and GST.
-            </p>
-          </a>
+        <div class="direct-answer">
+          <strong class="lbl">Short Answer</strong>Yes. IARDO's Blinkit
+          onboarding fee is fully refundable if your seller account does not go
+          live on Blinkit. The fee is one-time, includes lifetime registration
+          validity, and IARDO stands behind the outcome — if onboarding doesn't
+          result in a live account, you get your money back.
         </div>
-        <h2><span class="hash">#</span>Want the Full Picture?</h2>
+        <h2><span class="hash">#</span>Why This Matters</h2>
         <p>
-          See our complete
-          <a class="inline" href="../blinkit-onboarding-services"
-            >Blinkit Onboarding Services</a
+          Many sellers hesitate to pay an onboarding fee upfront, unsure whether
+          approval will actually come through. IARDO's refund guarantee removes
+          that risk — you only pay for a result, not just an attempt.
+        </p>
+        <h2><span class="hash">#</span>What Counts as "Not Going Live"?</h2>
+        <p>
+          If, after IARDO completes the documentation and registration process
+          on your behalf, your Blinkit seller account does not get approved and
+          go live, the onboarding fee is refunded in full.
+        </p>
+        <h2><span class="hash">#</span>Related Questions</h2>
+        <div class="faq">
+          <details>
+            <summary>Does the refund cover Blinkit's own fees too?</summary>
+            <div class="ans">
+              The refund guarantee applies to IARDO's onboarding service fee. It
+              does not apply to any third-party charges unrelated to the
+              onboarding outcome.
+            </div>
+          </details>
+          <details>
+            <summary>How do I know if I qualify for a refund?</summary>
+            <div class="ans">
+              If your account does not go live after IARDO completes the
+              onboarding process, you qualify. Contact IARDO directly to process
+              it.
+            </div>
+          </details>
+        </div>
+        <div class="wa-cta big">
+          <p class="kick">Want IARDO to handle your Blinkit onboarding?</p>
+          <p class="sub">
+            Message us — we manage the entire process end-to-end.
+          </p>
+          <a
+            class="wa-btn"
+            href="https://wa.me/919310194865?text=Hi%20IARDO%2C%20I%20have%20a%20question%20about%20Blinkit%20onboarding.%20%28answers%20page%3A%20is-blinkit-onboarding-fee-refundable%29"
+            ><svg viewBox="0 0 24 24" fill="#fff" aria-hidden="true">
+              <path
+                d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"
+              /></svg
+            >Talk to IARDO on WhatsApp</a
           >
-          page, the
-          <a class="inline" href="../how-to-sell-on-blinkit"
+        </div>
+        <h2><span class="hash">#</span>Related Reading</h2>
+        <p style="margin-bottom: 8px">
+          <a class="inline" href="./">&larr; All Blinkit Quick Answers</a>
+        </p>
+        <p>
+          See our
+          <a class="inline" href="${pageContext.request.contextPath}/blog/how-to-sell-on-blinkit"
             >how to sell on Blinkit</a
+          >,
+          <a class="inline" href="${pageContext.request.contextPath}/blog/blinkit-commission-charges"
+            >commission &amp; charges</a
+          >,
+          <a class="inline" href="${pageContext.request.contextPath}/blog/blinkit-seller-documents"
+            >documents required</a
           >
-          step-by-step guide, or our
-          <a class="inline" href="../blinkit-onboarding-delhi"
-            >Delhi onboarding page</a
-          >.
+        </p>
+        
+        <p style="font-size: 13px; color: var(--muted, #888); margin-top: 24px">
+          IARDO · Rohini, Delhi · +91 93101 94865 · Authorized Amazon Seller
+          Acquisition Partner · Since 2016
         </p>
       </article>
     </div>
-    <jsp:include page="../includes/footer/footer.jsp" />
+    <jsp:include page="../../includes/footer/footer.jsp" />
   </body>
 </html>
+

@@ -5,26 +5,33 @@ pageEncoding="UTF-8" %>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Blinkit Onboarding — Quick Answers | IARDO</title>
+    <title>How Much Does Blinkit Onboarding Cost? (2026) | IARDO</title>
     <meta
       name="description"
-      content="Direct answers to the most common Blinkit seller onboarding questions — cost, timeline, refund policy, documents and commission. By IARDO."
+      content="Blinkit onboarding with IARDO costs ₹20,000 + GST, fully refundable if not live. Learn what's included and how it differs from Blinkit's selling fees."
     />
-    <link rel="canonical" href="https://iardo.in/answers/" />
+    <link
+      rel="canonical"
+      href="https://iardo.in/answers/how-much-does-blinkit-onboarding-cost"
+    />
     <meta
       property="og:title"
-      content="Blinkit Onboarding — Quick Answers | IARDO"
+      content="How Much Does Blinkit Onboarding Cost? (2026) | IARDO"
     />
     <meta
       property="og:description"
-      content="Direct answers to common Blinkit onboarding questions — cost, timeline, documents, commission."
+      content="Blinkit onboarding with IARDO costs ₹20,000 + GST, fully refundable if not live. Learn what's included and how it differs from Blinkit's selling fees."
     />
     <meta
       property="og:image"
       content="https://iardo.in/blinkit-onboarding-services.png"
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://iardo.in/answers/" />
+    <meta
+      property="og:url"
+      content="https://iardo.in/answers/how-much-does-blinkit-onboarding-cost"
+    />
+    <meta name="twitter:card" content="summary" />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -51,35 +58,57 @@ pageEncoding="UTF-8" %>
             }
           },
           {
-            "@type": "CollectionPage",
-            "name": "Blinkit Onboarding \u2014 Quick Answers",
-            "url": "https://iardo.in/answers/",
-            "description": "Direct answers to common questions about Blinkit seller onboarding, cost, timeline, documents and commission.",
-            "hasPart": [
+            "@type": "WebPage",
+            "@id": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost",
+            "url": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost",
+            "name": "How Much Does Blinkit Onboarding Cost?",
+            "datePublished": "2026-06-20",
+            "dateModified": "2026-06-20",
+            "isPartOf": {
+              "@id": "https://iardo.in#website"
+            },
+            "speakable": {
+              "@type": "SpeakableSpecification",
+              "cssSelector": [".direct-answer"]
+            }
+          },
+          {
+            "@type": "QAPage",
+            "mainEntity": {
+              "@type": "Question",
+              "name": "How Much Does Blinkit Onboarding Cost?",
+              "text": "How Much Does Blinkit Onboarding Cost?",
+              "answerCount": 1,
+              "dateCreated": "2026-06-20",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "IARDO's Blinkit onboarding service costs \u20b920,000 plus 18% GST (\u20b923,600 total). This is a one-time fee that includes lifetime registration validity and is fully refundable if your Blinkit seller account doesn't go live. This covers the onboarding service fee \u2014 separately, Blinkit charges its own commission (roughly 8-15%, slab-based) plus fulfilment and storage fees once you start selling.",
+                "dateCreated": "2026-06-20",
+                "upvoteCount": 0,
+                "author": {
+                  "@id": "https://iardo.in#org"
+                }
+              }
+            }
+          },
+          {
+            "@type": "FAQPage",
+            "mainEntity": [
               {
-                "@type": "WebPage",
-                "name": "How Long Does Blinkit Onboarding Take?",
-                "url": "https://iardo.in/answers/how-long-does-blinkit-onboarding-take"
+                "@type": "Question",
+                "name": "Is there a separate fee for each product category?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "No \u2014 IARDO's \u20b920,000 + GST onboarding fee is flat, regardless of category or number of SKUs."
+                }
               },
               {
-                "@type": "WebPage",
-                "name": "How Much Does Blinkit Onboarding Cost?",
-                "url": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost"
-              },
-              {
-                "@type": "WebPage",
-                "name": "Is the Blinkit Onboarding Fee Refundable?",
-                "url": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable"
-              },
-              {
-                "@type": "WebPage",
-                "name": "What Documents Are Needed to Sell on Blinkit?",
-                "url": "https://iardo.in/answers/what-documents-needed-for-blinkit"
-              },
-              {
-                "@type": "WebPage",
-                "name": "What Is Blinkit's Commission for Sellers?",
-                "url": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers"
+                "@type": "Question",
+                "name": "Does the onboarding fee include Blinkit's ongoing commission?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "No. The onboarding fee is separate, one-time, and covers getting your account live. Blinkit's commission and fulfilment fees apply afterward, on every sale."
+                }
               }
             ]
           },
@@ -95,8 +124,14 @@ pageEncoding="UTF-8" %>
               {
                 "@type": "ListItem",
                 "position": 2,
-                "name": "Quick Answers",
-                "item": "https://iardo.in/answers/"
+                "name": "Blinkit Onboarding",
+                "item": "https://iardo.in/blinkit-onboarding-services"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Onboarding Cost",
+                "item": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost"
               }
             ]
           }
@@ -1262,127 +1297,138 @@ pageEncoding="UTF-8" %>
         background: linear-gradient(135deg, #3a3115 0%, #1f1a0e 100%);
       }
 
-      .qa-grid {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 16px;
-        margin: 28px 0;
-      }
-      @media (max-width: 680px) {
-        .qa-grid {
-          grid-template-columns: 1fr;
-        }
-      }
-      .qa-grid .card {
+      .direct-answer {
         background: var(--card, #fff);
-        border: 1px solid rgba(39, 33, 20, 0.12);
-        border-left: 4px solid #f6cb46;
-        border-radius: 12px;
-        padding: 20px 22px;
-        transition: transform 0.15s;
+        border: 2px solid #f6cb46;
+        border-radius: 16px;
+        padding: 28px 30px;
+        margin: 28px 0;
+        font-size: 1.08rem;
+        line-height: 1.7;
       }
-      .qa-grid .card:hover {
-        transform: translateY(-2px);
-      }
-      .qa-grid .card h4 {
-        font-family: "Fraunces", serif;
+      .direct-answer strong.lbl {
+        display: block;
+        font-family: "Hanken Grotesk", sans-serif;
+        font-size: 0.78rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
         color: #272114;
+        margin-bottom: 10px;
+        opacity: 0.6;
+      }
+      .crumbs {
+        font-size: 0.85rem;
+        color: var(--muted, #888);
+        margin-bottom: 6px;
+      }
+      .crumbs a {
+        color: inherit;
+        text-decoration: underline;
       }
     </style>
   </head>
-  <body>
-    <jsp:include page="../includes/navbar/navbar.jsp" />
-    <header class="hero">
+  <body> 
+    <jsp:include page="../../includes/navbar/navbar.jsp" />    
+<header class="hero">
       <div class="wrap">
-        <h1>Blinkit Onboarding — Quick Answers</h1>
-        <p class="dek">
-          Direct, no-fluff answers to the questions sellers ask most before
-          onboarding on Blinkit.
-        </p>
+        <h1>How Much Does Blinkit Onboarding Cost?</h1>
       </div>
     </header>
     <div class="wrap">
       <article>
-        <div class="qa-grid">
-          <a
-            class="card"
-            href="${pageContext.request.contextPath}/answers/how-long-does-blinkit-onboarding-take"
-            style="display: block; text-decoration: none"
-          >
-            <h4 style="margin: 0 0 6px">
-              How Long Does Blinkit Onboarding Take?
-            </h4>
-            <p style="margin: 0; color: var(--muted, #888); font-size: 0.95rem">
-              Typical timeline, what affects it, and how to go live faster.
-            </p>
-          </a>
-          <a
-            class="card"
-            href="${pageContext.request.contextPath}/answers/how-much-does-blinkit-onboarding-cost"
-            style="display: block; text-decoration: none"
-          >
-            <h4 style="margin: 0 0 6px">
-              How Much Does Blinkit Onboarding Cost?
-            </h4>
-            <p style="margin: 0; color: var(--muted, #888); font-size: 0.95rem">
-              Pricing, what's included, and how it differs from Blinkit's
-              selling fees.
-            </p>
-          </a>
-          <a
-            class="card"
-            href="${pageContext.request.contextPath}/answers/is-blinkit-onboarding-fee-refundable"
-            style="display: block; text-decoration: none"
-          >
-            <h4 style="margin: 0 0 6px">
-              Is the Blinkit Onboarding Fee Refundable?
-            </h4>
-            <p style="margin: 0; color: var(--muted, #888); font-size: 0.95rem">
-              IARDO's refund guarantee, explained.
-            </p>
-          </a>
-          <a
-            class="card"
-            href="${pageContext.request.contextPath}/answers/what-documents-needed-for-blinkit"
-            style="display: block; text-decoration: none"
-          >
-            <h4 style="margin: 0 0 6px">
-              What Documents Are Needed to Sell on Blinkit?
-            </h4>
-            <p style="margin: 0; color: var(--muted, #888); font-size: 0.95rem">
-              The complete document checklist, including APOB.
-            </p>
-          </a>
-          <a
-            class="card"
-            href="${pageContext.request.contextPath}/answers/what-is-blinkit-commission-for-sellers"
-            style="display: block; text-decoration: none"
-          >
-            <h4 style="margin: 0 0 6px">
-              What Is Blinkit's Commission for Sellers?
-            </h4>
-            <p style="margin: 0; color: var(--muted, #888); font-size: 0.95rem">
-              Full fee breakdown — commission, fulfilment, storage and GST.
-            </p>
-          </a>
+        <div class="direct-answer">
+          <strong class="lbl">Short Answer</strong>IARDO's Blinkit onboarding
+          service costs ₹20,000 plus 18% GST (₹23,600 total). This is a one-time
+          fee that includes lifetime registration validity and is fully
+          refundable if your Blinkit seller account doesn't go live. This covers
+          the onboarding service fee — separately, Blinkit charges its own
+          commission (roughly 8-15%, slab-based) plus fulfilment and storage
+          fees once you start selling.
         </div>
-        <h2><span class="hash">#</span>Want the Full Picture?</h2>
+        <h2><span class="hash">#</span>What's Included in the ₹20,000 Fee?</h2>
         <p>
-          See our complete
-          <a class="inline" href="../blinkit-onboarding-services"
-            >Blinkit Onboarding Services</a
+          IARDO's onboarding fee covers seller registration, KYC and document
+          verification, GST/FSSAI handling, multi-state APOB amendments, catalog
+          creation, and Category Manager coordination through go-live. There are
+          no hidden charges beyond the quoted fee plus GST.
+        </p>
+        <h2>
+          <span class="hash">#</span>This Is Different from Blinkit's Own
+          Selling Fees
+        </h2>
+        <p>
+          Once live, Blinkit charges its own commission and fulfilment fees on
+          every sale — typically totalling around 25-30% of selling price across
+          commission, fulfilment, and storage. This is separate from, and
+          ongoing after, the one-time onboarding fee.
+        </p>
+        <h2>
+          <span class="hash">#</span>Why a Fixed Fee Instead of a Percentage?
+        </h2>
+        <p>
+          A flat ₹20,000 + GST fee means costs are predictable regardless of
+          your brand size or category, with the same refund guarantee for every
+          seller.
+        </p>
+        <h2><span class="hash">#</span>Related Questions</h2>
+        <div class="faq">
+          <details>
+            <summary>
+              Is there a separate fee for each product category?
+            </summary>
+            <div class="ans">
+              No — IARDO's ₹20,000 + GST onboarding fee is flat, regardless of
+              category or number of SKUs.
+            </div>
+          </details>
+          <details>
+            <summary>
+              Does the onboarding fee include Blinkit's ongoing commission?
+            </summary>
+            <div class="ans">
+              No. The onboarding fee is separate, one-time, and covers getting
+              your account live. Blinkit's commission and fulfilment fees apply
+              afterward, on every sale.
+            </div>
+          </details>
+        </div>
+        <div class="wa-cta big">
+          <p class="kick">Want IARDO to handle your Blinkit onboarding?</p>
+          <p class="sub">
+            Message us — we manage the entire process end-to-end.
+          </p>
+          <a
+            class="wa-btn"
+            href="https://wa.me/919310194865?text=Hi%20IARDO%2C%20I%20have%20a%20question%20about%20Blinkit%20onboarding.%20%28answers%20page%3A%20how-much-does-blinkit-onboarding-cost%29"
+            ><svg viewBox="0 0 24 24" fill="#fff" aria-hidden="true">
+              <path
+                d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"
+              /></svg
+            >Talk to IARDO on WhatsApp</a
           >
-          page, the
-          <a class="inline" href="../how-to-sell-on-blinkit"
+        </div>
+        <h2><span class="hash">#</span>Related Reading</h2>
+        <p style="margin-bottom: 8px">
+          <a class="inline" href="./">&larr; All Blinkit Quick Answers</a>
+        </p>
+        <p>
+          See our
+          <a class="inline" href="${pageContext.request.contextPath}/blog/how-to-sell-on-blinkit"
             >how to sell on Blinkit</a
+          >,
+          <a class="inline" href="${pageContext.request.contextPath}/blog/blinkit-commission-charges"
+            >commission &amp; charges</a
+          >,
+          <a class="inline" href="${pageContext.request.contextPath}/blog/blinkit-seller-documents"
+            >documents required</a
           >
-          step-by-step guide, or our
-          <a class="inline" href="../blinkit-onboarding-delhi"
-            >Delhi onboarding page</a
-          >.
+        </p>
+        <p style="font-size: 13px; color: var(--muted, #888); margin-top: 24px">
+          IARDO · Rohini, Delhi · +91 93101 94865 · Authorized Amazon Seller
+          Acquisition Partner · Since 2016
         </p>
       </article>
     </div>
-    <jsp:include page="../includes/footer/footer.jsp" />
+<jsp:include page="../../includes/footer/footer.jsp" />
   </body>
 </html>
