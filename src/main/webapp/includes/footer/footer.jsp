@@ -328,7 +328,7 @@
 								href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart/">Swiggy
 									Instamart</a></li>
 							<li><a
-								href="${pageContext.request.contextPath}/services/quick-commerce/blinkit/">Blinkit</a></li>
+								href="${pageContext.request.contextPath}/services/quick-commerce/blinkit-onboarding-services/">Blinkit</a></li>
 							<li><a
 								href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen/">Swiggy
 									Cloud Kitchen</a></li>

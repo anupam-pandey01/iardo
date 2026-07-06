@@ -32,6 +32,7 @@ body {
 }
 
 .hero h1 {
+	margin-top: 100px;
     font-size: 56px;
     margin-bottom: 15px;
     font-weight: 700;

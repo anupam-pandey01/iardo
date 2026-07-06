@@ -813,7 +813,7 @@ MEGA MENU FIX - Viewport ke andar rakho
 									href="${pageContext.request.contextPath}/services/quick-commerce/flipkart-minute">Flipkart
 										Minutes</a></li>
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/blinkit">Blinkit</a></li>
+									href="${pageContext.request.contextPath}/services/quick-commerce/blinkit-onboarding-services">Blinkit</a></li>
 								<li><a
 									href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen">Swiggy
 										Cloud Kitchen</a></li>
@@ -1034,7 +1034,7 @@ MEGA MENU FIX - Viewport ke andar rakho
 									href="${pageContext.request.contextPath}/services/quick-commerce/flipkart-minute">Flipkart
 										Minutes</a></li>
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/blinkit">Blinkit</a></li>
+									href="${pageContext.request.contextPath}/services/quick-commerce/blinkit-onboarding-services">Blinkit</a></li>
 								<li><a
 									href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen">Swiggy
 										Cloud Kitchen</a></li>

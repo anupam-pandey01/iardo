@@ -31,11 +31,11 @@
 
         <div class="services-grid">
 
-            <div class="service-card blinkit" onclick="window.location.href='${pageContext.request.contextPath}/services/quick-commerce/blinkit/">
+            <div class="service-card blinkit" onclick="window.location.href='${pageContext.request.contextPath}/services/quick-commerce/blinkit-onboarding-services/">
                 <div class="card-inner">
                     <div class="card-header">
                         <div class="card-title"><img src="${pageContext.request.contextPath}/assets/images/blinkit-logo2.png" alt="Blinkit" class="service-logo"> </div>
-                        <a href="${pageContext.request.contextPath}/services/quick-commerce/blinkit" class="card-arrow" onclick="event.stopPropagation()"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M17 7H7M17 7V17" stroke-width="2" stroke-linecap="round"/></svg></a>
+                        <a href="${pageContext.request.contextPath}/services/quick-commerce/blinkit-onboarding-services" class="card-arrow" onclick="event.stopPropagation()"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M17 7H7M17 7V17" stroke-width="2" stroke-linecap="round"/></svg></a>
                     </div>
                     <p class="card-description">Streamlined Blinkit onboarding with real-time inventory sync and 10-min delivery optimization.</p>
                     <div class="card-content">
