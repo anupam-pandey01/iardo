@@ -325,17 +325,17 @@
 						<h4>Quick Commerce</h4>
 						<ul>
 							<li><a
-								href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart/">Swiggy
+								href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/">Swiggy
 									Instamart</a></li>
 							<li><a
 								href="${pageContext.request.contextPath}/services/quick-commerce/blinkit-onboarding-services/">Blinkit</a></li>
 							<li><a
-								href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen/">Swiggy
+								href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen-onboarding-services/">Swiggy
 									Cloud Kitchen</a></li>
 							<li><a
-								href="${pageContext.request.contextPath}/services/quick-commerce/zepto/">Zepto</a></li>
+								href="${pageContext.request.contextPath}/services/quick-commerce/zepto-onboarding-services/">Zepto</a></li>
 							<li><a
-								href="${pageContext.request.contextPath}/services/quick-commerce/big-basket/">BigBasket</a></li>
+								href="${pageContext.request.contextPath}/services/quick-commerce/big-basket-onboarding//">BigBasket</a></li>
 							<li><a
 								href="${pageContext.request.contextPath}/services/e-commerce/jio-mart/">JioMart</a></li>
 							<li><a

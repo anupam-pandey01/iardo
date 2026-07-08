@@ -12,11 +12,11 @@ public class RedirectMappings {
 		REDIRECTS.put("/blinkit-onboarding-services", "/services/quick-commerce/blinkit-onboarding-services/");
 		REDIRECTS.put("/blinkit-seller-onboarding", "/services/quick-commerce/blinkit-onboarding-services/");
 		REDIRECTS.put("/zepto-seller-onboarding", "/services/quick-commerce/zepto/");
-		REDIRECTS.put("/swiggy-instamart-seller-onboarding", "/services/quick-commerce/swiggy-instamart/");
-		REDIRECTS.put("/bigbasket-onboarding", "/services/quick-commerce/big-basket/");
-		REDIRECTS.put("/flipkart-minutes-seller-onboarding", "/services/quick-commerce/flipkart-minute/");
-		REDIRECTS.put("/amazon-now-seller-onboarding", "/services/quick-commerce/amazon-now/");
-		REDIRECTS.put("/cloud-kitchen-seller-onboarding", "/services/quick-commerce/swiggy-cloud-kitchen/");
+		REDIRECTS.put("/swiggy-instamart-seller-onboarding", "/services/quick-commerce/swiggy-instamart-onboarding-services/");
+		REDIRECTS.put("/bigbasket-onboarding", "/services/quick-commerce/big-basket-onboarding//");
+		REDIRECTS.put("/flipkart-minutes-seller-onboarding", "/services/quick-commerce/flipkart-minute-onboarding-services/");
+		REDIRECTS.put("/amazon-now-seller-onboarding", "/services/quick-commerce/amazon-now-onboarding-services//");
+		REDIRECTS.put("/cloud-kitchen-seller-onboarding", "/services/quick-commerce/swiggy-cloud-kitchen-onboarding-services/");
 		REDIRECTS.put("/amazon-seller-onboarding", "/services/e-commerce/amazon/");
 		REDIRECTS.put("/flipkart-seller-onboarding", "/services/e-commerce/flipkart/");
 		REDIRECTS.put("/meesho-seller-onboarding", "/services/e-commerce/meesho/");
@@ -33,11 +33,11 @@ public class RedirectMappings {
 		REDIRECTS.put("/contact", "/contact-us/");
 		REDIRECTS.put("/instashop-seller-onboarding", "/services/quick-commerce/instashop/");
 		REDIRECTS.put("/noon-seller-onboarding", "/noon-onboarding/");
-		REDIRECTS.put("/flipkart-minutes.jsp", "/services/quick-commerce/flipkart-minute/");
+		REDIRECTS.put("/flipkart-minutes.jsp", "/services/quick-commerce/flipkart-minute-onboarding-services/");
 		REDIRECTS.put("/contact.jsp", "/contact-us/");
 		REDIRECTS.put("/Dmart", "/services/e-commerce/d-mart/");
 		REDIRECTS.put("/blinkit-commission-charges", "/blog/blinkit-commission-charges");
-		REDIRECTS.put("/cloud-kitchen.jsp", "/services/quick-commerce/swiggy-cloud-kitchen/");
+		REDIRECTS.put("/cloud-kitchen.jsp", "/services/quick-commerce/swiggy-cloud-kitchen-onboarding-services/");
 		REDIRECTS.put("/contact.jsp", "/contact-us/");
 		// TODO: Add remaining mappings from your sitemap.
 

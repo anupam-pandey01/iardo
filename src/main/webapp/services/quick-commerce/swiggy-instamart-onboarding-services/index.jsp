@@ -9,7 +9,7 @@
     <meta name="description" content="Start selling on Swiggy Instamart with expert onboarding services. We help you set up, list products, and grow your sales quickly.">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart/style.css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/style.css">
 </head>
 <body>
 

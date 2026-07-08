@@ -810,23 +810,23 @@ MEGA MENU FIX - Viewport ke andar rakho
 						<li class="sub-dropdown"><a href="#">Quick Commerce ▸</a>
 							<ul class="sub-menu">
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/flipkart-minute">Flipkart
+									href="${pageContext.request.contextPath}/services/quick-commerce/flipkart-minute-onboarding-services/">Flipkart
 										Minutes</a></li>
 								<li><a
 									href="${pageContext.request.contextPath}/services/quick-commerce/blinkit-onboarding-services">Blinkit</a></li>
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen">Swiggy
+									href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen-onboarding-services">Swiggy
 										Cloud Kitchen</a></li>
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart">Swiggy
+									href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services">Swiggy
 										Instamart</a></li>
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/zepto">Zepto</a></li>
+									href="${pageContext.request.contextPath}/services/quick-commerce/zepto-onboarding-services">Zepto</a></li>
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/big-basket">Big
+									href="${pageContext.request.contextPath}/services/quick-commerce/big-basket-onboarding/">Big
 										Basket</a></li>
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/amazon-now">Amazon
+									href="${pageContext.request.contextPath}/services/quick-commerce/amazon-now-onboarding-services/">Amazon
 										Now</a></li>
 							</ul></li>
 
@@ -1031,23 +1031,23 @@ MEGA MENU FIX - Viewport ke andar rakho
 						<li><a href="#" class="mob-toggle">Quick Commerce</a>
 							<ul class="mob-sub-menu">
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/flipkart-minute">Flipkart
+									href="${pageContext.request.contextPath}/services/quick-commerce/flipkart-minute-onboarding-services/">Flipkart
 										Minutes</a></li>
 								<li><a
 									href="${pageContext.request.contextPath}/services/quick-commerce/blinkit-onboarding-services">Blinkit</a></li>
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen">Swiggy
+									href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen-onboarding-services">Swiggy
 										Cloud Kitchen</a></li>
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart">Swiggy
+									href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services">Swiggy
 										Instamart</a></li>
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/zepto">Zepto</a></li>
+									href="${pageContext.request.contextPath}/services/quick-commerce/zepto-onboarding-services">Zepto</a></li>
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/big-basket">Big
+									href="${pageContext.request.contextPath}/services/quick-commerce/big-basket-onboarding/">Big
 										Basket</a></li>
 								<li><a
-									href="${pageContext.request.contextPath}/services/quick-commerce/amazon-now">Amazon
+									href="${pageContext.request.contextPath}/services/quick-commerce/amazon-now-onboarding-services/">Amazon
 										Now</a></li>
 							</ul></li>
 

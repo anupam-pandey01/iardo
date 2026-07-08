@@ -9,7 +9,7 @@
     <meta name="description" content="Start your cloud kitchen on Swiggy with expert setup services. We help with registration, menu setup, and sales growth.">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen/style.css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen-onboarding-services/style.css">
 </li>
 </head>
 <body>
