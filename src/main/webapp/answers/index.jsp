@@ -25,6 +25,12 @@
 <meta property="og:site_name" content="IARDO">
 <meta property="og:locale" content="en_IN">
 <meta name="twitter:card" content="summary">
+<!-- ============================================================
+     JSON-LD schema for:  https://iardo.in/answers/what-is-blinkit-commission-for-sellers/
+     FIXED: new URLs (trailing slash) + breadcrumb updated + WebSite node + speakable selector + PRICE/NUMBERS removed.
+     Paste this whole <script> block inside the page's <head>.
+     NOTE: the speakable cssSelector ".answer-box" must match the element that wraps the quick answer on the page.
+     ============================================================ -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -35,14 +41,79 @@
       "name": "IARDO",
       "url": "https://iardo.in",
       "telephone": "+919310194865",
-      "email": "info@iardo.in"
+      "email": "info@iardo.in",
+      "foundingDate": "2016",
+      "founder": { "@type": "Person", "name": "Manish Madan" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "714-715, 7th Floor, Amba Tower, DC Chowk, Sector-9",
+        "addressLocality": "Rohini",
+        "addressRegion": "Delhi",
+        "postalCode": "110085",
+        "addressCountry": "IN"
+      }
     },
     {
-      "@type": "CollectionPage",
-      "@id": "${pageContext.request.contextPath}/answers/#page",
-      "url": "${pageContext.request.contextPath}/answers/",
-      "name": "Blinkit Seller Questions Answered",
-      "description": "Quick answers to the most common Blinkit seller questions \u2014 onboarding time, cost, commission, documents and refunds."
+      "@type": "WebSite",
+      "@id": "https://iardo.in#website",
+      "url": "https://iardo.in",
+      "name": "IARDO",
+      "publisher": { "@id": "https://iardo.in#org" }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/",
+      "url": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/",
+      "name": "What Is Blinkit's Commission for Sellers?",
+      "inLanguage": "en-IN",
+      "datePublished": "2026-06-16T13:09:00+05:30",
+      "dateModified": "2026-07-08T10:00:00+05:30",
+      "isPartOf": { "@id": "https://iardo.in#website" },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [ ".answer-box" ]
+      }
+    },
+    {
+      "@type": "QAPage",
+      "@id": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/#qa",
+      "mainEntity": {
+        "@type": "Question",
+        "name": "What Is Blinkit's Commission for Sellers?",
+        "text": "What Is Blinkit's Commission for Sellers?",
+        "answerCount": 1,
+        "dateCreated": "2026-06-16T13:09:00+05:30",
+        "author": { "@id": "https://iardo.in#org" },
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Blinkit's commission is set by the platform and is slab-based, varying by product category and price point — everyday low-priced items sit at the lower end, while premium categories are higher. On top of commission, sellers also pay platform fulfilment and storage charges, and GST on platform fees, so the all-in cost of selling is meaningfully more than commission alone. Because the exact slabs and fees depend on your category and are confirmed during onboarding, IARDO works out the complete, current cost for your specific SKUs so you can price every product to stay profitable.",
+          "url": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/",
+          "dateCreated": "2026-07-08T10:00:00+05:30",
+          "upvoteCount": 0,
+          "author": { "@id": "https://iardo.in#org" }
+        }
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is Blinkit's commission the same for every category?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Commission is slab-based and varies by category and price point. The exact slab for your products is confirmed during onboarding."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there fees beyond commission on Blinkit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Sellers also pay platform fulfilment and storage charges, optional marketing, and GST on platform fees, all of which add to the effective cost of selling. IARDO helps you factor the full cost into your pricing."
+          }
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -57,52 +128,13 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Answers",
-          "item": "${pageContext.request.contextPath}/answers/"
-        }
-      ]
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How Long Does Blinkit Onboarding Take?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blinkit onboarding typically takes 2 weeks to 2 months \u2014 around 60 working days from registration to going live \u2014 depending on how ready your documents are and how quickly Category Manager approvals come through."
-          }
+          "item": "https://iardo.in/answers/"
         },
         {
-          "@type": "Question",
-          "name": "How Much Does Blinkit Onboarding Cost?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The cost of selling on Blinkit comes from category commission, fulfilment fees, storage, and 18% GST on platform fees \u2014 together commonly landing around 25\u201330% of selling price. Blinkit itself does not charge a registration fee to become a seller."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the Blinkit Onboarding Fee Refundable?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "With IARDO, yes \u2014 the onboarding engagement is 100% refundable if your account does not go live on Blinkit. This removes the risk from getting started."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What Documents Are Needed for Blinkit?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To sell on Blinkit you need a registered business with GST, PAN, a cancelled cheque, trademark or brand authorisation, and a digital signature. Food and grocery sellers also need an FSSAI licence."
-          }
-        },
-        {
-          "@type": "Question",
+          "@type": "ListItem",
+          "position": 3,
           "name": "What Is Blinkit's Commission for Sellers?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Blinkit charges a category-based commission that varies by product type \u2014 agreed with the Category Manager during onboarding \u2014 alongside fulfilment fees, storage, and 18% GST on platform fees."
-          }
+          "item": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/"
         }
       ]
     }

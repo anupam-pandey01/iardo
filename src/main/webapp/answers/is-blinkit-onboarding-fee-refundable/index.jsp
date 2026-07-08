@@ -27,6 +27,14 @@
 <meta property="og:locale" content="en_IN">
 <meta name="twitter:card" content="summary">
 <script type="application/ld+json">
+<!-- ============================================================
+     JSON-LD schema for:  https://iardo.in/answers/is-blinkit-onboarding-fee-refundable/
+     FIXED: new URLs (trailing slash) + breadcrumb updated + WebSite node added + speakable selector.
+     (No price figure in this one — the refund-guarantee answer is fine as-is.)
+     Paste this whole <script> block inside the page's <head>.
+     NOTE: the speakable cssSelector ".answer-box" must match the element that wraps the quick answer on the page.
+     ============================================================ -->
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -36,31 +44,79 @@
       "name": "IARDO",
       "url": "https://iardo.in",
       "telephone": "+919310194865",
-      "email": "info@iardo.in"
+      "email": "info@iardo.in",
+      "foundingDate": "2016",
+      "founder": { "@type": "Person", "name": "Manish Madan" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "714-715, 7th Floor, Amba Tower, DC Chowk, Sector-9",
+        "addressLocality": "Rohini",
+        "addressRegion": "Delhi",
+        "postalCode": "110085",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iardo.in#website",
+      "url": "https://iardo.in",
+      "name": "IARDO",
+      "publisher": { "@id": "https://iardo.in#org" }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable/",
+      "url": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable/",
+      "name": "Is the Blinkit Onboarding Fee Refundable?",
+      "inLanguage": "en-IN",
+      "datePublished": "2026-06-17T10:47:00+05:30",
+      "dateModified": "2026-07-08T10:00:00+05:30",
+      "isPartOf": { "@id": "https://iardo.in#website" },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [ ".answer-box" ]
+      }
     },
     {
       "@type": "QAPage",
-      "@id": "${pageContext.request.contextPath}/answers/is-blinkit-onboarding-fee-refundable/#qa",
+      "@id": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable/#qa",
       "mainEntity": {
         "@type": "Question",
         "name": "Is the Blinkit Onboarding Fee Refundable?",
         "text": "Is the Blinkit Onboarding Fee Refundable?",
         "answerCount": 1,
-        "author": {
-          "@type": "Organization",
-          "name": "IARDO"
-        },
+        "dateCreated": "2026-06-17T10:47:00+05:30",
+        "author": { "@id": "https://iardo.in#org" },
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "With IARDO, yes \u2014 the onboarding engagement is 100% refundable if your account does not go live on Blinkit. This removes the risk from getting started.",
-          "url": "${pageContext.request.contextPath}/answers/is-blinkit-onboarding-fee-refundable/",
-          "author": {
-            "@type": "Organization",
-            "name": "IARDO",
-            "url": "https://iardo.in"
-          }
+          "text": "Yes. IARDO's Blinkit onboarding engagement is fully refundable if your seller account does not go live on Blinkit. IARDO stands behind the outcome, so if onboarding does not result in a live account, your fee is refunded. This removes the risk from getting started.",
+          "url": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable/",
+          "dateCreated": "2026-07-08T10:00:00+05:30",
+          "upvoteCount": 0,
+          "author": { "@id": "https://iardo.in#org" }
         }
       }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does the refund cover Blinkit's own fees too?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The refund guarantee applies to IARDO's onboarding engagement. It does not apply to any third-party charges unrelated to the onboarding outcome."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know if I qualify for a refund?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If your account does not go live after IARDO completes the onboarding process, you qualify. Contact IARDO directly to process it."
+          }
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -75,13 +131,13 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Answers",
-          "item": "${pageContext.request.contextPath}/answers/"
+          "item": "https://iardo.in/answers/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Is the Blinkit Onboarding Fee Refundable?",
-          "item": "${pageContext.request.contextPath}/answers/is-blinkit-onboarding-fee-refundable/"
+          "item": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable/"
         }
       ]
     }

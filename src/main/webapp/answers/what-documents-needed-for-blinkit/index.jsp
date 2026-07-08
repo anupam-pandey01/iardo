@@ -27,6 +27,12 @@
 <meta property="og:site_name" content="IARDO">
 <meta property="og:locale" content="en_IN">
 <meta name="twitter:card" content="summary">
+<!-- ============================================================
+     JSON-LD schema for:  https://iardo.in/answers/what-documents-needed-for-blinkit/
+     FIXED: new URLs (trailing slash) + breadcrumb updated + WebSite node added + speakable selector.
+     Paste this whole <script> block inside the page's <head>.
+     NOTE: the speakable cssSelector ".answer-box" must match the element that wraps the quick answer on the page.
+     ============================================================ -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -37,31 +43,79 @@
       "name": "IARDO",
       "url": "https://iardo.in",
       "telephone": "+919310194865",
-      "email": "info@iardo.in"
+      "email": "info@iardo.in",
+      "foundingDate": "2016",
+      "founder": { "@type": "Person", "name": "Manish Madan" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "714-715, 7th Floor, Amba Tower, DC Chowk, Sector-9",
+        "addressLocality": "Rohini",
+        "addressRegion": "Delhi",
+        "postalCode": "110085",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iardo.in#website",
+      "url": "https://iardo.in",
+      "name": "IARDO",
+      "publisher": { "@id": "https://iardo.in#org" }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://iardo.in/answers/what-documents-needed-for-blinkit/",
+      "url": "https://iardo.in/answers/what-documents-needed-for-blinkit/",
+      "name": "What Documents Are Needed to Sell on Blinkit?",
+      "inLanguage": "en-IN",
+      "datePublished": "2026-06-19T18:24:00+05:30",
+      "dateModified": "2026-07-08T10:00:00+05:30",
+      "isPartOf": { "@id": "https://iardo.in#website" },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [ ".answer-box" ]
+      }
     },
     {
       "@type": "QAPage",
-      "@id": "${pageContext.request.contextPath}/answers/what-documents-needed-for-blinkit/#qa",
+      "@id": "https://iardo.in/answers/what-documents-needed-for-blinkit/#qa",
       "mainEntity": {
         "@type": "Question",
-        "name": "What Documents Are Needed for Blinkit?",
-        "text": "What Documents Are Needed for Blinkit?",
+        "name": "What Documents Are Needed to Sell on Blinkit?",
+        "text": "What Documents Are Needed to Sell on Blinkit?",
         "answerCount": 1,
-        "author": {
-          "@type": "Organization",
-          "name": "IARDO"
-        },
+        "dateCreated": "2026-06-19T18:24:00+05:30",
+        "author": { "@id": "https://iardo.in#org" },
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "To sell on Blinkit you need a registered business with GST, PAN, a cancelled cheque, trademark or brand authorisation, and a digital signature. Food and grocery sellers also need an FSSAI licence.",
-          "url": "${pageContext.request.contextPath}/answers/what-documents-needed-for-blinkit/",
-          "author": {
-            "@type": "Organization",
-            "name": "IARDO",
-            "url": "https://iardo.in"
-          }
+          "text": "To sell on Blinkit you typically need a GST certificate, PAN card, a cancelled cheque, and business address proof. Food and grocery sellers also need an FSSAI licence. A trademark (or brand authorisation letter) and a digital signature are commonly required too. Sellers stocking in multiple states also need APOB (Additional Place of Business) added to their GST for each warehouse location. A valid GSTIN is mandatory, and keeping the business name identical across GST, PAN, and bank records prevents the most common rejections.",
+          "url": "https://iardo.in/answers/what-documents-needed-for-blinkit/",
+          "dateCreated": "2026-07-08T10:00:00+05:30",
+          "upvoteCount": 0,
+          "author": { "@id": "https://iardo.in#org" }
         }
       }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do I need FSSAI if I do not sell food products?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. FSSAI is required specifically for food, grocery and beverage categories. Other categories generally do not need it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I sell on Blinkit without a registered trademark?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In many cases a registered trademark or a brand authorisation letter is needed to list as a brand and protect your listings. Requirements vary by category."
+          }
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -76,13 +130,13 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Answers",
-          "item": "${pageContext.request.contextPath}/answers/"
+          "item": "https://iardo.in/answers/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "What Documents Are Needed for Blinkit?",
-          "item": "${pageContext.request.contextPath}/answers/what-documents-needed-for-blinkit/"
+          "name": "What Documents Are Needed to Sell on Blinkit?",
+          "item": "https://iardo.in/answers/what-documents-needed-for-blinkit/"
         }
       ]
     }
