@@ -46,11 +46,11 @@
                 </div>
             </div>
 
-            <div class="service-card swiggy" onclick="window.location.href='${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart/'">
+            <div class="service-card swiggy" onclick="window.location.href='${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/'">
                 <div class="card-inner">
                     <div class="card-header">
                         <div class="card-title"><img src="${pageContext.request.contextPath}/assets/images/swiggy-instamart.png" alt="Swiggy Instamart" class="service-logo"></div>
-                        <a href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart/" class="card-arrow" onclick="event.stopPropagation()"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M17 7H7M17 7V17" stroke-width="2" stroke-linecap="round"/></svg></a>
+                        <a href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/" class="card-arrow" onclick="event.stopPropagation()"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M17 7H7M17 7V17" stroke-width="2" stroke-linecap="round"/></svg></a>
                     </div>
                     <p class="card-description">Rapid Swiggy Instamart onboarding delivering shopping necessities right to your home.</p>
                     <div class="card-content">
@@ -60,11 +60,11 @@
                 </div>
             </div>
 
-            <div class="service-card big-basket" onclick="window.location.href='${pageContext.request.contextPath}/services/quick-commerce/big-basket/'">
+            <div class="service-card big-basket" onclick="window.location.href='${pageContext.request.contextPath}/services/quick-commerce/big-basket-onboarding//'">
                 <div class="card-inner">
                     <div class="card-header">
                         <div class="card-title"><img src="${pageContext.request.contextPath}/assets/images/big-basket-logo.png" alt="BigBasket" class="service-logo"></div>
-                        <a href="${pageContext.request.contextPath}/services/quick-commerce/big-basket/" class="card-arrow" onclick="event.stopPropagation()"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M17 7H7M17 7V17" stroke-width="2" stroke-linecap="round"/></svg></a>
+                        <a href="${pageContext.request.contextPath}/services/quick-commerce/big-basket-onboarding//" class="card-arrow" onclick="event.stopPropagation()"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M17 7H7M17 7V17" stroke-width="2" stroke-linecap="round"/></svg></a>
                     </div>
                     <p class="card-description">Grow into thousands of cities with BigBasket store setup and listing optimization.</p>
                     <div class="card-content">
@@ -75,10 +75,10 @@
             </div>
 
             <div class="service-card swiggy-cloud-kitchen">
-                <div class="card-inner" onclick="window.location.href='${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen/'">
+                <div class="card-inner" onclick="window.location.href='${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen-onboarding-services/'">
                     <div class="card-header">
                         <div class="card-title"><img src="https://iardo.pages.dev/cloud_kitchen_logo.webp" alt="Cloud Kitchen" class="service-logo"></div>
-                        <a href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen/" class="card-arrow" onclick="event.stopPropagation()"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M17 7H7M17 7V17" stroke-width="2" stroke-linecap="round"/></svg></a>
+                        <a href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen-onboarding-services/" class="card-arrow" onclick="event.stopPropagation()"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M17 7H7M17 7V17" stroke-width="2" stroke-linecap="round"/></svg></a>
                     </div>
                     <p class="card-description">Launch and scale your cloud kitchen with multi-platform integration and menu engineering.</p>
                     <div class="card-content">
@@ -130,11 +130,11 @@
                 </div>
             </div>
 
-            <div class="service-card amazon" onclick="window.location.href='${pageContext.request.contextPath}/services/quick-commerce/amazon-now/'">
+            <div class="service-card amazon" onclick="window.location.href='${pageContext.request.contextPath}/services/quick-commerce/amazon-now-onboarding-services//'">
                 <div class="card-inner">
                     <div class="card-header">
                         <div class="card-title"><img src="https://iardo.pages.dev/amazon_logo.webp" alt="Amazon" class="service-logo"></div>
-                        <a href="${pageContext.request.contextPath}/services/quick-commerce/amazon-now/" class="card-arrow" onclick="event.stopPropagation()"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M17 7H7M17 7V17" stroke-width="2" stroke-linecap="round"/></svg></a>
+                        <a href="${pageContext.request.contextPath}/services/quick-commerce/amazon-now-onboarding-services//" class="card-arrow" onclick="event.stopPropagation()"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M17 7H7M17 7V17" stroke-width="2" stroke-linecap="round"/></svg></a>
                     </div>
                     <p class="card-description">Reach millions worldwide with Amazon seller setup and product listing optimization.</p>
                     <div class="card-content">
@@ -218,7 +218,7 @@
                 <div class="card-inner">
                     <div class="card-header">
                         <div class="card-title"><img src="https://iardo.pages.dev/quik_logo.webp" alt="Careem Quik" class="service-logo"></div>
-                        <a href="${pageContext.request.contextPath}/services/quick-commerce/big-basket/quick" class="card-arrow" onclick="event.stopPropagation()"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M17 7H7M17 7V17" stroke-width="2" stroke-linecap="round"/></svg></a>
+                        <a href="${pageContext.request.contextPath}/services/quick-commerce/big-basket-onboarding//quick" class="card-arrow" onclick="event.stopPropagation()"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M17 7H7M17 7V17" stroke-width="2" stroke-linecap="round"/></svg></a>
                     </div>
                     <p class="card-description">Launch on Careem's expanding delivery network with integration and merchandising strategy.</p>
                     <div class="card-content">

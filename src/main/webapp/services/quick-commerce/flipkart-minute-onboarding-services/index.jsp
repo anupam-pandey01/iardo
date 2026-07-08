@@ -8,7 +8,7 @@
     <title>Flipkart Minutes Seller Onboarding Service in India – Start Selling Today | IARDO</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/services/quick-commerce/flipkart-minute/style.css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/services/quick-commerce/flipkart-minute-onboarding-services/style.css">
 </head>
 <body>
    <jsp:include page="../../../includes/navbar/navbar.jsp" />
