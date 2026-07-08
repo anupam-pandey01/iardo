@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+        <link rel="icon" type="image/webp" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BigBasket Seller Onboarding Service in India | Grow Your Grocery Business</title>
     <meta name="description" content="Start selling on BigBasket with expert onboarding services. We help you register, list products, and grow your grocery sales across India.">
@@ -11,7 +12,7 @@
     <meta property="og:title" content="BigBasket Seller Onboarding Service in India | Grow Your Grocery Business">
     <meta property="og:description" content="Expert BigBasket onboarding services. Account setup, documentation, product listing and sales growth — end-to-end support by IARDO.">
     <meta property="og:type" content="website">
-    <link rel="canonical" href="https://iardo.in/bigbasket">
+    <link rel="canonical" href="${pageContext.request.contextPath}/bigbasket">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 

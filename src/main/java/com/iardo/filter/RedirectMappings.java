@@ -31,6 +31,14 @@ public class RedirectMappings {
 		REDIRECTS.put("/google-ads", "/services/digital-marketing/google-ads/");
 		REDIRECTS.put("/meta-ads", "/services/digital-marketing/meta-ads/");
 		REDIRECTS.put("/contact", "/contact-us/");
+		REDIRECTS.put("/instashop-seller-onboarding", "/services/quick-commerce/instashop/");
+		REDIRECTS.put("/noon-seller-onboarding", "/noon-onboarding/");
+		REDIRECTS.put("/flipkart-minutes.jsp", "/services/quick-commerce/flipkart-minute/");
+		REDIRECTS.put("/contact.jsp", "/contact-us/");
+		REDIRECTS.put("/Dmart", "/services/e-commerce/d-mart/");
+		REDIRECTS.put("/blinkit-commission-charges", "/blog/blinkit-commission-charges");
+		REDIRECTS.put("/cloud-kitchen.jsp", "/services/quick-commerce/swiggy-cloud-kitchen/");
+		REDIRECTS.put("/contact.jsp", "/contact-us/");
 		// TODO: Add remaining mappings from your sitemap.
 
 	}

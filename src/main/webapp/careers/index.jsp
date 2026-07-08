@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+        <link rel="icon" type="image/webp" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
 <meta charset="UTF-8">
 <title>Careers at IARDO | Jobs in Software Development, AI & Tech</title>
 <meta name="description" content="Explore career opportunities at IARDO. Join our team and work on exciting projects in software development, AI, cloud, and digital technologies.">

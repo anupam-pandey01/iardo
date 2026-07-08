@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+        <link rel="icon" type="image/webp" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="IARDO provides expert SEO services for ecommerce and seller onboarding businesses. Rank higher on Google for amazon seller onboarding, flipkart seller onboarding, blinkit onboarding and quick commerce keywords across PAN India.">
     <meta name="keywords" content="SEO services for ecommerce, seller onboarding SEO, amazon seller onboarding SEO, ecommerce onboarding services, quick commerce SEO, marketplace onboarding SEO, PAN India SEO">

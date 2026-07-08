@@ -2,16 +2,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+        <link rel="icon" type="image/webp" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>D-Mart Vendor Onboarding Service in India | IARDO</title>
     <meta name="description" content="Expert D-Mart Vendor Onboarding Services across PAN India — vendor registration, documentation, product approval, supply chain setup & pricing strategy. Trusted by FMCG and grocery brands.">
-    <link rel="canonical" href="https://iardo.in/Dmart">
+    <link rel="canonical" href="${pageContext.request.contextPath}/Dmart">
     <meta property="og:title" content="D-Mart Vendor Onboarding Service in India | IARDO">
     <meta property="og:description" content="End-to-end D-Mart Vendor Onboarding across PAN India — vendor registration, documentation, product approval, supply chain setup.">
     <meta property="og:image" content="dmart-onboarding-services.png">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://iardo.in/Dmart">
+    <meta property="og:url" content="${pageContext.request.contextPath}/Dmart">
     <meta name="twitter:card" content="summary_large_image">
 
     <script type="application/ld+json">
@@ -37,7 +38,7 @@
         },
         {
           "@type": "Service",
-          "@id": "https://iardo.in/Dmart#service",
+          "@id": "${pageContext.request.contextPath}/Dmart#service",
           "name": "D-Mart Vendor Onboarding Service",
           "serviceType": "D-Mart Vendor Onboarding",
           "description": "End-to-end D-Mart vendor onboarding services across PAN India — vendor registration, documentation, product approval, supply chain setup, and pricing strategy.",

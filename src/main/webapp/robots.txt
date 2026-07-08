@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://iardo.in/sitemap.xml
+Sitemap: ${pageContext.request.contextPath}/sitemap.xml

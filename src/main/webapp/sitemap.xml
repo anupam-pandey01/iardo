@@ -1,427 +1,427 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://iardo.in/</loc>
+    <loc>${pageContext.request.contextPath}/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://iardo.in/about-our-chairman/</loc>
+    <loc>${pageContext.request.contextPath}/about-our-chairman/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/about/</loc>
+    <loc>${pageContext.request.contextPath}/about/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/why-choose-us/</loc>
+    <loc>${pageContext.request.contextPath}/why-choose-us/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/our-culture/</loc>
+    <loc>${pageContext.request.contextPath}/our-culture/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://iardo.in/sustainability/</loc>
+    <loc>${pageContext.request.contextPath}/sustainability/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/quick-commerce/flipkart-minute/</loc>
+    <loc>${pageContext.request.contextPath}/services/quick-commerce/flipkart-minute/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/quick-commerce/blinkit/</loc>
+    <loc>${pageContext.request.contextPath}/services/quick-commerce/blinkit-onboarding-services/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/quick-commerce/swiggy-cloud-kitchen/</loc>
+    <loc>${pageContext.request.contextPath}/services/quick-commerce/swiggy-cloud-kitchen/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/quick-commerce/swiggy-instamart/</loc>
+    <loc>${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/quick-commerce/zepto/</loc>
+    <loc>${pageContext.request.contextPath}/services/quick-commerce/zepto/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/quick-commerce/big-basket/</loc>
+    <loc>${pageContext.request.contextPath}/services/quick-commerce/big-basket/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/quick-commerce/amazon-now/</loc>
+    <loc>${pageContext.request.contextPath}/services/quick-commerce/amazon-now/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/quick-commerce/shopify/</loc>
+    <loc>${pageContext.request.contextPath}/services/quick-commerce/shopify/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/quick-commerce/marketplace/</loc>
+    <loc>${pageContext.request.contextPath}/services/quick-commerce/marketplace/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/quick-commerce/instashop/</loc>
+    <loc>${pageContext.request.contextPath}/services/quick-commerce/instashop/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/quick-commerce/quick/</loc>
+    <loc>${pageContext.request.contextPath}/services/quick-commerce/quick/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/e-commerce/flipkart/</loc>
+    <loc>${pageContext.request.contextPath}/services/e-commerce/flipkart/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/e-commerce/meesho/</loc>
+    <loc>${pageContext.request.contextPath}/services/e-commerce/meesho/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/e-commerce/amazon/</loc>
+    <loc>${pageContext.request.contextPath}/services/e-commerce/amazon/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/e-commerce/myntra/</loc>
+    <loc>${pageContext.request.contextPath}/services/e-commerce/myntra/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/e-commerce/nykaa/</loc>
+    <loc>${pageContext.request.contextPath}/services/e-commerce/nykaa/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/e-commerce/ajio/</loc>
+    <loc>${pageContext.request.contextPath}/services/e-commerce/ajio/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/e-commerce/jio-mart/</loc>
+    <loc>${pageContext.request.contextPath}/services/e-commerce/jio-mart/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/e-commerce/d-mart/</loc>
+    <loc>${pageContext.request.contextPath}/services/e-commerce/d-mart/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/e-commerce/etsy/</loc>
+    <loc>${pageContext.request.contextPath}/services/e-commerce/etsy/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/e-commerce/spocket/</loc>
+    <loc>${pageContext.request.contextPath}/services/e-commerce/spocket/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/e-commerce/e-bay/</loc>
+    <loc>${pageContext.request.contextPath}/services/e-commerce/e-bay/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/development/web-development/</loc>
+    <loc>${pageContext.request.contextPath}/services/development/web-development/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/development/app-development/</loc>
+    <loc>${pageContext.request.contextPath}/services/development/app-development/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/digital-marketing/seo/</loc>
+    <loc>${pageContext.request.contextPath}/services/digital-marketing/seo/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/digital-marketing/smo/</loc>
+    <loc>${pageContext.request.contextPath}/services/digital-marketing/smo/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/digital-marketing/google-ads/</loc>
+    <loc>${pageContext.request.contextPath}/services/digital-marketing/google-ads/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/digital-marketing/meta-ads/</loc>
+    <loc>${pageContext.request.contextPath}/services/digital-marketing/meta-ads/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/services/email-marketing/</loc>
+    <loc>${pageContext.request.contextPath}/services/email-marketing/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/dmart-seller-onboarding/</loc>
+    <loc>${pageContext.request.contextPath}/dmart-seller-onboarding/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/shopify-seller-onboarding/</loc>
+    <loc>${pageContext.request.contextPath}/shopify-seller-onboarding/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/noon-onboarding/</loc>
+    <loc>${pageContext.request.contextPath}/noon-onboarding/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/noon-onboarding/schedule-meeting/</loc>
+    <loc>${pageContext.request.contextPath}/noon-onboarding/schedule-meeting/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/startup-development-services/</loc>
+    <loc>${pageContext.request.contextPath}/startup-development-services/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/our-clients/</loc>
+    <loc>${pageContext.request.contextPath}/our-clients/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/ux-ui-design-services/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/ux-ui-design-services/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/custom-software-development/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/custom-software-development/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/cloud-consulting-services/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/cloud-consulting-services/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/dedicated-development-teams/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/dedicated-development-teams/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/cloud-engineering-services/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/cloud-engineering-services/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/embedded-software-services/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/embedded-software-services/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/mobile-apps-development/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/mobile-apps-development/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/digital-transformation/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/digital-transformation/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/generative-ai-development/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/generative-ai-development/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/ai-ml-development/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/ai-ml-development/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/data-engineering-services/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/data-engineering-services/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/automation-testing/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/automation-testing/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/devops-consulting/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/devops-consulting/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/software-outsourcing/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/software-outsourcing/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/dev-for-startups/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/dev-for-startups/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/website-development/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/website-development/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/app-development/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/app-development/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/graphics-design/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/graphics-design/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/it-services/maintenance-support/</loc>
+    <loc>${pageContext.request.contextPath}/it-services/maintenance-support/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/case-studies/</loc>
+    <loc>${pageContext.request.contextPath}/case-studies/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iardo.in/contact-us/</loc>
+    <loc>${pageContext.request.contextPath}/contact-us/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/blog/</loc>
+    <loc>${pageContext.request.contextPath}/blog/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iardo.in/careers/</loc>
+    <loc>${pageContext.request.contextPath}/careers/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://iardo.in/life-at-iardo/</loc>
+    <loc>${pageContext.request.contextPath}/life-at-iardo/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://iardo.in/our-company/</loc>
+    <loc>${pageContext.request.contextPath}/our-company/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/packages/seo/</loc>
+    <loc>${pageContext.request.contextPath}/packages/seo/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/packages/social-media/</loc>
+    <loc>${pageContext.request.contextPath}/packages/social-media/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://iardo.in/privacy-policy/</loc>
+    <loc>${pageContext.request.contextPath}/privacy-policy/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://iardo.in/terms-of-services/</loc>
+    <loc>${pageContext.request.contextPath}/terms-of-services/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://iardo.in/refund-policy/</loc>
+    <loc>${pageContext.request.contextPath}/refund-policy/</loc>
     <lastmod>2026-07-03</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

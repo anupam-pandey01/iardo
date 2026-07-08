@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+        <link rel="icon" type="image/webp" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Professional Meta Ads services by IARDO. Scale your business with expert Facebook & Instagram advertising, conversion campaigns, and social media ads management across PAN India.">
     <meta name="keywords" content="Meta Ads, Facebook Ads, Instagram Ads, social media advertising, Meta advertising, Facebook marketing, Instagram marketing, conversion campaigns, PAN India Meta Ads">

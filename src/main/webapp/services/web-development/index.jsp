@@ -750,7 +750,7 @@ section { padding: 80px 0; position: relative; }
     <div class="work-cat">Food & Beverage</div>
     <h3>House of Brownies</h3>
     <p class="work-result">Supplying restaurants, cafés, IT parks, and corporate vendors across India with premium brownies and blondies in custom pack sizes.</p>
-    <a href="https://iardo.in/case-study-brownies.jsp" class="work-visit" target="_blank" rel="noopener">Visit Website
+    <a href="${pageContext.request.contextPath}/case-study-brownies.jsp" class="work-visit" target="_blank" rel="noopener">Visit Website
       <svg viewBox="0 0 24 24" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M17 7H8M17 7V16"/></svg>
     </a>
   </div>

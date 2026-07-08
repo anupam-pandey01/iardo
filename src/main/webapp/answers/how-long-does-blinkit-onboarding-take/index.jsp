@@ -2,7 +2,8 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
+        <link rel="icon" type="image/webp" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
+<meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>How Long Does Blinkit Onboarding Take? (2026) | IARDO</title>
     <meta
@@ -11,7 +12,7 @@
     />
     <link
       rel="canonical"
-      href="https://iardo.in/answers/how-long-does-blinkit-onboarding-take"
+      href="${pageContext.request.contextPath}/answers/how-long-does-blinkit-onboarding-take"
     />
     <meta
       property="og:title"
@@ -23,12 +24,12 @@
     />
     <meta
       property="og:image"
-      content="https://iardo.in/blinkit-onboarding-services.png"
+      content="${pageContext.request.contextPath}/blinkit-onboarding-services.png"
     />
     <meta property="og:type" content="website" />
     <meta
       property="og:url"
-      content="https://iardo.in/answers/how-long-does-blinkit-onboarding-take"
+      content="${pageContext.request.contextPath}/answers/how-long-does-blinkit-onboarding-take"
     />
     <meta name="twitter:card" content="summary" />
     <script type="application/ld+json">
@@ -58,8 +59,8 @@
           },
           {
             "@type": "WebPage",
-            "@id": "https://iardo.in/answers/how-long-does-blinkit-onboarding-take",
-            "url": "https://iardo.in/answers/how-long-does-blinkit-onboarding-take",
+            "@id": "${pageContext.request.contextPath}/answers/how-long-does-blinkit-onboarding-take",
+            "url": "${pageContext.request.contextPath}/answers/how-long-does-blinkit-onboarding-take",
             "name": "How Long Does Blinkit Onboarding Take?",
             "datePublished": "2026-06-20",
             "dateModified": "2026-06-20",
@@ -124,13 +125,13 @@
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Blinkit Onboarding",
-                "item": "https://iardo.in/blinkit-onboarding-services"
+                "item": "${pageContext.request.contextPath}/blinkit-onboarding-services"
               },
               {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "Onboarding Timeline",
-                "item": "https://iardo.in/answers/how-long-does-blinkit-onboarding-take"
+                "item": "${pageContext.request.contextPath}/answers/how-long-does-blinkit-onboarding-take"
               }
             ]
           }

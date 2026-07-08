@@ -3,7 +3,8 @@ pageEncoding="UTF-8" %>
 <!doctype html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
+        <link rel="icon" type="image/webp" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
+<meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>How Much Does Blinkit Onboarding Cost? (2026) | IARDO</title>
     <meta
@@ -12,7 +13,7 @@ pageEncoding="UTF-8" %>
     />
     <link
       rel="canonical"
-      href="https://iardo.in/answers/how-much-does-blinkit-onboarding-cost"
+      href="${pageContext.request.contextPath}/answers/how-much-does-blinkit-onboarding-cost"
     />
     <meta
       property="og:title"
@@ -24,12 +25,12 @@ pageEncoding="UTF-8" %>
     />
     <meta
       property="og:image"
-      content="https://iardo.in/blinkit-onboarding-services.png"
+      content="${pageContext.request.contextPath}/blinkit-onboarding-services.png"
     />
     <meta property="og:type" content="website" />
     <meta
       property="og:url"
-      content="https://iardo.in/answers/how-much-does-blinkit-onboarding-cost"
+      content="${pageContext.request.contextPath}/answers/how-much-does-blinkit-onboarding-cost"
     />
     <meta name="twitter:card" content="summary" />
     <script type="application/ld+json">
@@ -59,8 +60,8 @@ pageEncoding="UTF-8" %>
           },
           {
             "@type": "WebPage",
-            "@id": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost",
-            "url": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost",
+            "@id": "${pageContext.request.contextPath}/answers/how-much-does-blinkit-onboarding-cost",
+            "url": "${pageContext.request.contextPath}/answers/how-much-does-blinkit-onboarding-cost",
             "name": "How Much Does Blinkit Onboarding Cost?",
             "datePublished": "2026-06-20",
             "dateModified": "2026-06-20",
@@ -125,13 +126,13 @@ pageEncoding="UTF-8" %>
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Blinkit Onboarding",
-                "item": "https://iardo.in/blinkit-onboarding-services"
+                "item": "${pageContext.request.contextPath}/blinkit-onboarding-services"
               },
               {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "Onboarding Cost",
-                "item": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost"
+                "item": "${pageContext.request.contextPath}/answers/how-much-does-blinkit-onboarding-cost"
               }
             ]
           }

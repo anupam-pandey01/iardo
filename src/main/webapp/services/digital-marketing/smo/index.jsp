@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+        <link rel="icon" type="image/webp" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Professional SMO services by IARDO. Boost your brand's social media presence with expert Social Media Optimization, engagement strategies, and organic growth across PAN India.">
     <meta name="keywords" content="SMO services, social media optimization, social media marketing, brand engagement, organic growth, Instagram marketing, Facebook marketing, PAN India SMO">

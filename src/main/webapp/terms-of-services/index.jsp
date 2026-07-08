@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+        <link rel="icon" type="image/webp" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Terms & Conditions - IARDO E-commerce Enabler">
     <title>Terms & Conditions | IARDO Marketing</title>
@@ -696,7 +697,7 @@
 
     <div class="section reveal">
         <h2>Notice</h2>
-        <p>By accessing and using the IARDO E-commerce Enabler website (<strong><a href="https://iardo.in/">https://iardo.in/</a></strong>), downloading materials from the IARDO E-commerce Enabler website or using any of the services we offer, you agree to abide by the terms and conditions of use detailed below. If you do not agree to be bound by these terms and conditions of use, please refrain from using the IARDO E-commerce Enabler website or our services.</p>
+        <p>By accessing and using the IARDO E-commerce Enabler website (<strong><a href="${pageContext.request.contextPath}/">${pageContext.request.contextPath}/</a></strong>), downloading materials from the IARDO E-commerce Enabler website or using any of the services we offer, you agree to abide by the terms and conditions of use detailed below. If you do not agree to be bound by these terms and conditions of use, please refrain from using the IARDO E-commerce Enabler website or our services.</p>
     </div>
 
     <div class="section reveal">
