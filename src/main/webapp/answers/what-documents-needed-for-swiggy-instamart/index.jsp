@@ -1,3 +1,112 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>What Documents Are Needed for Swiggy Instamart? | IARDO</title>
+<meta name="description"
+	content="What documents are needed for Swiggy Instamart? GST, PAN, business registration, cancelled cheque, GS1 barcodes, FSSAI and APOB. Full checklist by IARDO.">
+<meta name="keywords"
+	content="what documents are needed for swiggy instamart, Swiggy Instamart onboarding, Instamart supplier, sell on Instamart, Swiggy Instamart onboarding services">
+<meta name="author" content="IARDO">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="alternate" hreflang="en-in"
+	href="https://iardo.in/answers/what-documents-needed-for-swiggy-instamart/">
+<link rel="canonical"
+	href="https://iardo.in/answers/what-documents-needed-for-swiggy-instamart/">
+<meta property="og:title"
+	content="What Documents Are Needed for Swiggy Instamart? | IARDO">
+<meta property="og:description"
+	content="What documents are needed for Swiggy Instamart? GST, PAN, business registration, cancelled cheque, GS1 barcodes, FSSAI and APOB. Full checklist by IARDO.">
+<meta property="og:type" content="article">
+<meta property="og:url"
+	content="https://iardo.in/answers/what-documents-needed-for-swiggy-instamart/">
+<meta property="og:site_name" content="IARDO">
+<meta property="og:locale" content="en_IN">
+<meta name="twitter:card" content="summary">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://iardo.in#org",
+      "name": "IARDO",
+      "url": "https://iardo.in",
+      "telephone": "+919310194865",
+      "email": "info@iardo.in"
+    },
+    {
+      "@type": "QAPage",
+      "@id": "https://iardo.in/answers/what-documents-needed-for-swiggy-instamart/#qa",
+      "mainEntity": {
+        "@type": "Question",
+        "name": "What Documents Are Needed for Swiggy Instamart?",
+        "text": "What Documents Are Needed for Swiggy Instamart?",
+        "answerCount": 1,
+        "author": {
+          "@type": "Organization",
+          "name": "IARDO"
+        },
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "To supply on Swiggy Instamart you need a GST-registered business, PAN, business registration, a cancelled cheque, authorised signatory details, GS1-registered barcodes, and an FSSAI licence for food. For multi-city supply, each dark-store state must be added to your GST (APOB).",
+          "url": "https://iardo.in/answers/what-documents-needed-for-swiggy-instamart/",
+          "author": {
+            "@type": "Organization",
+            "name": "IARDO",
+            "url": "https://iardo.in"
+          }
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iardo.in"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Answers",
+          "item": "https://iardo.in/answers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "What Documents Are Needed for Swiggy Instamart?",
+          "item": "https://iardo.in/answers/what-documents-needed-for-swiggy-instamart/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+	href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap"
+	rel="stylesheet">
+<style>
+:root {
+	--acc: #1560E8;
+	--acc-deep: #0D47C4;
+	--ink-dark: #101a2e;
+	--cream: #F5F8FF;
+	--ink: #151b28;
+	--ink-soft: #535d70;
+	--line: #dbe6f6;
+	--wa: #25d366;
+	--leaf: #E8F0FF;
+	--leaf-line: #C2D8FF
+}
+
 * {
 	box-sizing: border-box;
 	margin: 0;
@@ -6,22 +115,6 @@
 
 html {
 	scroll-behavior: smooth
-}
-
-:root {
-	--gold: #B8860B;
-	--ink-dark: #272114;
-	--cream-tint: #FFF8D9;
-	--yellow: #F6CB46;
-	--cream: #f7f4ec;
-	--ink: #221d16;
-	--ink-soft: #5c554a;
-	--line: #e7e0d2;
-	--wa: #25d366;
-	--amber: #c98a1f;
-	--leaf: #FFF8D9;
-	--leaf-line: #F6CB46;
-	--shadow: 0 14px 40px -18px rgba(39, 33, 20, .30);
 }
 
 body {
@@ -35,35 +128,9 @@ body {
 }
 
 .wrap {
-	max-width: 860px;
+	max-width: 780px;
 	margin: 0 auto;
 	padding: 0 22px
-}
-
-em {
-	font-style: italic
-}
-/* TOP BAR */
-.topbar {
-	background: var(--ink-dark);
-	color: var(--yellow);
-	font-size: 13px;
-	font-weight: 600;
-	letter-spacing: .02em
-}
-
-.topbar .wrap {
-	display: flex;
-	align-items: center;
-	gap: 14px;
-	height: 46px
-}
-
-.logo-chip {
-	background: #fff;
-	border-radius: 8px;
-	padding: 5px 10px;
-	display: inline-flex
 }
 
 .iardo-logo {
@@ -75,37 +142,53 @@ em {
 	background-position: center
 }
 
-.topbar-logo {
-	width: 96px;
-	height: 26px
-}
-/* HERO */
 .hero {
-	background: linear-gradient(160deg, #FFFBED 0%, #FDF6E3 100%);
+	background: linear-gradient(160deg, #EEF4FF, #DFEAFF);
 	border-bottom: 1px solid var(--line);
-	padding: 180px 0 46px
+	padding: 180px 0 36px
 }
 
-.hero .iardo-logo.hero-logo {
-	width: 150px;
-	height: 44px;
-	margin-bottom: 22px
+.hero .hero-logo {
+	width: 130px;
+	height: 38px;
+	margin-bottom: 16px
+}
+
+.crumb {
+	font-size: 13px;
+	color: var(--ink-soft);
+	margin-bottom: 15px
+}
+
+.crumb a {
+	color: var(--acc-deep);
+	text-decoration: none;
+	font-weight: 600
+}
+
+.crumb a:hover {
+	text-decoration: underline
+}
+
+.crumb span.sep {
+	margin: 0 7px;
+	color: #b6c4db
 }
 
 .eyebrow {
 	display: inline-flex;
 	align-items: center;
 	gap: 9px;
-	background: rgba(184, 134, 11, .12);
-	color: var(--gold);
-	font-size: 12.5px;
+	background: rgba(21, 96, 232, .12);
+	color: var(--acc-deep);
+	font-size: 12px;
 	font-weight: 800;
-	letter-spacing: .09em;
+	letter-spacing: .07em;
 	text-transform: uppercase;
-	padding: 7px 16px;
+	padding: 6px 15px;
 	border-radius: 50px;
-	border: 1px solid rgba(184, 134, 11, .28);
-	margin-bottom: 20px
+	border: 1px solid rgba(21, 96, 232, .28);
+	margin-bottom: 16px
 }
 
 .eyebrow::before {
@@ -113,629 +196,289 @@ em {
 	width: 7px;
 	height: 7px;
 	border-radius: 50%;
-	background: var(--gold)
+	background: var(--acc)
 }
 
 .hero h1 {
 	font-family: 'Fraunces', Georgia, serif;
 	font-weight: 600;
-	font-size: clamp(34px, 5.2vw, 52px);
-	line-height: 1.08;
+	font-size: clamp(27px, 4.3vw, 40px);
+	line-height: 1.14;
 	letter-spacing: -.01em;
-	color: var(--ink-dark);
-	margin-bottom: 18px
+	color: var(--ink-dark)
 }
 
-.hero h1 em {
-	color: var(--gold);
-	font-style: italic
-}
-
-.hero .dek {
-	font-size: 19px;
-	color: var(--ink-soft);
-	max-width: 640px;
-	margin-bottom: 26px
-}
-
-.hero-cta {
-	display: inline-flex;
-	align-items: center;
-	gap: 11px;
-	background: var(--wa);
-	color: #fff;
-	text-decoration: none;
-	font-weight: 800;
-	font-size: 17px;
-	padding: 15px 30px;
-	border-radius: 50px;
-	box-shadow: 0 10px 26px rgba(37, 211, 102, .38);
-	transition: transform .15s
-}
-
-.hero-cta:hover {
-	transform: translateY(-2px)
-}
-
-.hero-cta svg {
-	width: 22px;
-	height: 22px
-}
-
-.byline {
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	gap: 10px;
-	margin-top: 24px;
-	font-size: 13.5px;
-	color: var(--ink-soft)
-}
-
-.byline .dot {
-	width: 4px;
-	height: 4px;
-	border-radius: 50%;
-	background: #c9bfa8
-}
-/* STATS */
-.stats {
-	background: var(--ink-dark);
-	padding: 34px 0
-}
-
-.stats-grid {
-	max-width: 860px;
-	margin: 0 auto;
-	padding: 0 22px;
-	display: grid;
-	grid-template-columns: repeat(4, 1fr);
-	gap: 0
-}
-
-.stat {
-	text-align: center;
-	padding: 8px 12px;
-	border-right: 1px solid rgba(255, 255, 255, .1)
-}
-
-.stat:last-child {
-	border-right: none
-}
-
-.stat .num {
-	font-family: 'Fraunces', serif;
-	font-weight: 600;
-	font-size: clamp(26px, 3.4vw, 38px);
-	color: #fff;
-	line-height: 1
-}
-
-.stat .num small {
-	font-size: .42em;
-	opacity: .8;
-	font-weight: 500;
-	margin-left: 2px
-}
-
-.stat .lab {
-	font-size: 12.5px;
-	color: var(--yellow);
-	font-weight: 600;
-	margin-top: 7px;
-	letter-spacing: .02em
-}
-/* ARTICLE */
 article {
-	padding: 44px 0 20px
+	padding: 34px 0 20px
 }
 
-article .lead {
-	font-size: 20px;
-	color: var(--ink);
-	line-height: 1.7;
-	margin-bottom: 22px
+.answer-box {
+	background: #fff;
+	border: 1px solid var(--leaf-line);
+	border-left: 5px solid var(--acc);
+	border-radius: 14px;
+	padding: 22px 24px;
+	margin-bottom: 24px
+}
+
+.answer-box .tag {
+	font-size: 11.5px;
+	text-transform: uppercase;
+	letter-spacing: .09em;
+	color: var(--acc-deep);
+	font-weight: 800;
+	margin-bottom: 8px
+}
+
+.answer-box p {
+	font-size: 18px;
+	color: var(--ink-dark);
+	margin: 0;
+	font-weight: 500;
+	line-height: 1.55
+}
+
+.answer-box p strong {
+	font-weight: 800
 }
 
 article p {
-	margin-bottom: 18px;
+	margin-bottom: 16px;
 	color: var(--ink-soft)
 }
 
-article p strong, article li strong {
+article p strong {
 	color: var(--ink)
 }
 
 article h2 {
 	font-family: 'Fraunces', serif;
 	font-weight: 600;
-	font-size: 28px;
+	font-size: 22px;
 	color: var(--ink-dark);
-	margin: 40px 0 14px;
-	line-height: 1.2;
-	display: flex;
-	align-items: baseline;
-	gap: 10px
-}
-
-article h2 .hash {
-	color: var(--gold);
-	font-weight: 700
-}
-
-article h3 {
-	font-family: 'Fraunces', serif;
-	font-weight: 600;
-	font-size: 21px;
-	color: var(--ink-dark);
-	margin: 26px 0 10px
+	margin: 30px 0 12px
 }
 
 article a.inline {
-	color: var(--gold);
+	color: var(--acc-deep);
 	font-weight: 700;
 	text-decoration: underline;
-	text-decoration-color: rgba(184, 134, 11, .4);
+	text-decoration-color: rgba(21, 96, 232, .4);
 	text-underline-offset: 2px
 }
 
-article a.inline:hover {
-	text-decoration-color: var(--gold)
-}
-
 article ul {
-	margin: 0 0 18px;
+	margin: 0 0 16px;
 	padding: 0;
 	list-style: none
 }
 
 article ul li {
 	position: relative;
-	padding-left: 26px;
-	margin-bottom: 10px;
+	padding-left: 24px;
+	margin-bottom: 8px;
 	color: var(--ink-soft)
 }
 
 article ul li::before {
 	content: "";
 	position: absolute;
-	left: 5px;
+	left: 4px;
 	top: 10px;
-	width: 8px;
-	height: 8px;
+	width: 7px;
+	height: 7px;
 	border-radius: 2px;
-	background: var(--gold);
+	background: var(--acc);
 	transform: rotate(45deg)
 }
-/* TABLES */
-.tbl-wrap {
-	overflow-x: auto;
-	margin: 20px 0;
+
+.related {
+	background: #fff;
 	border: 1px solid var(--line);
-	border-radius: 14px
+	border-radius: 14px;
+	padding: 20px 22px;
+	margin: 24px 0
 }
 
-table {
-	width: 100%;
-	border-collapse: collapse;
+.related h4 {
+	font-family: 'Fraunces', serif;
+	font-weight: 600;
 	font-size: 15px;
-	background: #fff
+	color: var(--ink-dark);
+	margin-bottom: 11px
 }
 
-table thead th {
-	background: var(--ink-dark);
-	color: #fff;
-	text-align: left;
-	padding: 13px 16px;
-	font-weight: 700;
-	font-size: 13.5px;
-	letter-spacing: .02em
-}
-
-table td {
-	padding: 12px 16px;
-	border-top: 1px solid var(--line);
-	color: var(--ink-soft)
-}
-
-table tbody tr:nth-child(even) td {
-	background: #fdfbf4
-}
-/* PERKS */
-.perks {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	gap: 14px;
-	margin: 24px 0
-}
-
-.perks .card {
-	background: #fff;
-	border: 1px solid var(--line);
-	border-left: 4px solid var(--gold);
-	border-radius: 14px;
-	padding: 20px
-}
-
-.perks .card h4 {
-	font-size: 16px;
-	font-weight: 800;
-	color: var(--ink);
-	margin-bottom: 6px;
-	display: flex;
-	gap: 8px;
-	align-items: center
-}
-
-.perks .card h4 .v {
-	color: var(--gold);
-	font-weight: 900
-}
-
-.perks .card p {
-	font-size: 14.5px;
-	color: var(--ink-soft);
+.related ul {
+	list-style: none;
 	margin: 0;
-	line-height: 1.55
-}
-/* SCOPE numbered */
-.scope {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	gap: 14px;
-	margin: 24px 0
+	padding: 0
 }
 
-.scope .item {
+.related ul li {
+	padding: 6px 0;
+	border-bottom: 1px solid var(--line)
+}
+
+.related ul li:last-child {
+	border-bottom: none
+}
+
+.related ul li a {
+	color: var(--acc-deep);
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 14.5px
+}
+
+.related ul li a:hover {
+	text-decoration: underline
+}
+
+.qlist {
+	list-style: none;
+	margin: 18px 0;
+	padding: 0
+}
+
+.qlist li {
+	margin-bottom: 11px
+}
+
+.qlist li a {
+	display: block;
 	background: #fff;
 	border: 1px solid var(--line);
-	border-left: 4px solid var(--gold);
-	border-radius: 14px;
-	padding: 22px 20px 18px;
-	position: relative
+	border-left: 4px solid var(--acc);
+	border-radius: 12px;
+	padding: 16px 20px;
+	text-decoration: none;
+	color: var(--ink-dark);
+	font-weight: 700;
+	font-size: 16px;
+	transition: transform .12s
 }
 
-.scope .item .n {
-	position: absolute;
-	top: -13px;
-	left: 18px;
-	background: var(--gold);
-	color: #fff;
-	width: 30px;
-	height: 30px;
-	border-radius: 50%;
+.qlist li a:hover {
+	transform: translateX(3px)
+}
+
+.qlist li a span {
+	display: block;
+	font-size: 13px;
+	color: var(--ink-soft);
+	font-weight: 500;
+	margin-top: 4px
+}
+
+.qlist li a.blinkit {
+	border-left-color: #B8860B
+}
+
+.qlist li a.insta {
+	border-left-color: #1560E8
+}
+
+.grouphdr {
+	font-family: 'Fraunces', serif;
+	font-weight: 600;
+	font-size: 19px;
+	color: var(--ink-dark);
+	margin: 28px 0 12px;
 	display: flex;
 	align-items: center;
-	justify-content: center;
-	font-family: 'Fraunces', serif;
-	font-weight: 600;
-	font-size: 15px
+	gap: 9px
 }
 
-.scope .item h4 {
-	margin: 6px 0 8px;
-	font-size: 16.5px;
+.grouphdr .pill {
+	font-size: 11px;
 	font-weight: 800;
-	color: var(--ink-dark);
-	line-height: 1.25
+	text-transform: uppercase;
+	letter-spacing: .06em;
+	padding: 4px 12px;
+	border-radius: 50px
 }
 
-.scope .item p {
-	margin: 0;
-	font-size: 14.5px;
-	line-height: 1.55;
-	color: var(--ink-soft)
-}
-/* PICK 2-col */
-.pick {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	gap: 18px;
-	margin: 24px 0
+.grouphdr .pill.b {
+	background: #FBF1D8;
+	color: #8a6a0b
 }
 
-.pick .opt {
-	background: #fff;
-	border: 1px solid var(--line);
-	border-radius: 16px;
-	padding: 24px;
-	border-top: 5px solid var(--gold)
+.grouphdr .pill.i {
+	background: #E8F0FF;
+	color: #0D47C4
 }
 
-.pick .opt.alt {
-	border-top-color: var(--amber)
-}
-
-.pick .opt h4 {
-	margin: 0 0 14px;
-	font-family: 'Fraunces', serif;
-	font-weight: 600;
-	font-size: 20px;
-	color: var(--ink-dark)
-}
-
-.pick .opt ul li::before {
-	background: var(--gold)
-}
-
-.pick .opt.alt ul li::before {
-	background: var(--amber)
-}
-/* pay note */
-.pay-note {
-	margin: 22px 0;
-	padding: 18px 22px;
-	border-radius: 14px;
+.wa-cta {
 	background: var(--leaf);
 	border: 1px solid var(--leaf-line);
-	display: flex;
-	align-items: center;
-	gap: 14px
-}
-
-.pay-note .ic {
-	font-size: 24px;
-	flex: none
-}
-
-.pay-note .txt {
-	font-size: 15.5px;
-	color: var(--ink-dark);
-	line-height: 1.5
-}
-/* value/guarantee card (replaces price card) */
-.guarantee {
-	margin: 44px 0;
-	padding: 40px 34px;
-	border-radius: 24px;
-	background: linear-gradient(135deg, var(--ink-dark) 0%, #3a301c 100%);
-	color: #fff;
-	text-align: center;
-	position: relative;
-	overflow: hidden;
-	box-shadow: 0 24px 60px -22px rgba(39, 33, 20, .55)
-}
-
-.guarantee::before {
-	content: "";
-	position: absolute;
-	top: -80px;
-	right: -80px;
-	width: 260px;
-	height: 260px;
-	background: rgba(246, 203, 70, .14);
-	border-radius: 50%
-}
-
-.guarantee::after {
-	content: "";
-	position: absolute;
-	bottom: -100px;
-	left: -100px;
-	width: 280px;
-	height: 280px;
-	background: rgba(201, 138, 31, .10);
-	border-radius: 50%
-}
-
-.guarantee>* {
-	position: relative;
-	z-index: 1
-}
-
-.guarantee .tag {
-	display: inline-block;
-	background: rgba(255, 255, 255, .12);
-	padding: 7px 18px;
-	border-radius: 50px;
-	font-size: 12px;
-	font-weight: 800;
-	letter-spacing: .12em;
-	text-transform: uppercase;
-	color: var(--yellow);
-	margin-bottom: 16px;
-	border: 1px solid rgba(255, 255, 255, .18)
-}
-
-.guarantee h3 {
-	font-family: 'Fraunces', serif;
-	font-weight: 600;
-	font-size: 30px;
-	color: #fff;
-	margin-bottom: 12px
-}
-
-.guarantee p.g-sub {
-	font-size: 16px;
-	color: #e6dcc2;
-	max-width: 560px;
-	margin: 0 auto 24px
-}
-
-.badges {
-	display: flex;
-	justify-content: center;
-	gap: 14px;
-	flex-wrap: wrap;
-	margin: 22px 0 26px
-}
-
-.bdg {
-	background: rgba(255, 255, 255, .08);
-	border: 1px solid rgba(255, 255, 255, .16);
-	border-radius: 12px;
-	padding: 14px 20px;
-	min-width: 180px;
-	text-align: left
-}
-
-.bdg strong {
-	display: block;
-	color: #fff;
-	font-size: 14px;
-	margin-bottom: 3px;
-	font-weight: 800
-}
-
-.bdg span {
-	font-size: 13px;
-	color: #cbbf9f;
-	line-height: 1.4
-}
-
-.g-btn {
-	display: inline-flex;
-	align-items: center;
-	gap: 11px;
-	background: var(--wa);
-	color: #fff;
-	text-decoration: none;
-	font-weight: 800;
-	font-size: 17px;
-	padding: 16px 32px;
-	border-radius: 50px;
-	box-shadow: 0 10px 26px rgba(37, 211, 102, .4);
-	transition: transform .15s
-}
-
-.g-btn:hover {
-	transform: translateY(-2px)
-}
-
-.g-btn svg {
-	width: 24px;
-	height: 24px
-}
-/* WA CTA */
-.wa-cta {
-	background: #fff;
-	border: 1px solid var(--line);
-	border-radius: 18px;
-	padding: 26px 28px;
-	margin: 30px 0;
+	border-radius: 16px;
+	padding: 24px;
+	margin: 28px 0;
 	text-align: center
-}
-
-.wa-cta.big {
-	background: var(--leaf);
-	border-color: var(--leaf-line)
 }
 
 .wa-cta .kick {
 	font-family: 'Fraunces', serif;
 	font-weight: 600;
-	font-size: 20px;
+	font-size: 18px;
 	color: var(--ink-dark);
 	margin-bottom: 6px
 }
 
 .wa-cta .sub {
-	font-size: 15px;
+	font-size: 14px;
 	color: var(--ink-soft);
-	margin-bottom: 16px
+	margin-bottom: 14px
 }
 
 .wa-btn {
 	display: inline-flex;
 	align-items: center;
-	gap: 10px;
+	gap: 9px;
 	background: var(--wa);
 	color: #fff;
 	text-decoration: none;
 	font-weight: 800;
-	font-size: 16px;
-	padding: 14px 28px;
+	font-size: 15.5px;
+	padding: 13px 26px;
 	border-radius: 50px;
-	box-shadow: 0 8px 22px rgba(37, 211, 102, .35);
-	transition: transform .15s
-}
-
-.wa-btn:hover {
-	transform: translateY(-2px)
+	box-shadow: 0 8px 22px rgba(37, 211, 102, .35)
 }
 
 .wa-btn svg {
-	width: 22px;
-	height: 22px
-}
-/* FAQ */
-.faq {
-	margin: 20px 0
+	width: 20px;
+	height: 20px
 }
 
-.faq details {
-	background: #fff;
-	border: 1px solid var(--line);
-	border-radius: 12px;
-	margin-bottom: 10px;
-	overflow: hidden
-}
-
-.faq summary {
-	cursor: pointer;
-	padding: 16px 20px;
-	font-weight: 700;
-	color: var(--ink-dark);
-	font-size: 16px;
-	list-style: none;
-	position: relative;
-	padding-right: 44px
-}
-
-.faq summary::-webkit-details-marker {
-	display: none
-}
-
-.faq summary::after {
-	content: "+";
-	position: absolute;
-	right: 20px;
-	top: 14px;
-	font-size: 22px;
-	color: var(--gold);
-	font-weight: 700
-}
-
-.faq details[open] summary::after {
-	content: "\2212"
-}
-
-.faq .ans {
-	padding: 0 20px 16px;
-	color: var(--ink-soft);
-	font-size: 15px;
-	line-height: 1.6
-}
-/* contact */
 .contact-card {
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
-	gap: 14px;
+	gap: 12px;
 	margin: 22px 0
 }
 
 .contact-card .item {
 	background: #fff;
 	border: 1px solid var(--line);
-	border-left: 4px solid var(--gold);
-	border-radius: 14px;
-	padding: 20px
+	border-left: 4px solid var(--acc);
+	border-radius: 12px;
+	padding: 16px
 }
 
 .contact-card .item strong {
 	display: block;
-	font-size: 12px;
+	font-size: 11px;
 	text-transform: uppercase;
-	letter-spacing: .08em;
-	color: var(--gold);
+	letter-spacing: .06em;
+	color: var(--acc-deep);
 	font-weight: 800;
-	margin-bottom: 6px
+	margin-bottom: 5px
 }
 
 .contact-card .item span {
-	font-size: 14.5px;
+	font-size: 13.5px;
 	color: var(--ink);
-	line-height: 1.55;
+	line-height: 1.5;
 	display: block
 }
 
@@ -745,44 +488,6 @@ table tbody tr:nth-child(even) td {
 	font-weight: 700
 }
 
-.contact-card .item a:hover {
-	text-decoration: underline
-}
-/* closer */
-.closer {
-	background: linear-gradient(135deg, #FFFBED, #FDF3D9);
-	border: 1px solid var(--leaf-line);
-	border-radius: 20px;
-	padding: 34px 30px;
-	margin: 36px 0
-}
-
-.closer h2 {
-	margin-top: 0
-}
-/* footer */
-footer {
-	background: var(--ink-dark);
-	color: #cbbf9f;
-	padding: 36px 0 30px;
-	text-align: center;
-	margin-top: 30px
-}
-
-footer .logo-chip {
-	margin-bottom: 10px
-}
-
-footer .footer-logo {
-	width: 120px;
-	height: 32px
-}
-
-footer p {
-	font-size: 14px;
-	margin: 0
-}
-/* floating WA */
 .float {
 	position: fixed;
 	right: 18px;
@@ -806,118 +511,109 @@ footer p {
 	height: 22px
 }
 
-.float .lbl {
-	display: inline
-}
-/* breadcrumb */
-.crumb {
-	font-size: 13px;
-	color: var(--ink-soft);
-	margin-bottom: 18px
-}
-
-.crumb a {
-	color: var(--gold);
-	text-decoration: none;
-	font-weight: 600
-}
-
-.crumb a:hover {
-	text-decoration: underline
-}
-
-.crumb span.sep {
-	margin: 0 7px;
-	color: #c9bfa8
-}
-/* TOC quick-nav */
-.toc {
-	background: #fff;
-	border: 1px solid var(--line);
-	border-radius: 16px;
-	padding: 22px 24px;
-	margin: 26px 0
-}
-
-.toc h4 {
-	font-family: 'Fraunces', serif;
-	font-weight: 600;
-	font-size: 17px;
-	color: var(--ink-dark);
-	margin-bottom: 12px
-}
-
-.toc ul {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	gap: 6px 20px;
-	margin: 0;
-	padding: 0;
-	list-style: none
-}
-
-.toc ul li {
-	padding-left: 0;
-	margin-bottom: 0
-}
-
-.toc ul li::before {
-	display: none
-}
-
-.toc ul li a {
-	color: var(--gold);
-	text-decoration: none;
-	font-weight: 600;
-	font-size: 14.5px
-}
-
-.toc ul li a:hover {
-	text-decoration: underline
-}
-/* cities grid */
-.cities {
-	display: flex;
-	flex-wrap: wrap;
-	gap: 10px;
-	margin: 20px 0
-}
-
-.cities .city {
-	background: #fff;
-	border: 1px solid var(--leaf-line);
-	color: var(--ink-dark);
-	font-weight: 700;
-	font-size: 14.5px;
-	padding: 9px 18px;
-	border-radius: 50px
-}
-
-.cities a.city {
-	text-decoration: none;
-	transition: transform .12s, background .12s
-}
-
-.cities a.city:hover {
-	background: var(--yellow);
-	transform: translateY(-1px)
-}
-
 @media ( max-width :720px) {
-	.perks, .scope, .pick, .contact-card {
+	.contact-card {
 		grid-template-columns: 1fr
-	}
-	.stats-grid {
-		grid-template-columns: 1fr 1fr;
-		gap: 16px 0
-	}
-	.stat:nth-child(2) {
-		border-right: none
 	}
 	.float .lbl {
 		display: none
 	}
-	.toc ul {
-		grid-template-columns: 1fr
-	}
 }
+</style>
+</head>
+<body>
+<jsp:include page="../../includes/navbar/navbar.jsp" />
+
+	<header class="hero">
+		<div class="wrap">
+		
+			<h1>What Documents Are Needed for Swiggy Instamart?</h1>
+		</div>
+	</header>
+	<div class="wrap">
+		<article>
+			<div class="answer-box">
+				<div class="tag">Quick Answer</div>
+				<p>
+					To supply on Swiggy Instamart you need a <strong>GST-registered
+						business, PAN, business registration, a cancelled cheque,
+						authorised signatory details, GS1-registered barcodes</strong>, and an <strong>FSSAI
+						licence</strong> for food. For multi-city supply, each dark-store state
+					must be added to your GST (APOB).
+				</p>
+			</div>
+			<p>A valid GSTIN is mandatory, and the business name must match
+				exactly across GST, PAN, and bank records &mdash; mismatches are the
+				most common reason applications stall.</p>
+			<p>Instamart&rsquo;s supply model also adds requirements
+				marketplace sellers often overlook, most notably GS1 barcodes for
+				every SKU and FSSAI details printed clearly on the pack with
+				sufficient validity. IARDO audits your documentation against
+				Instamart&rsquo;s exact checklist at the start, so nothing surfaces
+				late to reset the clock.</p>
+			<div class="wa-cta">
+				<p class="kick">Have a specific question about your brand?</p>
+				<p class="sub">Message IARDO &mdash; we&rsquo;ll answer and help
+					you onboard.</p>
+				<a class="wa-btn"
+					href="https://wa.me/919310194865?text=Hi%20IARDO%2C%20I%20have%20a%20question%20about%20Swiggy%20Instamart%20onboarding%3A%20What%20Documents%20Are%20Needed%20for%20Swiggy%20Instamart%3F"><svg
+						viewBox="0 0 24 24" fill="#fff" aria-hidden="true">
+						<path
+							d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" /></svg>Ask
+					on WhatsApp</a>
+			</div>
+			<div class="related">
+				<h4>Related Questions</h4>
+				<ul>
+					<li><a
+						href="https://iardo.in/answers/how-long-does-swiggy-instamart-onboarding-take/">How
+							Long Does Swiggy Instamart Onboarding Take?</a></li>
+					<li><a
+						href="https://iardo.in/answers/how-much-does-swiggy-instamart-onboarding-cost/">How
+							Much Does Swiggy Instamart Onboarding Cost?</a></li>
+					<li><a
+						href="https://iardo.in/answers/what-is-npi-in-swiggy-instamart-onboarding/">What
+							Is NPI in Swiggy Instamart Onboarding?</a></li>
+				</ul>
+			</div>
+			<div class="related">
+				<h4>Read More</h4>
+				<ul>
+					<li><a
+						href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-services/">Swiggy
+							Instamart Onboarding Services (full guide)</a></li>
+					<li><a
+						href="https://iardo.in/blog/swiggy-instamart-seller-documents">Documents
+							Required to Sell on Swiggy Instamart</a></li>
+					<li><a href="https://iardo.in/answers/">All Answers</a></li>
+				</ul>
+			</div>
+			<h2>Contact IARDO</h2>
+			<div class="contact-card">
+				<div class="item">
+					<strong>Head Office</strong><span>714-715, 7th Floor, Amba
+						Tower,<br>DC Chowk, Sec-9, Rohini,<br>Delhi 110085
+					</span>
+				</div>
+				<div class="item">
+					<strong>Call / WhatsApp</strong><span><a
+						href="tel:+919310194865">+91 93101 94865</a></span>
+				</div>
+				<div class="item">
+					<strong>Email &amp; Web</strong><span><a
+						href="mailto:info@iardo.in">info@iardo.in</a><br>
+					<a href="https://iardo.in">www.iardo.in</a></span>
+				</div>
+			</div>
+		</article>
+	</div>
+	<a class="float"
+		href="https://wa.me/919310194865?text=Hi%20IARDO%2C%20I%20have%20a%20question%20about%20Swiggy%20Instamart%20onboarding%3A%20What%20Documents%20Are%20Needed%20for%20Swiggy%20Instamart%3F"
+		aria-label="Chat on WhatsApp"><svg viewBox="0 0 24 24" fill="#fff"
+			aria-hidden="true">
+			<path
+				d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" /></svg><span
+		class="lbl">Chat on WhatsApp</span></a>
+		<jsp:include page="../../includes/footer/footer.jsp" />
+</body>
+</html>

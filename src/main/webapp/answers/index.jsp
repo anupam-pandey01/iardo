@@ -1,119 +1,46 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html lang="en-IN">
 <head>
-        <link rel="icon" type="image/webp" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Blinkit Seller Questions Answered — Onboarding, Cost,
-	Documents | IARDO</title>
+<title>Quick-Commerce Seller Questions Answered — Blinkit &amp;
+	Swiggy Instamart | IARDO</title>
 <meta name="description"
-	content="Quick answers to the most common Blinkit seller questions — onboarding time, cost, commission, documents and refunds. By IARDO.">
+	content="Quick answers to common Blinkit and Swiggy Instamart seller questions — onboarding time, cost, commission, documents, NPI and refunds. By IARDO.">
 <meta name="keywords"
-	content="Blinkit seller questions, Blinkit onboarding FAQ, how long does Blinkit onboarding take, Blinkit commission, Blinkit documents, Blinkit onboarding cost">
+	content="Blinkit seller questions, Swiggy Instamart seller questions, quick commerce onboarding FAQ, Blinkit commission, Instamart NPI, Blinkit documents, Instamart onboarding cost">
 <meta name="author" content="IARDO">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <link rel="alternate" hreflang="en-in" href="${pageContext.request.contextPath}/answers/">
 <link rel="canonical" href="${pageContext.request.contextPath}/answers/">
 <meta property="og:title"
-	content="Blinkit Seller Questions Answered — Onboarding, Cost, Documents | IARDO">
+	content="Quick-Commerce Seller Questions Answered | IARDO">
 <meta property="og:description"
-	content="Quick answers to the most common Blinkit seller questions — onboarding time, cost, commission, documents and refunds. By IARDO.">
-<meta property="og:type" content="article">
+	content="Answers to common Blinkit and Swiggy Instamart seller questions.">
+<meta property="og:type" content="website">
 <meta property="og:url" content="${pageContext.request.contextPath}/answers/">
 <meta property="og:site_name" content="IARDO">
 <meta property="og:locale" content="en_IN">
 <meta name="twitter:card" content="summary">
-<!-- ============================================================
-     JSON-LD schema for:  https://iardo.in/answers/what-is-blinkit-commission-for-sellers/
-     FIXED: new URLs (trailing slash) + breadcrumb updated + WebSite node + speakable selector + PRICE/NUMBERS removed.
-     Paste this whole <script> block inside the page's <head>.
-     NOTE: the speakable cssSelector ".answer-box" must match the element that wraps the quick answer on the page.
-     ============================================================ -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://iardo.in#org",
+      "@id": "${pageContext.request.contextPath}#org",
       "name": "IARDO",
-      "url": "https://iardo.in",
+      "url": "${pageContext.request.contextPath}",
       "telephone": "+919310194865",
-      "email": "info@iardo.in",
-      "foundingDate": "2016",
-      "founder": { "@type": "Person", "name": "Manish Madan" },
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "714-715, 7th Floor, Amba Tower, DC Chowk, Sector-9",
-        "addressLocality": "Rohini",
-        "addressRegion": "Delhi",
-        "postalCode": "110085",
-        "addressCountry": "IN"
-      }
+      "email": "info@iardo.in"
     },
     {
-      "@type": "WebSite",
-      "@id": "https://iardo.in#website",
-      "url": "https://iardo.in",
-      "name": "IARDO",
-      "publisher": { "@id": "https://iardo.in#org" }
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/",
-      "url": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/",
-      "name": "What Is Blinkit's Commission for Sellers?",
-      "inLanguage": "en-IN",
-      "datePublished": "2026-06-16T13:09:00+05:30",
-      "dateModified": "2026-07-08T10:00:00+05:30",
-      "isPartOf": { "@id": "https://iardo.in#website" },
-      "speakable": {
-        "@type": "SpeakableSpecification",
-        "cssSelector": [ ".answer-box" ]
-      }
-    },
-    {
-      "@type": "QAPage",
-      "@id": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/#qa",
-      "mainEntity": {
-        "@type": "Question",
-        "name": "What Is Blinkit's Commission for Sellers?",
-        "text": "What Is Blinkit's Commission for Sellers?",
-        "answerCount": 1,
-        "dateCreated": "2026-06-16T13:09:00+05:30",
-        "author": { "@id": "https://iardo.in#org" },
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Blinkit's commission is set by the platform and is slab-based, varying by product category and price point — everyday low-priced items sit at the lower end, while premium categories are higher. On top of commission, sellers also pay platform fulfilment and storage charges, and GST on platform fees, so the all-in cost of selling is meaningfully more than commission alone. Because the exact slabs and fees depend on your category and are confirmed during onboarding, IARDO works out the complete, current cost for your specific SKUs so you can price every product to stay profitable.",
-          "url": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/",
-          "dateCreated": "2026-07-08T10:00:00+05:30",
-          "upvoteCount": 0,
-          "author": { "@id": "https://iardo.in#org" }
-        }
-      }
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is Blinkit's commission the same for every category?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Commission is slab-based and varies by category and price point. The exact slab for your products is confirmed during onboarding."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are there fees beyond commission on Blinkit?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. Sellers also pay platform fulfilment and storage charges, optional marketing, and GST on platform fees, all of which add to the effective cost of selling. IARDO helps you factor the full cost into your pricing."
-          }
-        }
-      ]
+      "@type": "CollectionPage",
+      "@id": "${pageContext.request.contextPath}/answers/#page",
+      "url": "${pageContext.request.contextPath}/answers/",
+      "name": "Quick-Commerce Seller Questions Answered",
+      "description": "Quick answers to the most common Blinkit and Swiggy Instamart seller questions \u2014 onboarding time, cost, commission, documents, NPI and refunds."
     },
     {
       "@type": "BreadcrumbList",
@@ -122,19 +49,106 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://iardo.in"
+          "item": "${pageContext.request.contextPath}"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Answers",
-          "item": "https://iardo.in/answers/"
+          "item": "${pageContext.request.contextPath}/answers/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How long does Blinkit onboarding take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Typically 2 weeks to 2 months (~60 working days)."
+          }
         },
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "What Is Blinkit's Commission for Sellers?",
-          "item": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/"
+          "@type": "Question",
+          "name": "How much does Blinkit onboarding cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Commission, fulfilment, storage & GST once live."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Blinkit onboarding fee refundable?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "With IARDO, yes \u2014 100% refundable if not live."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What documents are needed for Blinkit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GST, PAN, cancelled cheque, FSSAI, trademark, DSC."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is Blinkit's commission for sellers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A category-based slab, plus fulfilment, storage & GST."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How Long Does Swiggy Instamart Onboarding Take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a well-prepared brand, Swiggy Instamart onboarding typically takes around six to eight weeks from registration to going live. Brands with incomplete documents or a non-compliant catalogue can take two to four months."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How Much Does Swiggy Instamart Onboarding Cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Swiggy Instamart does not charge a fee simply to register as a supplier. Costs arise once you are live and selling \u2014 through a category-based commission, inwarding and storage charges, GST on platform fees, and a promotional investment to build early visibility."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What Is NPI in Swiggy Instamart Onboarding?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "NPI stands for New Product Introduction. It is Instamart's process of individually reviewing and approving each SKU before it can go live \u2014 covering title format, image specifications, GS1 barcodes, HSN codes, MRP matching, and FSSAI compliance on packaging."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What Documents Are Needed for Swiggy Instamart?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "To supply on Swiggy Instamart you need a GST-registered business, PAN, business registration, a cancelled cheque, authorised signatory details, GS1-registered barcodes, and an FSSAI licence for food. For multi-city supply, each dark-store state must be added to your GST (APOB)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What Is Swiggy Instamart's Commission for Sellers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Swiggy Instamart charges a category-based commission that varies by product type and is agreed with the Category Manager during onboarding \u2014 alongside inwarding charges, storage fees, and GST on platform fees."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Swiggy Instamart Onboarding Fee Refundable?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "With IARDO, yes \u2014 the onboarding engagement is fully refundable if your account does not go live on Swiggy Instamart. This removes the risk from getting started."
+          }
         }
       ]
     }
@@ -148,16 +162,16 @@
 	rel="stylesheet">
 <style>
 :root {
-	--gold: #B8860B;
-	--ink-dark: #272114;
-	--yellow: #F6CB46;
-	--cream: #f7f4ec;
-	--ink: #221d16;
-	--ink-soft: #5c554a;
-	--line: #e7e0d2;
+	--acc: #1560E8;
+	--acc-deep: #0D47C4;
+	--ink-dark: #101a2e;
+	--cream: #F5F8FF;
+	--ink: #151b28;
+	--ink-soft: #535d70;
+	--line: #dbe6f6;
 	--wa: #25d366;
-	--leaf: #FFF8D9;
-	--leaf-line: #F6CB46
+	--leaf: #E8F0FF;
+	--leaf-line: #C2D8FF
 }
 
 * {
@@ -196,9 +210,9 @@ body {
 }
 
 .hero {
-	background: linear-gradient(160deg, #FFFBED, #FDF6E3);
+	background: linear-gradient(160deg, #EEF4FF, #DFEAFF);
 	border-bottom: 1px solid var(--line);
-	padding: 200px 0 36px
+	padding: 150px 0 36px
 }
 
 .hero .hero-logo {
@@ -214,7 +228,7 @@ body {
 }
 
 .crumb a {
-	color: var(--gold);
+	color: var(--acc-deep);
 	text-decoration: none;
 	font-weight: 600
 }
@@ -225,22 +239,22 @@ body {
 
 .crumb span.sep {
 	margin: 0 7px;
-	color: #c9bfa8
+	color: #b6c4db
 }
 
 .eyebrow {
 	display: inline-flex;
 	align-items: center;
 	gap: 9px;
-	background: rgba(184, 134, 11, .12);
-	color: var(--gold);
+	background: rgba(21, 96, 232, .12);
+	color: var(--acc-deep);
 	font-size: 12px;
 	font-weight: 800;
 	letter-spacing: .07em;
 	text-transform: uppercase;
 	padding: 6px 15px;
 	border-radius: 50px;
-	border: 1px solid rgba(184, 134, 11, .28);
+	border: 1px solid rgba(21, 96, 232, .28);
 	margin-bottom: 16px
 }
 
@@ -249,7 +263,7 @@ body {
 	width: 7px;
 	height: 7px;
 	border-radius: 50%;
-	background: var(--gold)
+	background: var(--acc)
 }
 
 .hero h1 {
@@ -268,7 +282,7 @@ article {
 .answer-box {
 	background: #fff;
 	border: 1px solid var(--leaf-line);
-	border-left: 5px solid var(--gold);
+	border-left: 5px solid var(--acc);
 	border-radius: 14px;
 	padding: 22px 24px;
 	margin-bottom: 24px
@@ -278,7 +292,7 @@ article {
 	font-size: 11.5px;
 	text-transform: uppercase;
 	letter-spacing: .09em;
-	color: var(--gold);
+	color: var(--acc-deep);
 	font-weight: 800;
 	margin-bottom: 8px
 }
@@ -313,10 +327,10 @@ article h2 {
 }
 
 article a.inline {
-	color: var(--gold);
+	color: var(--acc-deep);
 	font-weight: 700;
 	text-decoration: underline;
-	text-decoration-color: rgba(184, 134, 11, .4);
+	text-decoration-color: rgba(21, 96, 232, .4);
 	text-underline-offset: 2px
 }
 
@@ -341,7 +355,7 @@ article ul li::before {
 	width: 7px;
 	height: 7px;
 	border-radius: 2px;
-	background: var(--gold);
+	background: var(--acc);
 	transform: rotate(45deg)
 }
 
@@ -377,7 +391,7 @@ article ul li::before {
 }
 
 .related ul li a {
-	color: var(--gold);
+	color: var(--acc-deep);
 	text-decoration: none;
 	font-weight: 600;
 	font-size: 14.5px
@@ -401,7 +415,7 @@ article ul li::before {
 	display: block;
 	background: #fff;
 	border: 1px solid var(--line);
-	border-left: 4px solid var(--gold);
+	border-left: 4px solid var(--acc);
 	border-radius: 12px;
 	padding: 16px 20px;
 	text-decoration: none;
@@ -421,6 +435,44 @@ article ul li::before {
 	color: var(--ink-soft);
 	font-weight: 500;
 	margin-top: 4px
+}
+
+.qlist li a.blinkit {
+	border-left-color: #B8860B
+}
+
+.qlist li a.insta {
+	border-left-color: #1560E8
+}
+
+.grouphdr {
+	font-family: 'Fraunces', serif;
+	font-weight: 600;
+	font-size: 19px;
+	color: var(--ink-dark);
+	margin: 28px 0 12px;
+	display: flex;
+	align-items: center;
+	gap: 9px
+}
+
+.grouphdr .pill {
+	font-size: 11px;
+	font-weight: 800;
+	text-transform: uppercase;
+	letter-spacing: .06em;
+	padding: 4px 12px;
+	border-radius: 50px
+}
+
+.grouphdr .pill.b {
+	background: #FBF1D8;
+	color: #8a6a0b
+}
+
+.grouphdr .pill.i {
+	background: #E8F0FF;
+	color: #0D47C4
 }
 
 .wa-cta {
@@ -475,7 +527,7 @@ article ul li::before {
 .contact-card .item {
 	background: #fff;
 	border: 1px solid var(--line);
-	border-left: 4px solid var(--gold);
+	border-left: 4px solid var(--acc);
 	border-radius: 12px;
 	padding: 16px
 }
@@ -485,7 +537,7 @@ article ul li::before {
 	font-size: 11px;
 	text-transform: uppercase;
 	letter-spacing: .06em;
-	color: var(--gold);
+	color: var(--acc-deep);
 	font-weight: 800;
 	margin-bottom: 5px
 }
@@ -537,67 +589,113 @@ article ul li::before {
 </style>
 </head>
 <body>
-	<jsp:include page="../includes/navbar/navbar.jsp" />
+    <jsp:include page="../includes/navbar/navbar.jsp" />
+    
 	<header class="hero">
 		<div class="wrap">
-			<h1>Blinkit Seller Questions &mdash; Answered</h1>
+			
+			<h1>Quick-Commerce Seller Questions &mdash; Answered</h1>
 		</div>
 	</header>
 	<div class="wrap">
 		<article>
-			<p style="font-size: 19px; color: #221d16; margin-bottom: 6px">Quick,
-				clear answers to the questions brands ask most before selling on
-				Blinkit. Tap any question to read the full answer.</p>
+			<p style="font-size: 19px; color: #151b28; margin-bottom: 6px">Clear
+				answers to the questions brands ask most before selling on
+				quick-commerce platforms. Tap any question to read the full answer.</p>
+
+			<div class="grouphdr">
+				<span class="pill b">Blinkit</span> Blinkit Onboarding
+			</div>
 			<ul class="qlist">
-				<li><a
+				<li><a class="blinkit"
 					href="${pageContext.request.contextPath}/answers/how-long-does-blinkit-onboarding-take/">How
 						long does Blinkit onboarding take?<span>Typically 2 weeks
 							to 2 months (~60 working days).</span>
 				</a></li>
-				<li><a
+				<li><a class="blinkit"
 					href="${pageContext.request.contextPath}/answers/how-much-does-blinkit-onboarding-cost/">How
-						much does Blinkit onboarding cost?<span>Commission +
-							fulfilment + storage + GST ≈ 25&ndash;30% of selling price.</span>
+						much does Blinkit onboarding cost?<span>Commission,
+							fulfilment, storage & GST once live.</span>
 				</a></li>
-				<li><a
+				<li><a class="blinkit"
 					href="${pageContext.request.contextPath}/answers/is-blinkit-onboarding-fee-refundable/">Is
 						the Blinkit onboarding fee refundable?<span>With IARDO, yes
-							&mdash; 100% refundable if your account does not go live.</span>
+							— 100% refundable if not live.</span>
 				</a></li>
-				<li><a
+				<li><a class="blinkit"
 					href="${pageContext.request.contextPath}/answers/what-documents-needed-for-blinkit/">What
 						documents are needed for Blinkit?<span>GST, PAN, cancelled
 							cheque, FSSAI, trademark, DSC.</span>
 				</a></li>
-				<li><a
+				<li><a class="blinkit"
 					href="${pageContext.request.contextPath}/answers/what-is-blinkit-commission-for-sellers/">What
 						is Blinkit's commission for sellers?<span>A category-based
-							slab, plus fulfilment, storage and GST.</span>
+							slab, plus fulfilment, storage & GST.</span>
 				</a></li>
 			</ul>
+
+			<div class="grouphdr">
+				<span class="pill i">Instamart</span> Swiggy Instamart Onboarding
+			</div>
+			<ul class="qlist">
+				<li><a class="insta"
+					href="${pageContext.request.contextPath}/answers/how-long-does-swiggy-instamart-onboarding-take/">How
+						Long Does Swiggy Instamart Onboarding Take?<span>For a
+							well-prepared brand, Swiggy Instamart onboarding typically takes
+							around six to eight...</span>
+				</a></li>
+				<li><a class="insta"
+					href="${pageContext.request.contextPath}/answers/how-much-does-swiggy-instamart-onboarding-cost/">How
+						Much Does Swiggy Instamart Onboarding Cost?<span>Swiggy
+							Instamart does not charge a fee simply to register as a supplier.
+							Costs arise once ...</span>
+				</a></li>
+				<li><a class="insta"
+					href="${pageContext.request.contextPath}/answers/what-is-npi-in-swiggy-instamart-onboarding/">What
+						Is NPI in Swiggy Instamart Onboarding?<span>NPI stands for
+							New Product Introduction. It is Instamart's process of
+							individually reviewi...</span>
+				</a></li>
+				<li><a class="insta"
+					href="${pageContext.request.contextPath}/answers/what-documents-needed-for-swiggy-instamart/">What
+						Documents Are Needed for Swiggy Instamart?<span>To supply
+							on Swiggy Instamart you need a GST-registered business, PAN,
+							business registrati...</span>
+				</a></li>
+				<li><a class="insta"
+					href="${pageContext.request.contextPath}/answers/what-is-swiggy-instamart-commission-for-sellers/">What
+						Is Swiggy Instamart's Commission for Sellers?<span>Swiggy
+							Instamart charges a category-based commission that varies by
+							product type and is ag...</span>
+				</a></li>
+				<li><a class="insta"
+					href="${pageContext.request.contextPath}/answers/is-swiggy-instamart-onboarding-fee-refundable/">Is
+						the Swiggy Instamart Onboarding Fee Refundable?<span>With
+							IARDO, yes — the onboarding engagement is fully refundable if
+							your account does not g...</span>
+				</a></li>
+			</ul>
+
 			<div class="wa-cta">
 				<p class="kick">Question not listed here?</p>
 				<p class="sub">Ask IARDO directly &mdash; we&rsquo;ll answer and
-					help you onboard on Blinkit.</p>
+					help you onboard.</p>
 				<a class="wa-btn"
-					href="https://wa.me/919310194865?text=Hi%20IARDO%2C%20I%20have%20some%20questions%20about%20selling%20on%20Blinkit."><svg
+					href="https://wa.me/919310194865?text=Hi%20IARDO%2C%20I%20have%20some%20questions%20about%20selling%20on%20quick%20commerce."><svg
 						viewBox="0 0 24 24" fill="#fff" aria-hidden="true">
 						<path
 							d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" /></svg>Ask
 					on WhatsApp</a>
 			</div>
 			<div class="related">
-				<h4>Read More</h4>
+				<h4>Full Guides</h4>
 				<ul>
 					<li><a
+						href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/">Swiggy
+							Instamart Onboarding Services</a></li>
+					<li><a
 						href="${pageContext.request.contextPath}/services/quick-commerce/blinkit-onboarding-services/">Blinkit
-							Onboarding Services (full guide)</a></li>
-					<li><a href="${pageContext.request.contextPath}/blog/how-to-sell-on-blinkit">How
-							to Sell on Blinkit</a></li>
-					<li><a href="${pageContext.request.contextPath}/blog/blinkit-commission-charges">Blinkit
-							Commission &amp; Charges</a></li>
-					<li><a href="${pageContext.request.contextPath}/blog/blinkit-seller-documents">Documents
-							Required</a></li>
+							Onboarding Services</a></li>
 				</ul>
 			</div>
 			<h2>Contact IARDO</h2>
@@ -614,18 +712,18 @@ article ul li::before {
 				<div class="item">
 					<strong>Email &amp; Web</strong><span><a
 						href="mailto:info@iardo.in">info@iardo.in</a><br>
-					<a href="https://iardo.in">www.iardo.in</a></span>
+					<a href="${pageContext.request.contextPath}">www.iardo.in</a></span>
 				</div>
 			</div>
 		</article>
 	</div>
 	<a class="float"
-		href="https://wa.me/919310194865?text=Hi%20IARDO%2C%20I%20have%20some%20questions%20about%20selling%20on%20Blinkit."
+		href="https://wa.me/919310194865?text=Hi%20IARDO%2C%20I%20have%20some%20questions%20about%20selling%20on%20quick%20commerce."
 		aria-label="Chat on WhatsApp"><svg viewBox="0 0 24 24" fill="#fff"
 			aria-hidden="true">
 			<path
 				d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" /></svg><span
 		class="lbl">Chat on WhatsApp</span></a>
+		<jsp:include page="../includes/footer/footer.jsp" />
 </body>
-<jsp:include page="../includes/footer/footer.jsp" />
 </html>
