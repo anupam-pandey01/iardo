@@ -28,7 +28,7 @@
 <meta property="og:site_name" content="IARDO">
 <meta property="og:locale" content="en_IN">
 <meta name="twitter:card" content="summary">
-<script type="application/ld+json">
+ <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -38,31 +38,79 @@
       "name": "IARDO",
       "url": "https://iardo.in",
       "telephone": "+919310194865",
-      "email": "info@iardo.in"
+      "email": "info@iardo.in",
+      "foundingDate": "2016",
+      "founder": { "@type": "Person", "name": "Manish Madan" },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "714-715, 7th Floor, Amba Tower, DC Chowk, Sector-9",
+        "addressLocality": "Rohini",
+        "addressRegion": "Delhi",
+        "postalCode": "110085",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iardo.in#website",
+      "url": "https://iardo.in",
+      "name": "IARDO",
+      "publisher": { "@id": "https://iardo.in#org" }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/",
+      "url": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/",
+      "name": "What Is Blinkit's Commission for Sellers?",
+      "inLanguage": "en-IN",
+      "datePublished": "2026-06-16T13:09:00+05:30",
+      "dateModified": "2026-07-08T10:00:00+05:30",
+      "isPartOf": { "@id": "https://iardo.in#website" },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [ ".answer-box" ]
+      }
     },
     {
       "@type": "QAPage",
-      "@id": "${pageContext.request.contextPath}/answers/what-is-blinkit-commission-for-sellers/#qa",
+      "@id": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/#qa",
       "mainEntity": {
         "@type": "Question",
         "name": "What Is Blinkit's Commission for Sellers?",
         "text": "What Is Blinkit's Commission for Sellers?",
         "answerCount": 1,
-        "author": {
-          "@type": "Organization",
-          "name": "IARDO"
-        },
+        "dateCreated": "2026-06-16T13:09:00+05:30",
+        "author": { "@id": "https://iardo.in#org" },
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Blinkit charges a category-based commission that varies by product type \u2014 agreed with the Category Manager during onboarding \u2014 alongside fulfilment fees, storage, and 18% GST on platform fees.",
-          "url": "${pageContext.request.contextPath}/answers/what-is-blinkit-commission-for-sellers/",
-          "author": {
-            "@type": "Organization",
-            "name": "IARDO",
-            "url": "https://iardo.in"
-          }
+          "text": "Blinkit's commission is set by the platform and is slab-based, varying by product category and price point — everyday low-priced items sit at the lower end, while premium categories are higher. On top of commission, sellers also pay platform fulfilment and storage charges, and GST on platform fees, so the all-in cost of selling is meaningfully more than commission alone. Because the exact slabs and fees depend on your category and are confirmed during onboarding, IARDO works out the complete, current cost for your specific SKUs so you can price every product to stay profitable.",
+          "url": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/",
+          "dateCreated": "2026-07-08T10:00:00+05:30",
+          "upvoteCount": 0,
+          "author": { "@id": "https://iardo.in#org" }
         }
       }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is Blinkit's commission the same for every category?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Commission is slab-based and varies by category and price point. The exact slab for your products is confirmed during onboarding."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there fees beyond commission on Blinkit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Sellers also pay platform fulfilment and storage charges, optional marketing, and GST on platform fees, all of which add to the effective cost of selling. IARDO helps you factor the full cost into your pricing."
+          }
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -77,13 +125,13 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Answers",
-          "item": "${pageContext.request.contextPath}/answers/"
+          "item": "https://iardo.in/answers/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "What Is Blinkit's Commission for Sellers?",
-          "item": "${pageContext.request.contextPath}/answers/what-is-blinkit-commission-for-sellers/"
+          "item": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/"
         }
       ]
     }
@@ -562,8 +610,8 @@ article ul li::before {
 				</div>
 				<div class="item">
 					<strong>Email &amp; Web</strong><span><a
-						href="mailto:info@iardo.in">info@iardo.in</a><br>
-					<a href="https://iardo.in">www.iardo.in</a></span>
+						href="mailto:info@iardo.in">info@iardo.in</a><br> <a
+						href="https://iardo.in">www.iardo.in</a></span>
 				</div>
 			</div>
 		</article>

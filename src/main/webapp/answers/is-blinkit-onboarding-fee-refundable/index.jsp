@@ -1,8 +1,10 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en-IN">
 <head>
-        <link rel="icon" type="image/webp" href="https://iardo.pages.dev/logo_iardo_wbg.webp">
+<link rel="icon" type="image/webp"
+	href="https://iardo.pages.dev/logo_iardo_wbg.webp">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Is the Blinkit Onboarding Fee Refundable? | IARDO</title>
@@ -26,14 +28,6 @@
 <meta property="og:site_name" content="IARDO">
 <meta property="og:locale" content="en_IN">
 <meta name="twitter:card" content="summary">
-<script type="application/ld+json">
-<!-- ============================================================
-     JSON-LD schema for:  https://iardo.in/answers/is-blinkit-onboarding-fee-refundable/
-     FIXED: new URLs (trailing slash) + breadcrumb updated + WebSite node added + speakable selector.
-     (No price figure in this one — the refund-guarantee answer is fine as-is.)
-     Paste this whole <script> block inside the page's <head>.
-     NOTE: the speakable cssSelector ".answer-box" must match the element that wraps the quick answer on the page.
-     ============================================================ -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -543,7 +537,7 @@ article ul li::before {
 	<jsp:include page="../../includes/navbar/navbar.jsp" />
 	<header class="hero">
 		<div class="wrap">
-		  	<h1>Is the Blinkit Onboarding Fee Refundable?</h1>
+			<h1>Is the Blinkit Onboarding Fee Refundable?</h1>
 		</div>
 	</header>
 	<div class="wrap">
@@ -596,10 +590,11 @@ article ul li::before {
 					<li><a
 						href="${pageContext.request.contextPath}/services/quick-commerce/blinkit-onboarding-services/">Blinkit
 							Onboarding Services (full guide)</a></li>
-					<li><a href="${pageContext.request.contextPath}/blog/how-to-sell-on-blinkit">How
+					<li><a
+						href="${pageContext.request.contextPath}/blog/how-to-sell-on-blinkit">How
 							to Sell on Blinkit</a></li>
-					<li><a href="${pageContext.request.contextPath}/answers/">All Blinkit
-							Answers</a></li>
+					<li><a href="${pageContext.request.contextPath}/answers/">All
+							Blinkit Answers</a></li>
 				</ul>
 			</div>
 			<h2>Contact IARDO</h2>
@@ -615,8 +610,8 @@ article ul li::before {
 				</div>
 				<div class="item">
 					<strong>Email &amp; Web</strong><span><a
-						href="mailto:info@iardo.in">info@iardo.in</a><br>
-					<a href="https://iardo.in">www.iardo.in</a></span>
+						href="mailto:info@iardo.in">info@iardo.in</a><br> <a
+						href="https://iardo.in">www.iardo.in</a></span>
 				</div>
 			</div>
 		</article>
