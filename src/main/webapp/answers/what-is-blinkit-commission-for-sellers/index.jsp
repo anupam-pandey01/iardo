@@ -35,7 +35,20 @@
       "name": "IARDO",
       "url": "https://iardo.in",
       "telephone": "+919310194865",
-      "email": "info@iardo.in"
+      "email": "info@iardo.in",
+      "foundingDate": "2016",
+      "founder": {
+        "@type": "Person",
+        "name": "Manish Madan"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "714-715, 7th Floor, Amba Tower, DC Chowk, Sector-9",
+        "addressLocality": "Rohini",
+        "addressRegion": "Delhi",
+        "postalCode": "110085",
+        "addressCountry": "IN"
+      }
     },
     {
       "@type": "WebSite",
@@ -48,19 +61,19 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/#webpage",
+      "@id": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/",
       "url": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/",
-      "name": "What Is Blinkit's Commission for Sellers? | IARDO",
+      "name": "What Is Blinkit's Commission for Sellers?",
       "inLanguage": "en-IN",
+      "datePublished": "2026-06-16T13:09:00+05:30",
+      "dateModified": "2026-07-09T10:00:00+05:30",
       "isPartOf": {
         "@id": "https://iardo.in#website"
       },
-      "datePublished": "2026-07-08",
-      "dateModified": "2026-07-09",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
-          ".answer-box"
+          ".direct-answer"
         ]
       }
     },
@@ -72,26 +85,49 @@
         "name": "What Is Blinkit's Commission for Sellers?",
         "text": "What Is Blinkit's Commission for Sellers?",
         "answerCount": 1,
+        "datePublished": "2026-06-16T13:09:00+05:30",
+        "upvoteCount": 0,
         "author": {
           "@type": "Organization",
+          "@id": "https://iardo.in#org",
           "name": "IARDO",
           "url": "https://iardo.in"
         },
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Blinkit charges a category-based commission that varies by product type \u2014 agreed with the Category Manager during onboarding \u2014 alongside fulfilment fees, storage, and 18% GST on platform fees.",
+          "text": "Blinkit commission is variable and slab-based \u2014 roughly 2% on low-priced items, rising to about 8-15% for most categories, and up to ~18% for premium categories. On top of commission, sellers also pay a per-unit fulfilment fee (around Rs 30-50), storage charges, and optional marketing spends, plus 18% GST on platform fees. Altogether, the effective cost of selling often reaches roughly 25-30% of selling price.",
           "url": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/",
+          "datePublished": "2026-06-16T13:09:00+05:30",
+          "upvoteCount": 0,
           "author": {
             "@type": "Organization",
+            "@id": "https://iardo.in#org",
             "name": "IARDO",
             "url": "https://iardo.in"
-          },
-          "datePublished": "2026-07-08T10:00:00+05:30",
-          "upvoteCount": 0
-        },
-        "datePublished": "2026-07-08T10:00:00+05:30",
-        "upvoteCount": 0
+          }
+        }
       }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is Blinkit's commission the same for every category?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Commission is slab-based and varies by category and price point, typically 2% on low-priced items up to ~18% for premium categories."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there fees beyond commission on Blinkit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes \u2014 per-unit fulfilment fees (~Rs 30-50), storage charges, optional marketing, and 18% GST on platform fees all add to the effective cost of selling."
+          }
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -100,7 +136,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://iardo.in"
+          "item": "https://iardo.in/"
         },
         {
           "@type": "ListItem",

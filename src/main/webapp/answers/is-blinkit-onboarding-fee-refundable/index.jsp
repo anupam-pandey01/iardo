@@ -35,7 +35,20 @@
       "name": "IARDO",
       "url": "https://iardo.in",
       "telephone": "+919310194865",
-      "email": "info@iardo.in"
+      "email": "info@iardo.in",
+      "foundingDate": "2016",
+      "founder": {
+        "@type": "Person",
+        "name": "Manish Madan"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "714-715, 7th Floor, Amba Tower, DC Chowk, Sector-9",
+        "addressLocality": "Rohini",
+        "addressRegion": "Delhi",
+        "postalCode": "110085",
+        "addressCountry": "IN"
+      }
     },
     {
       "@type": "WebSite",
@@ -48,19 +61,19 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable/#webpage",
+      "@id": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable/",
       "url": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable/",
-      "name": "Is the Blinkit Onboarding Fee Refundable? | IARDO",
+      "name": "Is the Blinkit Onboarding Fee Refundable?",
       "inLanguage": "en-IN",
+      "datePublished": "2026-06-17T10:47:00+05:30",
+      "dateModified": "2026-07-09T10:00:00+05:30",
       "isPartOf": {
         "@id": "https://iardo.in#website"
       },
-      "datePublished": "2026-07-08",
-      "dateModified": "2026-07-09",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
-          ".answer-box"
+          ".direct-answer"
         ]
       }
     },
@@ -72,26 +85,49 @@
         "name": "Is the Blinkit Onboarding Fee Refundable?",
         "text": "Is the Blinkit Onboarding Fee Refundable?",
         "answerCount": 1,
+        "datePublished": "2026-06-17T10:47:00+05:30",
+        "upvoteCount": 0,
         "author": {
           "@type": "Organization",
+          "@id": "https://iardo.in#org",
           "name": "IARDO",
           "url": "https://iardo.in"
         },
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "With IARDO, yes \u2014 the onboarding engagement is 100% refundable if your account does not go live on Blinkit. This removes the risk from getting started.",
+          "text": "Yes. IARDO's Blinkit onboarding fee is fully refundable if your seller account does not go live on Blinkit. The fee is one-time, includes lifetime registration validity, and IARDO stands behind the outcome \u2014 if onboarding doesn't result in a live account, you get your money back.",
           "url": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable/",
+          "datePublished": "2026-06-17T10:47:00+05:30",
+          "upvoteCount": 0,
           "author": {
             "@type": "Organization",
+            "@id": "https://iardo.in#org",
             "name": "IARDO",
             "url": "https://iardo.in"
-          },
-          "datePublished": "2026-07-08T10:00:00+05:30",
-          "upvoteCount": 0
-        },
-        "datePublished": "2026-07-08T10:00:00+05:30",
-        "upvoteCount": 0
+          }
+        }
       }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Does the refund cover Blinkit's own fees too?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The refund guarantee applies to IARDO's onboarding service fee. It does not apply to any third-party charges unrelated to the onboarding outcome."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I know if I qualify for a refund?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If your account does not go live after IARDO completes the onboarding process, you qualify. Contact IARDO directly to process it."
+          }
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -100,7 +136,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://iardo.in"
+          "item": "https://iardo.in/"
         },
         {
           "@type": "ListItem",

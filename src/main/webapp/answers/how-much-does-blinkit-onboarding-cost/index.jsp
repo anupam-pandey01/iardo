@@ -1,4 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en-IN">
 <head>
@@ -35,7 +36,20 @@
       "name": "IARDO",
       "url": "https://iardo.in",
       "telephone": "+919310194865",
-      "email": "info@iardo.in"
+      "email": "info@iardo.in",
+      "foundingDate": "2016",
+      "founder": {
+        "@type": "Person",
+        "name": "Manish Madan"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "714-715, 7th Floor, Amba Tower, DC Chowk, Sector-9",
+        "addressLocality": "Rohini",
+        "addressRegion": "Delhi",
+        "postalCode": "110085",
+        "addressCountry": "IN"
+      }
     },
     {
       "@type": "WebSite",
@@ -48,19 +62,19 @@
     },
     {
       "@type": "WebPage",
-      "@id": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost/#webpage",
+      "@id": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost/",
       "url": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost/",
-      "name": "How Much Does Blinkit Onboarding Cost? | IARDO",
+      "name": "How Much Does Blinkit Onboarding Cost?",
       "inLanguage": "en-IN",
+      "datePublished": "2026-06-18T15:32:00+05:30",
+      "dateModified": "2026-07-09T10:00:00+05:30",
       "isPartOf": {
         "@id": "https://iardo.in#website"
       },
-      "datePublished": "2026-07-08",
-      "dateModified": "2026-07-09",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
-          ".answer-box"
+          ".direct-answer"
         ]
       }
     },
@@ -72,26 +86,49 @@
         "name": "How Much Does Blinkit Onboarding Cost?",
         "text": "How Much Does Blinkit Onboarding Cost?",
         "answerCount": 1,
+        "datePublished": "2026-06-18T15:32:00+05:30",
+        "upvoteCount": 0,
         "author": {
           "@type": "Organization",
+          "@id": "https://iardo.in#org",
           "name": "IARDO",
           "url": "https://iardo.in"
         },
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "The cost of selling on Blinkit comes from category commission, fulfilment fees, storage, and 18% GST on platform fees \u2014 together commonly landing around 25\u201330% of selling price. Blinkit itself does not charge a registration fee to become a seller.",
+          "text": "IARDO's Blinkit onboarding service costs Rs 20,000 plus 18% GST (Rs 23,600 total). This is a one-time fee that includes lifetime registration validity and is fully refundable if your Blinkit seller account doesn't go live. This covers the onboarding service fee \u2014 separately, Blinkit charges its own commission (roughly 8-15%, slab-based) plus fulfilment and storage fees once you start selling.",
           "url": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost/",
+          "datePublished": "2026-06-18T15:32:00+05:30",
+          "upvoteCount": 0,
           "author": {
             "@type": "Organization",
+            "@id": "https://iardo.in#org",
             "name": "IARDO",
             "url": "https://iardo.in"
-          },
-          "datePublished": "2026-07-08T10:00:00+05:30",
-          "upvoteCount": 0
-        },
-        "datePublished": "2026-07-08T10:00:00+05:30",
-        "upvoteCount": 0
+          }
+        }
       }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is there a separate fee for each product category?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No \u2014 IARDO's Rs 20,000 + GST onboarding fee is flat, regardless of category or number of SKUs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the onboarding fee include Blinkit's ongoing commission?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. The onboarding fee is separate, one-time, and covers getting your account live. Blinkit's commission and fulfilment fees apply afterward, on every sale."
+          }
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -100,7 +137,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://iardo.in"
+          "item": "https://iardo.in/"
         },
         {
           "@type": "ListItem",
@@ -515,11 +552,11 @@ article ul li::before {
 </style>
 </head>
 <body>
-<jsp:include page="../../includes/navbar/navbar.jsp" />
+	<jsp:include page="../../includes/navbar/navbar.jsp" />
 
 	<header class="hero">
 		<div class="wrap">
-			
+
 			<h1>How Much Does Blinkit Onboarding Cost?</h1>
 		</div>
 	</header>
@@ -593,8 +630,8 @@ article ul li::before {
 				</div>
 				<div class="item">
 					<strong>Email &amp; Web</strong><span><a
-						href="mailto:info@iardo.in">info@iardo.in</a><br>
-					<a href="https://iardo.in">www.iardo.in</a></span>
+						href="mailto:info@iardo.in">info@iardo.in</a><br> <a
+						href="https://iardo.in">www.iardo.in</a></span>
 				</div>
 			</div>
 		</article>
@@ -606,6 +643,6 @@ article ul li::before {
 			<path
 				d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" /></svg><span
 		class="lbl">Chat on WhatsApp</span></a>
-		<jsp:include page="../../includes/footer/footer.jsp" />
+	<jsp:include page="../../includes/footer/footer.jsp" />
 </body>
 </html>
