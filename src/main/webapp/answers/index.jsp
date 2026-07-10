@@ -29,126 +29,137 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "${pageContext.request.contextPath}#org",
+      "@id": "https://iardo.in#org",
       "name": "IARDO",
-      "url": "${pageContext.request.contextPath}",
+      "url": "https://iardo.in",
       "telephone": "+919310194865",
-      "email": "info@iardo.in"
+      "email": "info@iardo.in",
+      "foundingDate": "2016",
+      "founder": {
+        "@type": "Person",
+        "name": "Manish Madan"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "714-715, 7th Floor, Amba Tower, DC Chowk, Sector-9",
+        "addressLocality": "Rohini",
+        "addressRegion": "Delhi",
+        "postalCode": "110085",
+        "addressCountry": "IN"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iardo.in#website",
+      "url": "https://iardo.in",
+      "name": "IARDO",
+      "publisher": {
+        "@id": "https://iardo.in#org"
+      }
     },
     {
       "@type": "CollectionPage",
-      "@id": "${pageContext.request.contextPath}/answers/#page",
-      "url": "${pageContext.request.contextPath}/answers/",
-      "name": "Quick-Commerce Seller Questions Answered",
-      "description": "Quick answers to the most common Blinkit and Swiggy Instamart seller questions \u2014 onboarding time, cost, commission, documents, NPI and refunds."
+      "@id": "https://iardo.in/answers/",
+      "url": "https://iardo.in/answers/",
+      "name": "Quick Commerce Onboarding Answers \u2014 Blinkit & Swiggy Instamart | IARDO",
+      "description": "Answers to common questions about Blinkit and Swiggy Instamart seller onboarding \u2014 timelines, costs, documents, commission and refunds.",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@id": "https://iardo.in#website"
+      },
+      "datePublished": "2026-07-08T10:00:00+05:30",
+      "dateModified": "2026-07-09T10:00:00+05:30",
+      "breadcrumb": {
+        "@id": "https://iardo.in/answers/#breadcrumb"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://iardo.in/answers/#qalist",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "How Long Does Blinkit Onboarding Take?",
+          "url": "https://iardo.in/answers/how-long-does-blinkit-onboarding-take/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "How Much Does Blinkit Onboarding Cost?",
+          "url": "https://iardo.in/answers/how-much-does-blinkit-onboarding-cost/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Is the Blinkit Onboarding Fee Refundable?",
+          "url": "https://iardo.in/answers/is-blinkit-onboarding-fee-refundable/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "What Documents Are Needed to Sell on Blinkit?",
+          "url": "https://iardo.in/answers/what-documents-needed-for-blinkit/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "What Is Blinkit's Commission for Sellers?",
+          "url": "https://iardo.in/answers/what-is-blinkit-commission-for-sellers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "How Long Does Swiggy Instamart Onboarding Take?",
+          "url": "https://iardo.in/answers/how-long-does-swiggy-instamart-onboarding-take/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "How Much Does Swiggy Instamart Onboarding Cost?",
+          "url": "https://iardo.in/answers/how-much-does-swiggy-instamart-onboarding-cost/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "What Is NPI in Swiggy Instamart Onboarding?",
+          "url": "https://iardo.in/answers/what-is-npi-in-swiggy-instamart-onboarding/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "What Documents Are Needed to Sell on Swiggy Instamart?",
+          "url": "https://iardo.in/answers/what-documents-needed-for-swiggy-instamart/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "What Is Swiggy Instamart's Commission for Sellers?",
+          "url": "https://iardo.in/answers/what-is-swiggy-instamart-commission-for-sellers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Is the Swiggy Instamart Onboarding Fee Refundable?",
+          "url": "https://iardo.in/answers/is-swiggy-instamart-onboarding-fee-refundable/"
+        }
+      ]
     },
     {
       "@type": "BreadcrumbList",
+      "@id": "https://iardo.in/answers/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "${pageContext.request.contextPath}"
+          "item": "https://iardo.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Answers",
-          "item": "${pageContext.request.contextPath}/answers/"
-        }
-      ]
-    },
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How long does Blinkit onboarding take?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Typically 2 weeks to 2 months (~60 working days)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How much does Blinkit onboarding cost?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Commission, fulfilment, storage & GST once live."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the Blinkit onboarding fee refundable?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "With IARDO, yes \u2014 100% refundable if not live."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What documents are needed for Blinkit?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "GST, PAN, cancelled cheque, FSSAI, trademark, DSC."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is Blinkit's commission for sellers?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "A category-based slab, plus fulfilment, storage & GST."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How Long Does Swiggy Instamart Onboarding Take?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "For a well-prepared brand, Swiggy Instamart onboarding typically takes around six to eight weeks from registration to going live. Brands with incomplete documents or a non-compliant catalogue can take two to four months."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How Much Does Swiggy Instamart Onboarding Cost?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Swiggy Instamart does not charge a fee simply to register as a supplier. Costs arise once you are live and selling \u2014 through a category-based commission, inwarding and storage charges, GST on platform fees, and a promotional investment to build early visibility."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What Is NPI in Swiggy Instamart Onboarding?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "NPI stands for New Product Introduction. It is Instamart's process of individually reviewing and approving each SKU before it can go live \u2014 covering title format, image specifications, GS1 barcodes, HSN codes, MRP matching, and FSSAI compliance on packaging."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What Documents Are Needed for Swiggy Instamart?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "To supply on Swiggy Instamart you need a GST-registered business, PAN, business registration, a cancelled cheque, authorised signatory details, GS1-registered barcodes, and an FSSAI licence for food. For multi-city supply, each dark-store state must be added to your GST (APOB)."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What Is Swiggy Instamart's Commission for Sellers?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Swiggy Instamart charges a category-based commission that varies by product type and is agreed with the Category Manager during onboarding \u2014 alongside inwarding charges, storage fees, and GST on platform fees."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is the Swiggy Instamart Onboarding Fee Refundable?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "With IARDO, yes \u2014 the onboarding engagement is fully refundable if your account does not go live on Swiggy Instamart. This removes the risk from getting started."
-          }
+          "item": "https://iardo.in/answers/"
         }
       ]
     }
