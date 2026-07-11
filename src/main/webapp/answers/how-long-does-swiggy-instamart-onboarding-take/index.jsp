@@ -39,6 +39,33 @@
       "email": "info@iardo.in"
     },
     {
+      "@type": "WebSite",
+      "@id": "https://iardo.in#website",
+      "url": "https://iardo.in",
+      "name": "IARDO",
+      "publisher": {
+        "@id": "https://iardo.in#org"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://iardo.in/answers/how-long-does-swiggy-instamart-onboarding-take/#webpage",
+      "url": "https://iardo.in/answers/how-long-does-swiggy-instamart-onboarding-take/",
+      "name": "How Long Does Swiggy Instamart Onboarding Take? | IARDO",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@id": "https://iardo.in#website"
+      },
+      "datePublished": "2026-07-08",
+      "dateModified": "2026-07-09T10:00:00+05:30",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".answer-box"
+        ]
+      }
+    },
+    {
       "@type": "QAPage",
       "@id": "https://iardo.in/answers/how-long-does-swiggy-instamart-onboarding-take/#qa",
       "mainEntity": {
@@ -48,7 +75,8 @@
         "answerCount": 1,
         "author": {
           "@type": "Organization",
-          "name": "IARDO"
+          "name": "IARDO",
+          "url": "https://iardo.in"
         },
         "acceptedAnswer": {
           "@type": "Answer",
@@ -58,8 +86,12 @@
             "@type": "Organization",
             "name": "IARDO",
             "url": "https://iardo.in"
-          }
-        }
+          },
+          "datePublished": "2026-07-08T10:00:00+05:30",
+          "upvoteCount": 0
+        },
+        "datePublished": "2026-07-08T10:00:00+05:30",
+        "upvoteCount": 0
       }
     },
     {
@@ -69,7 +101,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://iardo.in"
+          "item": "https://iardo.in/"
         },
         {
           "@type": "ListItem",
