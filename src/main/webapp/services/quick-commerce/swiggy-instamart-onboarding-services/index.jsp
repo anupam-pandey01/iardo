@@ -16,16 +16,16 @@
 <meta name="geo.region" content="IN-DL">
 <meta name="geo.placename" content="Rohini, Delhi, India">
 <link rel="alternate" hreflang="en-in"
-	href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/">
+	href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-services/">
 <link rel="canonical"
-	href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/">
+	href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-services/">
 <meta property="og:title"
 	content="Swiggy Instamart Onboarding Services in India | IARDO">
 <meta property="og:description"
 	content="End-to-end Swiggy Instamart onboarding across PAN India — supplier registration, NPI catalogue, and go-live. Fully refundable if not live.">
 <meta property="og:type" content="website">
 <meta property="og:url"
-	content="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/">
+	content="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-services/">
 <meta property="og:site_name" content="IARDO">
 <meta property="og:locale" content="en_IN">
 <meta name="twitter:card" content="summary_large_image">
@@ -35,9 +35,9 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "${pageContext.request.contextPath}#org",
+      "@id": "https://iardo.in#org",
       "name": "IARDO",
-      "url": "${pageContext.request.contextPath}",
+      "url": "https://iardo.in",
       "telephone": "+919310194865",
       "email": "info@iardo.in",
       "foundingDate": "2016",
@@ -57,34 +57,43 @@
       "areaServed": "IN"
     },
     {
+      "@type": "WebSite",
+      "@id": "https://iardo.in#website",
+      "url": "https://iardo.in",
+      "name": "IARDO",
+      "publisher": {
+        "@id": "https://iardo.in#org"
+      }
+    },
+    {
       "@type": "WebPage",
-      "@id": "${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/#webpage",
-      "url": "${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/",
+      "@id": "https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-services/#webpage",
+      "url": "https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-services/",
       "name": "Swiggy Instamart Onboarding Services in India | IARDO",
       "description": "IARDO is a leading Swiggy Instamart onboarding agency in India \u2014 supplier registration, documents, NPI catalogue, and go-live handled end-to-end, PAN India.",
       "inLanguage": "en-IN",
       "isPartOf": {
-        "@id": "${pageContext.request.contextPath}#org"
+        "@id": "https://iardo.in#website"
       },
       "datePublished": "2026-07-08",
-      "dateModified": "2026-07-08",
+      "dateModified": "2026-07-09",
       "about": {
-        "@id": "${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/#service"
+        "@id": "https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-services/#service"
       }
     },
     {
       "@type": "Service",
-      "@id": "${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/#service",
+      "@id": "https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-services/#service",
       "name": "Swiggy Instamart Onboarding Services",
       "serviceType": "Swiggy Instamart supplier onboarding",
       "provider": {
-        "@id": "${pageContext.request.contextPath}#org"
+        "@id": "https://iardo.in#org"
       },
       "areaServed": {
         "@type": "Country",
         "name": "India"
       },
-      "url": "${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/",
+      "url": "https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-services/",
       "description": "End-to-end Swiggy Instamart onboarding across India \u2014 supplier registration, KYC, NPI catalogue creation, Category Manager coordination, and go-live. Fully refundable if your account does not go live."
     },
     {
@@ -94,19 +103,19 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "${pageContext.request.contextPath}"
+          "item": "https://iardo.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Quick Commerce",
-          "item": "${pageContext.request.contextPath}/services/quick-commerce/"
+          "item": "https://iardo.in/services/quick-commerce/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Swiggy Instamart Onboarding Services",
-          "item": "${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-services/"
+          "item": "https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-services/"
         }
       ]
     },
@@ -150,7 +159,7 @@
           "name": "What documents are needed for Swiggy Instamart?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A GST-registered business, PAN, cancelled cheque, business registration, authorised signatory details, FSSAI licence for food, GS1 barcodes, and APOB GST for multi-state supply. IARDO prepares and verifies all documentation."
+            "text": "A GST-registered business, PAN, cancelled cheque, business registration, authorised signatory details, FSSAI licence for food, and GS1 barcodes for every SKU. A valid GSTIN is mandatory for every supplier. IARDO prepares and verifies all documentation before submission."
           }
         },
         {
@@ -249,7 +258,7 @@ body {
 .hero {
 	background: linear-gradient(160deg, #EEF4FF 0%, #DFEAFF 100%);
 	border-bottom: 1px solid var(--line);
-	padding: 150px 0 46px
+	padding: 180px 0 46px
 }
 
 .hero .hero-logo {
@@ -1002,9 +1011,12 @@ table tbody tr:nth-child(even) td {
 </style>
 </head>
 <body>
-<jsp:include page="../../../includes/navbar/navbar.jsp" />
+  <jsp:include page="../../../includes/navbar/navbar.jsp" />
+  
+
 	<header class="hero">
 		<div class="wrap">
+			
 			<h1>
 				Swiggy Instamart Onboarding Services in <em>India</em>
 			</h1>
@@ -1112,6 +1124,7 @@ table tbody tr:nth-child(even) td {
 					<li><a href="#cities">Cities we serve</a></li>
 					<li><a href="#why-iardo">Why choose IARDO</a></li>
 					<li><a href="#vs-market">Instamart vs marketplaces</a></li>
+					<li><a href="#glossary">Seller glossary</a></li>
 					<li><a href="#faq">FAQs</a></li>
 				</ul>
 			</div>
@@ -1268,8 +1281,9 @@ table tbody tr:nth-child(even) td {
 			</h2>
 			<p>Getting your documents clean and consistent upfront is the
 				single biggest factor in how fast you go live. A valid GSTIN is
-				mandatory, and the business name must match across all records. For
-				multi-city supply, each dark-store state must be added to your GST.</p>
+				mandatory, and the business name must match across all records. A
+				valid GSTIN is mandatory for every supplier &mdash; there is no
+				exemption by category or turnover.</p>
 			<p>Beyond the core paperwork, Instamart&rsquo;s supply model adds
 				a few requirements that marketplace sellers often overlook &mdash;
 				most notably GS1-registered barcodes for every SKU and, for food and
@@ -1289,8 +1303,8 @@ table tbody tr:nth-child(even) td {
 					</thead>
 					<tbody>
 						<tr>
-							<td>GST Certificate (GSTIN)</td>
-							<td>Mandatory</td>
+							<td><strong>GST Certificate (GSTIN)</strong></td>
+							<td><strong>Mandatory</strong></td>
 						</tr>
 						<tr>
 							<td>PAN Card (business)</td>
@@ -1317,10 +1331,6 @@ table tbody tr:nth-child(even) td {
 							<td>Mandatory (per SKU)</td>
 						</tr>
 						<tr>
-							<td>APOB GST (Multi-State Supply)</td>
-							<td>Applicable</td>
-						</tr>
-						<tr>
 							<td>Trademark / Brand Authorisation</td>
 							<td>Preferred</td>
 						</tr>
@@ -1328,9 +1338,19 @@ table tbody tr:nth-child(even) td {
 				</table>
 			</div>
 			<p>
+				<strong>GST is mandatory.</strong> A valid GSTIN is required for
+				every Swiggy Instamart supplier, with no exemption by category or
+				turnover &mdash; it is what allows you to raise compliant invoices
+				to Swiggy when it purchases your stock, and it is verified before
+				your account is approved. Keep the registration active, the
+				registered address current, and the business name identical to your
+				PAN and bank records; name mismatches are the single most common
+				reason applications stall.
+			</p>
+			<p>
 				For the complete, category-wise checklist, see our guide on the <a
 					class="inline"
-					href="${pageContext.request.contextPath}/blog/swiggy-instamart-seller-documents">documents
+					href="https://iardo.in/blog/swiggy-instamart-seller-documents">documents
 					required to sell on Swiggy Instamart</a>.
 			</p>
 
@@ -1375,7 +1395,7 @@ table tbody tr:nth-child(even) td {
 			<p>
 				Want it broken down step by step? See our full guide on <a
 					class="inline"
-					href="${pageContext.request.contextPath}/blog/how-to-sell-on-swiggy-instamart">how
+					href="https://iardo.in/blog/how-to-sell-on-swiggy-instamart">how
 					to sell on Swiggy Instamart</a>.
 			</p>
 
@@ -1491,7 +1511,7 @@ table tbody tr:nth-child(even) td {
 				price every SKU with the full cost factored in &mdash; before you go
 				live, not after &mdash; so your margins are protected from day one.
 				For a general overview, see our guide on <a class="inline"
-					href="${pageContext.request.contextPath}/blog/swiggy-instamart-commission-charges">Swiggy
+					href="https://iardo.in/blog/swiggy-instamart-commission-charges">Swiggy
 					Instamart commission and charges</a>.
 			</p>
 			<p>The reason we keep the specifics to a consultation is simple:
@@ -1630,51 +1650,51 @@ table tbody tr:nth-child(even) td {
 				India, in every major metro and tier-1 city, including:</p>
 			<div class="cities">
 				<a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/delhi/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/delhi/">Swiggy
 					Instamart Onboarding Delhi</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/mumbai/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/mumbai/">Swiggy
 					Instamart Onboarding Mumbai</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/bangalore/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/bangalore/">Swiggy
 					Instamart Onboarding Bangalore</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/hyderabad/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/hyderabad/">Swiggy
 					Instamart Onboarding Hyderabad</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/pune/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/pune/">Swiggy
 					Instamart Onboarding Pune</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/chennai/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/chennai/">Swiggy
 					Instamart Onboarding Chennai</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/kolkata/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/kolkata/">Swiggy
 					Instamart Onboarding Kolkata</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/ahmedabad/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/ahmedabad/">Swiggy
 					Instamart Onboarding Ahmedabad</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/gurgaon/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/gurgaon/">Swiggy
 					Instamart Onboarding Gurgaon</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/noida/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/noida/">Swiggy
 					Instamart Onboarding Noida</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/jaipur/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/jaipur/">Swiggy
 					Instamart Onboarding Jaipur</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/chandigarh/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/chandigarh/">Swiggy
 					Instamart Onboarding Chandigarh</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/lucknow/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/lucknow/">Swiggy
 					Instamart Onboarding Lucknow</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/surat/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/surat/">Swiggy
 					Instamart Onboarding Surat</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/indore/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/indore/">Swiggy
 					Instamart Onboarding Indore</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/nagpur/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/nagpur/">Swiggy
 					Instamart Onboarding Nagpur</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/coimbatore/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/coimbatore/">Swiggy
 					Instamart Onboarding Coimbatore</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/kochi/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/kochi/">Swiggy
 					Instamart Onboarding Kochi</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/vadodara/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/vadodara/">Swiggy
 					Instamart Onboarding Vadodara</a> <a class="city"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/ghaziabad/">Swiggy
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/ghaziabad/">Swiggy
 					Instamart Onboarding Ghaziabad</a>
 			</div>
 			<p>
 				Based in Rohini, Delhi, we coordinate onboarding and inventory
 				across regions. <a class="inline"
-					href="${pageContext.request.contextPath}/services/quick-commerce/swiggy-instamart-onboarding-cities/">&rarr;
+					href="https://iardo.in/services/quick-commerce/swiggy-instamart-onboarding-cities/">&rarr;
 					View all cities we serve</a>.
 			</p>
 
@@ -1836,12 +1856,47 @@ table tbody tr:nth-child(even) td {
 				are strong quick-commerce channels with slightly different audiences
 				and models, and most winning brands eventually supply to both. See
 				our comparison of <a class="inline"
-					href="${pageContext.request.contextPath}/blog/swiggy-instamart-vs-blinkit-seller-onboarding">Swiggy
+					href="https://iardo.in/blog/swiggy-instamart-vs-blinkit-seller-onboarding">Swiggy
 					Instamart vs Blinkit for sellers</a>, or explore our <a class="inline"
-					href="${pageContext.request.contextPath}/services/quick-commerce/blinkit-onboarding-services/">Blinkit
+					href="https://iardo.in/services/quick-commerce/blinkit-onboarding-services/">Blinkit
 					onboarding services</a>. IARDO onboards brands onto both from a single
 				point of contact.
 			</p>
+
+			<h2 id="glossary">
+				<span class="hash">#</span>Instamart Seller Glossary
+			</h2>
+			<p>Quick definitions of the terms you&rsquo;ll hear throughout
+				Swiggy Instamart onboarding:</p>
+			<ul>
+				<li><strong>NPI (New Product Introduction)</strong> &mdash;
+					Instamart&rsquo;s per-SKU catalogue review and approval process
+					before a product can go live.</li>
+				<li><strong>Dark Store</strong> &mdash; a delivery-only
+					micro-warehouse from which Instamart fulfils orders in minutes.</li>
+				<li><strong>Category Manager (CM)</strong> &mdash; the Swiggy
+					decision-maker who agrees your commercial terms, cities, and SKU
+					shortlist.</li>
+				<li><strong>GS1 Barcode</strong> &mdash; a globally registered
+					product barcode; mandatory per SKU to pass NPI.</li>
+				<li><strong>GSTIN</strong> &mdash; your GST identification
+					number; mandatory for every Instamart supplier, and the business
+					name on it must match your PAN and bank records exactly.</li>
+				<li><strong>Inwarding</strong> &mdash; the process (and
+					per-unit charge) of your stock being received into a dark store.</li>
+				<li><strong>Purchase Order (PO)</strong> &mdash; Swiggy&rsquo;s
+					order to buy your stock into its network; POs grow as your
+					sell-through proves out.</li>
+				<li><strong>Fill Rate</strong> &mdash; how completely and
+					reliably you supply against POs; a core supplier-performance
+					metric.</li>
+				<li><strong>Sell-Through</strong> &mdash; how fast your stocked
+					inventory actually sells; the number that drives reorders and
+					expansion.</li>
+				<li><strong>ROAS</strong> &mdash; Return on Ad Spend; on
+					Instamart, always measure it against net transaction value, not
+					MRP.</li>
+			</ul>
 
 			<h2 id="faq">
 				<span class="hash">#</span>Frequently Asked Questions
@@ -1883,8 +1938,9 @@ table tbody tr:nth-child(even) td {
 					<summary>What documents are needed for Swiggy Instamart?</summary>
 					<div class="ans">A GST-registered business, PAN, cancelled
 						cheque, business registration, authorised signatory details, FSSAI
-						for food, GS1 barcodes, and APOB GST for multi-state supply. IARDO
-						prepares and verifies all documentation.</div>
+						for food, and GS1 barcodes for every SKU. A valid GSTIN is
+						mandatory for every supplier. IARDO prepares and verifies all
+						documentation before submission.</div>
 				</details>
 				<details>
 					<summary>Is the onboarding fee refundable?</summary>
@@ -1926,7 +1982,7 @@ table tbody tr:nth-child(even) td {
 			</div>
 			<p>
 				For more common questions, see our <a class="inline"
-					href="${pageContext.request.contextPath}/answers/">quick-commerce answers hub</a>.
+					href="https://iardo.in/answers/">quick-commerce answers hub</a>.
 			</p>
 
 			<div class="closer">
@@ -1963,15 +2019,15 @@ table tbody tr:nth-child(even) td {
 			</h2>
 			<p>
 				Explore our Instamart resources: <a class="inline"
-					href="${pageContext.request.contextPath}/blog/how-to-sell-on-swiggy-instamart">How
+					href="https://iardo.in/blog/how-to-sell-on-swiggy-instamart">How
 					to Sell on Swiggy Instamart</a>, <a class="inline"
-					href="${pageContext.request.contextPath}/blog/swiggy-instamart-commission-charges">Instamart
+					href="https://iardo.in/blog/swiggy-instamart-commission-charges">Instamart
 					Commission &amp; Charges</a>, <a class="inline"
-					href="${pageContext.request.contextPath}/blog/swiggy-instamart-seller-documents">Documents
+					href="https://iardo.in/blog/swiggy-instamart-seller-documents">Documents
 					Required</a>, and <a class="inline"
-					href="${pageContext.request.contextPath}/blog/swiggy-instamart-vs-blinkit-seller-onboarding">Instamart
+					href="https://iardo.in/blog/swiggy-instamart-vs-blinkit-seller-onboarding">Instamart
 					vs Blinkit</a>. Have a quick question? Visit our <a class="inline"
-					href="${pageContext.request.contextPath}/answers/">answers hub</a>.
+					href="https://iardo.in/answers/">answers hub</a>.
 			</p>
 
 			<h2>
@@ -1990,7 +2046,7 @@ table tbody tr:nth-child(even) td {
 				<div class="item">
 					<strong>Email &amp; Web</strong><span><a
 						href="mailto:info@iardo.in">info@iardo.in</a><br>
-					<a href="${pageContext.request.contextPath}">www.iardo.in</a></span>
+					<a href="https://iardo.in">www.iardo.in</a></span>
 				</div>
 			</div>
 
@@ -2004,6 +2060,7 @@ table tbody tr:nth-child(even) td {
 			<path
 				d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" /></svg><span
 		class="lbl">Chat on WhatsApp</span></a>
-<jsp:include page="../../../includes/footer/footer.jsp" />
+
 </body>
+      <jsp:include page="../../../includes/footer/footer.jsp" />
 </html>

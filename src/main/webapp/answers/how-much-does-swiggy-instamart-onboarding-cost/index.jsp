@@ -553,8 +553,8 @@ article ul li::before {
 </style>
 </head>
 <body>
-     <jsp:include page="../../includes/navbar/navbar.jsp" />
-     
+      <jsp:include page="../../includes/navbar/navbar.jsp" />
+      
 	<header class="hero">
 		<div class="wrap">
 			
