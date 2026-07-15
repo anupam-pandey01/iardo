@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html lang="en-IN">
 <head>
@@ -7,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>What Documents Are Needed for Swiggy Instamart? | IARDO</title>
 <meta name="description"
-	content="What documents are needed for Swiggy Instamart? GST, PAN, business registration, cancelled cheque, GS1 barcodes, FSSAI and APOB. Full checklist by IARDO.">
+	content="What documents are needed for Swiggy Instamart? mandatory GST, PAN, business registration, cancelled cheque, GS1 barcodes and FSSAI. Full checklist by IARDO.">
 <meta name="keywords"
 	content="what documents are needed for swiggy instamart, Swiggy Instamart onboarding, Instamart supplier, sell on Instamart, Swiggy Instamart onboarding services">
 <meta name="author" content="IARDO">
@@ -19,7 +18,7 @@
 <meta property="og:title"
 	content="What Documents Are Needed for Swiggy Instamart? | IARDO">
 <meta property="og:description"
-	content="What documents are needed for Swiggy Instamart? GST, PAN, business registration, cancelled cheque, GS1 barcodes, FSSAI and APOB. Full checklist by IARDO.">
+	content="What documents are needed for Swiggy Instamart? mandatory GST, PAN, business registration, cancelled cheque, GS1 barcodes and FSSAI. Full checklist by IARDO.">
 <meta property="og:type" content="article">
 <meta property="og:url"
 	content="https://iardo.in/answers/what-documents-needed-for-swiggy-instamart/">
@@ -39,6 +38,33 @@
       "email": "info@iardo.in"
     },
     {
+      "@type": "WebSite",
+      "@id": "https://iardo.in#website",
+      "url": "https://iardo.in",
+      "name": "IARDO",
+      "publisher": {
+        "@id": "https://iardo.in#org"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://iardo.in/answers/what-documents-needed-for-swiggy-instamart/#webpage",
+      "url": "https://iardo.in/answers/what-documents-needed-for-swiggy-instamart/",
+      "name": "What Documents Are Needed for Swiggy Instamart? | IARDO",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@id": "https://iardo.in#website"
+      },
+      "datePublished": "2026-07-08",
+      "dateModified": "2026-07-09T10:00:00+05:30",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".answer-box"
+        ]
+      }
+    },
+    {
       "@type": "QAPage",
       "@id": "https://iardo.in/answers/what-documents-needed-for-swiggy-instamart/#qa",
       "mainEntity": {
@@ -48,18 +74,23 @@
         "answerCount": 1,
         "author": {
           "@type": "Organization",
-          "name": "IARDO"
+          "name": "IARDO",
+          "url": "https://iardo.in"
         },
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "To supply on Swiggy Instamart you need a GST-registered business, PAN, business registration, a cancelled cheque, authorised signatory details, GS1-registered barcodes, and an FSSAI licence for food. For multi-city supply, each dark-store state must be added to your GST (APOB).",
+          "text": "To supply on Swiggy Instamart you need a GST-registered business, PAN, business registration, a cancelled cheque, authorised signatory details, GS1-registered barcodes, and an FSSAI licence for food. A valid GSTIN is mandatory for every supplier &mdash; there is no exemption by category or turnover.",
           "url": "https://iardo.in/answers/what-documents-needed-for-swiggy-instamart/",
           "author": {
             "@type": "Organization",
             "name": "IARDO",
             "url": "https://iardo.in"
-          }
-        }
+          },
+          "datePublished": "2026-07-08T10:00:00+05:30",
+          "upvoteCount": 0
+        },
+        "datePublished": "2026-07-08T10:00:00+05:30",
+        "upvoteCount": 0
       }
     },
     {
@@ -69,7 +100,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://iardo.in"
+          "item": "https://iardo.in/"
         },
         {
           "@type": "ListItem",
@@ -522,11 +553,11 @@ article ul li::before {
 </style>
 </head>
 <body>
-<jsp:include page="../../includes/navbar/navbar.jsp" />
-
+      <jsp:include page="../../includes/navbar/navbar.jsp" />
+      
 	<header class="hero">
 		<div class="wrap">
-		
+			
 			<h1>What Documents Are Needed for Swiggy Instamart?</h1>
 		</div>
 	</header>
@@ -538,13 +569,14 @@ article ul li::before {
 					To supply on Swiggy Instamart you need a <strong>GST-registered
 						business, PAN, business registration, a cancelled cheque,
 						authorised signatory details, GS1-registered barcodes</strong>, and an <strong>FSSAI
-						licence</strong> for food. For multi-city supply, each dark-store state
-					must be added to your GST (APOB).
+						licence</strong> for food. A valid GSTIN is mandatory for every supplier
+					&mdash; there is no exemption by category or turnover.
 				</p>
 			</div>
-			<p>A valid GSTIN is mandatory, and the business name must match
-				exactly across GST, PAN, and bank records &mdash; mismatches are the
-				most common reason applications stall.</p>
+			<p>The business name must match exactly across GST, PAN, and bank
+				records &mdash; mismatches are the most common reason applications
+				stall. Keep your GST active and its registered address current
+				before you apply.</p>
 			<p>Instamart&rsquo;s supply model also adds requirements
 				marketplace sellers often overlook, most notably GS1 barcodes for
 				every SKU and FSSAI details printed clearly on the pack with
@@ -614,6 +646,6 @@ article ul li::before {
 			<path
 				d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" /></svg><span
 		class="lbl">Chat on WhatsApp</span></a>
-		<jsp:include page="../../includes/footer/footer.jsp" />
 </body>
+      <jsp:include page="../../includes/footer/footer.jsp" />
 </html>
